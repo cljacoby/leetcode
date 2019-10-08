@@ -1,6 +1,33 @@
 from typing import Callable, Optional
 from enum import Enum
 
+'''
+removal notes:
+    1. When node is leaf, simply delete node
+    2. When node has one child, replace node with child
+    3. when node has 2 children, replace node with inorder succesor
+'''
+
+'''
+inorder successor:
+- for a given input node, the in order successor is the next node inorder
+  traversal of the tree (true for all binary trees)
+- in a binary search tree, the inorder succesor is also the smallest key
+  greater than that of an input node
+'''
+
+'''
+                9
+             /     \
+            /       \
+           /         \
+        4             13
+      /  \           /    \
+    3      6       11      15
+  /  \   /  \    /   \    /   \
+1    2  5    7   10  12  14    16
+'''
+
 class BSTException(Exception):
     pass
 
@@ -16,6 +43,15 @@ class BSTVisitResponse(object):
         # self.do_right: bool = do_right
         self.stop: bool = stop 
 
+
+
+
+
+
+
+
+
+
 class BSTNode(object):
     def __init__(self, val: int):
         self.val: int = val
@@ -27,6 +63,29 @@ class BSTNode(object):
 
     def __repr__(self) -> str:
         return self.__str__()
+
+    # *********************************
+    # *** Static Utility Methods ******
+    # *********************************
+
+    @staticmethod
+    def min_value(node):
+        current = node
+        while node.left != None:
+            current = node.left
+        return current.val
+
+
+    @staticmethod
+    def max_value(node):
+        current = node
+        while node.right != None:
+            current = node.right
+        return current.val
+
+
+
+
 
 class BST(object):
     def __init__(self, val: int):
@@ -74,86 +133,17 @@ class BST(object):
             # implies val == node.val
             return True
 
-    '''
-    removal notes:
-        1. When node is leaf, simply delete node
-        2. When node has one child, replace node with child
-        3. when node has 2 children, replace node with inorder succesor
-    '''
-
-    '''
-    inorder successor:
-    - for a given input node, the in order successor is the next node inorder
-      traversal of the tree (true for all binary trees)
-    - in a binary search tree, the inorder succesor is also the smallest key
-      greater than that of an input node
-    '''
-
-    '''
-                    9
-                 /     \
-                /       \
-               /         \
-            4             13
-          /  \           /    \
-        3      6       11      15
-      /  \   /  \    /   \    /   \
-    1    2  5    7   10  12  14    16
-    '''
-
     def remove(self, val: int):
         pass
 
     def _remove(self, node: BSTNode, parent: BSTNode, val: int):
         pass
 
-    # TODO: paramaterize additional arguments to _travserse
-    def traverse(self):
-        self._traverse(self.root, lambda node: print(node))
 
-    # def _traverse(self, node: BSTNode, visit: Callable[[BSTNode], None]):
-    def _traverse(self, node: BSTNode, visit, order="inorder"):
-        if (
-            order == BSTVisitOrderEnum.preorder
-            or order == BSTVisitOrderEnum.preorder.name
-            or order == BSTVisitOrderEnum.preorder.value
-        ):
-            self._traverse_preorder(node, visit)
-        elif (
-            order == BSTVisitOrderEnum.inorder
-            or order == BSTVisitOrderEnum.inorder.name
-            or order == BSTVisitOrderEnum.inorder.value
-        ):
-            self._traverse_inorder(node, visit)
-        elif (
-            order == BSTVisitOrderEnum.postorder
-            or order == BSTVisitOrderEnum.postorder.name
-            or order == BSTVisitOrderEnum.postorder.value
-        ):
-            self._traverse_postorder(node, visit)
-        else:
-            raise BSTException("Invalid `order` kwarg")
+    def inorder_successor(self, node):
+        pass
 
-    def _traverse_preorder(self, node: BSTNode, visit):
-        visit(node)
-        if node.left != None:
-            self._traverse_preorder(node.left, visit)
-        if node.right != None:
-            self._traverse_preorder(node.right, visit)
 
-    def _traverse_inorder(self, node: BSTNode, visit):
-        if node.left != None:
-            self._traverse_inorder(node.left, visit)
-        visit(node)
-        if node.right != None:
-            self._traverse_inorder(node.right, visit)
-
-    def _traverse_postorder(self, node: BSTNode, visit):
-        if node.left != None:
-            self._traverse_postorder(node.left, visit)
-        if node.right != None:
-            self._traverse_postorder(node.right, visit)
-        visit(node)
 
 if __name__ == "__main__":
     bst = BST(1)
@@ -166,4 +156,3 @@ if __name__ == "__main__":
     print(f"bst.has(1) = `{bst.has(1)}`")
     print(f"bst.has(2) = `{bst.has(2)}`")
     print(f"bst.has(100) = `{bst.has(100)}`")
-    bst.traverse()
