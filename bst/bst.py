@@ -204,6 +204,7 @@ class BST(object):
 
     def walk(self):
         yield from self.root.walk_inorder()
+
     """
     Notes:
     * Is `depth` property 0 or 1 based index
@@ -211,96 +212,59 @@ class BST(object):
     * Mix recursion and while loop to iterate on nodes at shared heigh
     """
 
+    def _print_spaces(self, count):
+        sys.stdout.write("".join([" "] * count))
+
     def print_tree(self):
-        #self._print_tree(self.root, self.max_depth(), True) 
+        # self._print_tree(self.root, self.max_depth(), True)
         nodes = [self.root]
         depth = 0
         max_depth = self.max_depth()
         self.__print_tree(nodes, depth, max_depth)
-        
+
     def __print_tree(self, nodes, depth, max_depth):
-        pad = " "
+        if len(nodes) == None or all([ i == None for i in nodes ]):
+            return
+
+        floor = max_depth - depth
+        edge_lines = int(pow(2, max(floor - 1, 0)))
+        first_spaces = int(pow(2, floor)) - 1
+        between_spaces = int(pow(2, floor + 1)) - 1
+
+        self._print_spaces(first_spaces)
+
         next_nodes = []
         for node in nodes:
             if node != None:
+                sys.stdout.write(str(node.key))
                 next_nodes.append(node.left)
                 next_nodes.append(node.right)
             else:
+                sys.stdout.write(" ")
                 next_nodes.append(None)
                 next_nodes.append(None)
-        for node in nodes:
-            height = max_depth - node.depth
-            index = int(pow(2, height))
-            next_index = int(pow(2, height - 1))
-            first = False
-            for in_pad_count, out_pad_count in enumerate(reversed(range(next_index, index + 1))):
-                out_padding = "".join([pad] * out_pad_count)
-                in_padding = "".join([pad] * (in_pad_count * 2 - 1))
-                """
-                print("************************")
-                print(f"index = {index}")
-                print(f"next_index = {next_index}")
-                print(f"in_pad_count = {in_pad_count}")
-                print(f"out_pad_count = {out_pad_count}")
-                """
-                if first:
-                    line = out_padding + str(node.key) + out_padding 
+            self._print_spaces(between_spaces)
+        print("")
+
+        for i in range(edge_lines):
+            for node in nodes:
+                self._print_spaces(first_spaces - i)
+                if node == None:
+                    self._print_spaces((edge_lines * 2) + i + 1)
+                    continue
+                if node.left == None:
+                    self._print_spaces(1)
                 else:
-                    line = out_padding + "/" + in_padding + "\\" + out_padding 
-                sys.stdout.write(line)
-                first = False
+                    sys.stdout.write("/")
+                self._print_spaces((i * 2) - 1)
+                if node.right == None:
+                    self._print_spaces(1)
+                else:
+                    sys.stdout.write("\\")
+                self._print_spaces((edge_lines * 2) - 1)
+            print("")
+        self.__print_tree(next_nodes, depth + 1, max_depth)
 
-
-    def __print_tree(self):
-        
-        pad = " "
-        max_depth = self.max_depth()
-        queue = [self.root]
-        
-        while len(queue) > 0:
-            node = queue.pop(0)
-            height = max_depth - node.depth
-            index = int(pow(2, height))
-            next_index = int(pow(2, height - 1))
-
-
-    def _print_tree(self, node, max_depth, add_newline):
-        if node == None:
-            return
-
-        pad = " "
-        height = max_depth - node.depth
-        index = int(pow(2, height))
-        next_index = int(pow(2, height - 1))
-        first = True
-        
-        newline_slot = ""
-        if add_newline:
-            newline_slot = "\n"
-
-        # for i in range(next_index, index):
-        for in_pad_count, out_pad_count in enumerate(reversed(range(next_index, index + 1))):
-            out_padding = "".join([pad] * out_pad_count)
-            in_padding = "".join([pad] * (in_pad_count * 2 - 1))
-            
-            """
-            print("************************")
-            print(f"index = {index}")
-            print(f"next_index = {next_index}")
-            print(f"in_pad_count = {in_pad_count}")
-            print(f"out_pad_count = {out_pad_count}")
-            """
-
-            if first:
-                line = out_padding + str(node.key) + out_padding + newline_slot
-            else:
-                line = out_padding + "/" + in_padding + "\\" + out_padding + newline_slot
-            sys.stdout.write(line)
-            first = False
-
-        self._print_tree(node.left, max_depth, False)
-        right_newline = (add_newline and True)
-        self._print_tree(node.right, max_depth, right_newline)
 
 
 class BSTNode(object):
@@ -394,7 +358,7 @@ class BSTNode(object):
 
     # TODO: not finished, doesn't print laeves
     def print_leaves(self):
-        
+
         height = 1
         add_newline = True
 
@@ -403,16 +367,18 @@ class BSTNode(object):
         index = int(pow(2, height))
         next_index = int(pow(2, height - 1))
         first = True
-        
+
         newline_slot = ""
         if add_newline:
             newline_slot = "\n"
 
         # for i in range(next_index, index):
-        for in_pad_count, out_pad_count in enumerate(reversed(range(next_index, index + 1))):
+        for in_pad_count, out_pad_count in enumerate(
+            reversed(range(next_index, index + 1))
+        ):
             out_padding = "".join([pad] * out_pad_count)
             in_padding = "".join([pad] * (in_pad_count * 2 - 1))
-            
+
             """
             print("************************")
             print(f"index = {index}")
@@ -424,7 +390,9 @@ class BSTNode(object):
             if first:
                 line = out_padding + str(node.key) + out_padding + newline_slot
             else:
-                line = out_padding + "/" + in_padding + "\\" + out_padding + newline_slot
+                line = (
+                    out_padding + "/" + in_padding + "\\" + out_padding + newline_slot
+                )
             sys.stdout.write(line)
             first = False
 
@@ -484,9 +452,9 @@ if __name__ == "__main__":
     bst.insert(BSTNode(100))
     bst.insert(BSTNode(24))
     bst.insert(BSTNode(45))
-    bst.insert(BSTNode(86))    
+    bst.insert(BSTNode(86))
     for node in bst.walk():
         print(node)
 
     # bst.print_tree()
-    bst.root.print_leaves()
+    bst.print_tree()
