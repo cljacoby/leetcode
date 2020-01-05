@@ -2,9 +2,9 @@
 * **Problem Name**: Defanging an IP Address
 * **Link**: [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 * **Difficulty**: Easy 
-* **Finished**: :x:
-* **Tries to Complete**: 1,2,3, ...
-* **Time to Complete**: 10 minutes, 20 minutes, 30 minutes, ...
+* **Finished**: :white_check_mark:
+* **Tries to Complete**: 1
+* **Time to Complete**: 10 minutes
 
 ## Problem Statement
 Given a valid (IPv4) IP address, return a defanged version of that IP address.
@@ -26,5 +26,6 @@ Output: "255[.]100[.]50[.]0"
 **Constraints:**
 The given address is a valid IPv4 address.
 
-
-<!--* **Finished**: :white_check_mark: | :x: -->
+## Notes
+I imagine they want you to solve the problem with out using the `str`
+method `replace`. 
