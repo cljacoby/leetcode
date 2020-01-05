@@ -2,6 +2,7 @@
 * **Problem Name**: Two Sum
 * **Link**: [Two Sum](https://leetcode.com/problems/two-sum/)
 * **Difficulty**: Easy
+* **Finished**: :white_check_mark:
 * **Tries to Complete**: 3
 * **Time to Complete**: 25:56
 
