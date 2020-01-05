@@ -220,14 +220,15 @@ class BST(object):
         nodes = [self.root]
         depth = 0
         max_depth = self.max_depth()
-        self.__print_tree(nodes, depth, max_depth)
+        self._print_tree(nodes, depth, max_depth)
 
-    def __print_tree(self, nodes, depth, max_depth):
+    def _print_tree(self, nodes, depth, max_depth):
         if len(nodes) == None or all([ i == None for i in nodes ]):
             return
 
         floor = max_depth - depth
         edge_lines = int(pow(2, max(floor - 1, 0)))
+        # edge_lines = int(pow(2, floor - 1))
         first_spaces = int(pow(2, floor)) - 1
         between_spaces = int(pow(2, floor + 1)) - 1
 
@@ -246,7 +247,7 @@ class BST(object):
             self._print_spaces(between_spaces)
         print("")
 
-        for i in range(edge_lines):
+        for i in range(1, edge_lines):
             for node in nodes:
                 self._print_spaces(first_spaces - i)
                 if node == None:
@@ -263,7 +264,7 @@ class BST(object):
                     sys.stdout.write("\\")
                 self._print_spaces((edge_lines * 2) - 1)
             print("")
-        self.__print_tree(next_nodes, depth + 1, max_depth)
+        self._print_tree(next_nodes, depth + 1, max_depth)
 
 
 
@@ -445,7 +446,7 @@ if __name__ == "__main__":
     bst = BST()
     bst.insert(BSTNode(5))
     bst.insert(BSTNode(1))
-    bst.insert(BSTNode(-4))
+    # bst.insert(BSTNode(-4))
     bst.insert(BSTNode(4))
     bst.insert(BSTNode(1))
     bst.insert(BSTNode(0))
