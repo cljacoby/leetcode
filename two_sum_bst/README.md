@@ -2,7 +2,8 @@
 * **Problem Name**: Two Sum BST
 * **Link**: [Name](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 * **Difficulty**: Easy
-* * **Tries to Complete**: 1,2,3, ...
+* **Finished**: :x:
+* **Tries to Complete**: 1,2,3, ...
 * **Time to Complete**: 10 minutes, 20 minutes, 30 minutes, ...
 
 ## Problem Statement
