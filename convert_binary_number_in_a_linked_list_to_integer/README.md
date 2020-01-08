@@ -1,8 +1,8 @@
 ## Problem
 * **Problem Name**: Convert Binary Number in a Linked List to Integer
-* **Link**: [Name](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+* **Link**: [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 * **Difficulty**: Easy
-* **Finished**: :x: 
+* **Finished**: :white_check_mark: 
 * **Tries to Complete**: 1,2,3, ...
 * **Time to Complete**: 10 minutes, 20 minutes, 30 minutes, ...
 
@@ -47,3 +47,4 @@ Constraints:
 The Linked List is not empty.
 Number of nodes will not exceed 30.
 Each node's value is either 0 or 1.
+
