@@ -3,8 +3,8 @@
 * **Link**: [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 * **Difficulty**: Easy
 * **Finished**: :white_check_mark: 
-* **Tries to Complete**: 1,2,3, ...
-* **Time to Complete**: 10 minutes, 20 minutes, 30 minutes, ...
+* **Tries to Complete**: 1,
+* **Time to Complete**: 30 minutes
 
 ## Problem Statement
 Given head which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number.
@@ -48,3 +48,5 @@ The Linked List is not empty.
 Number of nodes will not exceed 30.
 Each node's value is either 0 or 1.
 
+## Notes:
+Overall, easy problem. I got carried away writing a bunch of test code for helper methods I created, and thinking of ways to easily convert between LinkedList and List.
