@@ -32,6 +32,8 @@ sunny 2
 day 1
 ```
 
-### Note:
 * Don't worry about handling ties, it is guaranteed that each word's frequency count is unique.
 * Could you write it in one-line using Unix pipes?
+
+### Note:
+* I learned I don't know Bash nearly as well as I thought
