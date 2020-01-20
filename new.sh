@@ -41,5 +41,6 @@ fi
 # main
 solution_dir="$PWD/$1"
 solution_file="$solution_dir/${1}.${2}"
-mkdir -p $solution_file
+mkdir $solution_dir
+touch $solution_file
 cp "./template.md" "$solution_dir/README.md" 

@@ -2,10 +2,9 @@
 * **Problem Name**: Intersection of Two Arrays
 * **Link**: [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 * **Difficulty**: Easy
-<!--* **Finished**: :white_check_mark: | :x: -->
-* **Finished**: :x: 
-* **Tries to Complete**: 1,2,3, ...
-* **Time to Complete**: 10 minutes, 20 minutes, 30 minutes, ...
+* **Finished**: :white_check_mark:
+* **Tries to Complete**: 1
+* **Time to Complete**: 20 minutes 
 
 ## Problem Statement
 Given two arrays, write a function to compute their intersection.
