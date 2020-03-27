@@ -14,8 +14,8 @@ usage: new.sh PROB_NAME EXT
 
     PROB_NAME           The name of the problem to create. Will be used
                         For the name of the directory, and the solution file.
-    EXT                 The extension of the solution file to creation. For example,
-                        '.py', or '.rs'. Pass without period.
+    EXT                 The file extension of the solution file to creation.
+                        For example, '.py', or '.rs'. Pass without period.
 END_USAGE
 }
 
