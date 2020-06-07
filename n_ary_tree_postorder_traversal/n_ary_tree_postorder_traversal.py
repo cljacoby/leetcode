@@ -17,6 +17,18 @@ class Solution:
             for child in root.children:
                 self.postorder_recr(child, arr)
         arr.append(root.val)
+    
+    def preorder(self, root): 
+        arr = []
+        if root != None:
+            self.preorder_recr(root, arr)
+        return arr
+
+    def preorder_recr(self, root, arr):
+        arr.append(root.val)
+        if root.children != None:
+            for child in root.children:
+                self.preorder_recr(child, arr)
 
     def postorder_iter(self, root):
         pass
