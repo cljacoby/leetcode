@@ -1,3 +1,4 @@
 **/target/
 **/.mypy_cach/
 **/__pycache__/
+**/.vscode/
