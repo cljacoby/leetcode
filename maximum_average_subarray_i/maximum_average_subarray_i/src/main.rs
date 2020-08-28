@@ -9,7 +9,7 @@ struct Solution {}
 
 
 impl Solution {
-    pub fn find_max_average(nums: Vec<i32>, k: i32) -> f64 {
+    pub fn _find_max_average(nums: Vec<i32>, k: i32) -> f64 {
         
         let mut i: usize = 0;
         let mut j = k as usize;
@@ -30,6 +30,40 @@ impl Solution {
 
         max_mean
     }
+
+    pub fn find_max_average(nums: Vec<i32>, k: i32) -> f64 {
+       
+        if k == 1 {
+            return nums[0] as f64;
+        }
+
+        let mut i: usize = 0;
+        let mut j = k as usize;
+        let mut win_sum = nums[i..j].iter()
+            .fold(0, |acc, x| acc + *x);
+        let mut max_mean = win_sum as f64 / k as f64;
+
+        loop {
+
+            println!("i = {:?}, j = {:?}, win_sum = {:?}, max_mean = {:?}, slice = {:?}",
+                i, j, win_sum, max_mean, &nums[i..j]);
+
+            i += 1;
+            j += 1;
+            if j == nums.len() {
+                break;
+            }
+
+            win_sum = win_sum - nums[i - 1] + nums[j];
+            let new_mean = win_sum as f64 / k as f64;
+            if new_mean > max_mean {
+                max_mean = new_mean;
+            }
+        }
+
+        max_mean
+    }
+
 }
 
 mod tests {
