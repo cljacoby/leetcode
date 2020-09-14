@@ -2,3 +2,4 @@
 **/.mypy_cach/
 **/__pycache__/
 **/.vscode/
+**/.ltc.json
