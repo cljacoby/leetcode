@@ -1,13 +1,6 @@
 struct Solution;
 type Sol=Solution;
 
-// println!("start = {:?}", start);
-// println!("len = {:?}", len);
-// println!("i = {:?}", i);
-// println!("gas[i] = {:?}", gas[i]);
-// println!("cost[i] = {:?}", cost[i]);
-// println!("sum = {:?}", sum);
-
 impl Solution {
     pub fn can_complete_circuit(gas: Vec<i32>, cost: Vec<i32>) -> i32 {
         let len = gas.len();
