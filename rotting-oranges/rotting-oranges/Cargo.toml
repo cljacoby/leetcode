@@ -1,0 +1,17 @@
+[package]
+name = "rotting-oranges"
+version = "0.1.0"
+authors = ["cljacoby <cljacoby@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "roting_oranges"
+path = "src/main.rs"
+
+
+[lib]
+name = "rotting_oranges"
+path = "src/lib.rs"
+
+[dependencies]
