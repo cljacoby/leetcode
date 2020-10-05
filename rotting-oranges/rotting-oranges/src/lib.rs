@@ -31,7 +31,7 @@ impl Solution {
             .fold(true, |acc, b| acc && b)
     }
 
-    pub fn any(grid: &Grid, state: i32) -> bool {
+    pub fn any(grid: &Grid, state: OrangeState) -> bool {
         grid.iter()
             .flatten()
             .map(|orange| *orange == state)
