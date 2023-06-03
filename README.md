@@ -1,6 +1,6 @@
 |Completed|Number|Slug                                                     |Difficulty|Category           |Week|
 |--------------------|------|---------------------------------------------------------|----------|-------------------|----|
-| :heavy_check_mark: |49    |group-anagrams                                           |Medium    |String             |0   |
+| :white_check_mark: |49    |group-anagrams                                           |Medium    |String             |0   |
 |                    |105   |construct-binary-tree-from-preorder-and-inorder-traversal|Medium    |Tree               |0   |
 |                    |200   |number-of-islands                                        |Medium    |Graph              |0   |
 |                    |55    |jump-game                                                |Medium    |Dynamic Programming|0   |
