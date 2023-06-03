@@ -1,12 +1,12 @@
 |Completed|Number|Slug                                                     |Difficulty|Category           |Week|
 |--------------------|------|---------------------------------------------------------|----------|-------------------|----|
-| :white_check_mark: |49    |group-anagrams                                           |Medium    |String             |0   |
+|                    |49    |group-anagrams                                           |Medium    |String             |0   |
 |                    |105   |construct-binary-tree-from-preorder-and-inorder-traversal|Medium    |Tree               |0   |
 |                    |200   |number-of-islands                                        |Medium    |Graph              |0   |
 |                    |55    |jump-game                                                |Medium    |Dynamic Programming|0   |
 |                    |79    |word-search                                              |Medium    |Matrix             |0   |
 |                    |572   |subtree-of-another-tree                                  |Easy      |Tree               |0   |
-|                    |70    |climbing-stairs                                          |Easy      |Dynamic Programming|0   |
+| :white_check_mark: |70    | [climbing-stairs]                                       |Easy      |Dynamic Programming|0   |
 |                    |21    |merge-two-sorted-lists                                   |Easy      |Linked List        |0   |
 |                    |191   |number-of-1-bits                                         |Easy      |Binary             |1   |
 |                    |104   |maximum-depth-of-binary-tree                             |Easy      |Tree               |1   |
