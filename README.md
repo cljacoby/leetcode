@@ -6,8 +6,8 @@
 |                    |55    |jump-game                                                |Medium    |Dynamic Programming|0   |
 |                    |79    |word-search                                              |Medium    |Matrix             |0   |
 |                    |572   |subtree-of-another-tree                                  |Easy      |Tree               |0   |
-| :white_check_mark: |70    | [climbing-stairs](climbing-stairs)                       |Easy      |Dynamic Programming|0   |
-|                    |21    |merge-two-sorted-lists                                   |Easy      |Linked List        |0   |
+| :white_check_mark: |70    | [climbing-stairs](climbing-stairs)                      |Easy      |Dynamic Programming|0   |
+| :white_check_mark: |21    | [merge-two-sorted-lists](merge-two-sorted-lists)        |Easy      |Linked List        |0   |
 |                    |191   |number-of-1-bits                                         |Easy      |Binary             |1   |
 |                    |104   |maximum-depth-of-binary-tree                             |Easy      |Tree               |1   |
 |                    |435   |non-overlapping-intervals                                |Medium    |Interval           |1   |
