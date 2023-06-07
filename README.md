@@ -3,7 +3,7 @@
 |                    |49    |group-anagrams                                           |Medium    |String             |0   |
 |                    |105   |construct-binary-tree-from-preorder-and-inorder-traversal|Medium    |Tree               |0   |
 |                    |200   |number-of-islands                                        |Medium    |Graph              |0   |
-|                    |55    |jump-game                                                |Medium    |Dynamic Programming|0   |
+| :white_check_mark: |55    | [jump-game](jump-game)                                  |Medium    |Dynamic Programming|0   |
 |                    |79    |word-search                                              |Medium    |Matrix             |0   |
 | :white_check_mark: |572   | [subtree-of-another-tree](subtree-of-another-tree)      |Easy      |Tree               |0   |
 | :white_check_mark: |70    | [climbing-stairs](climbing-stairs)                      |Easy      |Dynamic Programming|0   |
