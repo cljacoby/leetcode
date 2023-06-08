@@ -11,16 +11,6 @@ from TreeNode import TreeNode
 
 class Solution(object):
     def buildTree(self, preorder, inorder):
-        """
-        :type inorder: List[int]
-        :type inorder: List[int]
-        :rtype: TreeNode
-        """
-        print(f"preorder = {preorder}")
-        print(f"inorder = {inorder}")
-        return self._build_tree(preorder, inorder)
-
-    def _build_tree(self, preorder, inorder):
         if inorder:
             p_val = preorder.pop(0)
             i_idx = inorder.index(p_val)
