@@ -1,7 +1,7 @@
 |Completed|Number|Slug                                                     |Difficulty|Category           |Week|
 |--------------------|------|---------------------------------------------------------|----------|-------------------|----|
 |                    |49    |group-anagrams                                           |Medium    |String             |0   |
-|                    |105   |construct-binary-tree-from-preorder-and-inorder-traversal|Medium    |Tree               |0   |
+| :white_check_mark: |105   | [construct-binary-tree-from-preorder-and-inorder-traversal](construct-binary-tree-from-preorder-and-inorder-traversal) |Medium    |Tree               |0   |
 |                    |200   |number-of-islands                                        |Medium    |Graph              |0   |
 | :white_check_mark: |55    | [jump-game](jump-game)                                  |Medium    |Dynamic Programming|0   |
 |                    |79    |word-search                                              |Medium    |Matrix             |0   |

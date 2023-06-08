@@ -1,15 +1,11 @@
 # https://leetcode.com/problems/construct-binary-tree-from-inorder-and-inorder-traversal
 
-# Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-
 from TreeNode import TreeNode
 
-class Solution(object):
+
+# Needed some help from other submissions to come up with this.
+# Will retry from scratch by myself
+class Solution1(object):
     def buildTree(self, preorder, inorder):
         if inorder:
             p_val = preorder.pop(0)
@@ -17,23 +13,47 @@ class Solution(object):
             i_val = inorder[i_idx]
             root = TreeNode(i_val)
             print(f"p_val={p_val}, i_val={i_val} i_idx={i_idx}")
-            root.left = self._build_tree(preorder, inorder[:i_idx])
-            root.right = self._build_tree(preorder, inorder[i_idx+1:])
+            root.left = self.buildTree(preorder, inorder[:i_idx])
+            root.right = self.buildTree(preorder, inorder[i_idx+1:])
             return root
 
-    def _print_inorder(self, root):
-        if root.left:
-            self._print_inorder(root.left)
-        print(root.val)
-        if root.right:
-            self._print_inorder(root.right)
+# Was able to implement this mostly myself, think I have a handle on how
+# to solve this now. This solution is slightly better by looking up
+# indices from the hashmap, and using a deque to pop from the front
+import collections
+class Solution(object):
+    def buildTree(self, preorder, inorder):
+        self.preorder = collections.deque(preorder)
+        self.inorder = inorder
+        self.inorder_idx_map = { v:k for (k,v) in enumerate(self.inorder) }
+        self.last = len(self.inorder) - 1
+        return self._build_tree(0, self.last)
 
-    def _print_preorder(self, root):
-        print(root.val)
-        if root.left:
-            self._print_preorder(root.left)
-        if root.right:
-            self._print_preorder(root.right)
+    def _build_tree(self, left, right):
+        if left > right:
+            return None
+        val = self.preorder.popleft()
+        idx = self.inorder_idx_map[val]
+        root = TreeNode(val)
+        root.left = self._build_tree(left, idx-1)
+        root.right = self._build_tree(idx+1, right) 
+        return root
+
+# Validation utlitiy
+
+def print_inorder(root):
+    if root.left:
+        print_inorder(root.left)
+    print(root.val)
+    if root.right:
+        print_inorder(root.right)
+
+def print_preorder(root):
+    print(root.val)
+    if root.left:
+        print_preorder(root.left)
+    if root.right:
+        print_preorder(root.right)
         
 
 if __name__ == "__main__":
@@ -53,14 +73,10 @@ if __name__ == "__main__":
         ([3,9,20,15,7], [9,3,15,20,7]),
     ]
     for (preorder, inorder) in tests:
-        # print("*************")
-        # sol._print_inorder(root)
-        # print("*************")
-        # sol._print_preorder(root)
-
         tree = sol.buildTree(preorder, inorder)
-
-        # print(f"test={test}")
-        # assert
+        print("***** inorder *****")
+        print_inorder(tree)
+        print("***** preorder *****")
+        print_preorder(tree)
     # print("✅ All tests passed")
 
