@@ -2,7 +2,7 @@
 |--------------------|------|---------------------------------------------------------|----------|-------------------|----|
 | :white_check_mark: |49    | [group-anagrams](group-anagrams)                        |Medium    |String             |0   |
 | :white_check_mark: |105   | [construct-binary-tree-from-preorder-and-inorder-traversal](construct-binary-tree-from-preorder-and-inorder-traversal) |Medium    |Tree               |0   |
-|                    |200   |number-of-islands                                        |Medium    |Graph              |0   |
+| :white_check_mark: |200   | [number-of-islands](number-of-islands)                  |Medium    |Graph              |0   |
 | :white_check_mark: |55    | [jump-game](jump-game)                                  |Medium    |Dynamic Programming|0   |
 | :white_check_mark: |79    | [word-search](word-search)                              |Medium    |Matrix             |0   |
 | :white_check_mark: |572   | [subtree-of-another-tree](subtree-of-another-tree)      |Easy      |Tree               |0   |
