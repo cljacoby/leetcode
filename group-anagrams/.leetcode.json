@@ -1,0 +1,127 @@
+{
+  "title_slug": "group-anagrams",
+  "title": "Group Anagrams",
+  "code_snippets": [
+    {
+      "lang": "C++",
+      "langSlug": "cpp",
+      "code": "class Solution {\npublic:\n    vector<vector<string>> groupAnagrams(vector<string>& strs) {\n        \n    }\n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Java",
+      "langSlug": "java",
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python",
+      "langSlug": "python",
+      "code": "class Solution(object):\n    def groupAnagrams(self, strs):\n        \"\"\"\n        :type strs: List[str]\n        :rtype: List[List[str]]\n        \"\"\"\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python3",
+      "langSlug": "python3",
+      "code": "class Solution:\n    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C",
+      "langSlug": "c",
+      "code": "/**\n * Return an array of arrays of size *returnSize.\n * The sizes of the arrays are returned as *returnColumnSizes array.\n * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().\n */\nchar *** groupAnagrams(char ** strs, int strsSize, int* returnSize, int** returnColumnSizes){\n\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C#",
+      "langSlug": "csharp",
+      "code": "public class Solution {\n    public IList<IList<string>> GroupAnagrams(string[] strs) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "JavaScript",
+      "langSlug": "javascript",
+      "code": "/**\n * @param {string[]} strs\n * @return {string[][]}\n */\nvar groupAnagrams = function(strs) {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Ruby",
+      "langSlug": "ruby",
+      "code": "# @param {String[]} strs\n# @return {String[][]}\ndef group_anagrams(strs)\n    \nend",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Swift",
+      "langSlug": "swift",
+      "code": "class Solution {\n    func groupAnagrams(_ strs: [String]) -> [[String]] {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Go",
+      "langSlug": "golang",
+      "code": "func groupAnagrams(strs []string) [][]string {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Scala",
+      "langSlug": "scala",
+      "code": "object Solution {\n    def groupAnagrams(strs: Array[String]): List[List[String]] = {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Kotlin",
+      "langSlug": "kotlin",
+      "code": "class Solution {\n    fun groupAnagrams(strs: Array<String>): List<List<String>> {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Rust",
+      "langSlug": "rust",
+      "code": "impl Solution {\n    pub fn group_anagrams(strs: Vec<String>) -> Vec<Vec<String>> {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "PHP",
+      "langSlug": "php",
+      "code": "class Solution {\n\n    /**\n     * @param String[] $strs\n     * @return String[][]\n     */\n    function groupAnagrams($strs) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "TypeScript",
+      "langSlug": "typescript",
+      "code": "function groupAnagrams(strs: string[]): string[][] {\n\n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Racket",
+      "langSlug": "racket",
+      "code": "(define/contract (group-anagrams strs)\n  (-> (listof string?) (listof (listof string?)))\n\n  )",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Erlang",
+      "langSlug": "erlang",
+      "code": "-spec group_anagrams(Strs :: [unicode:unicode_binary()]) -> [[unicode:unicode_binary()]].\ngroup_anagrams(Strs) ->\n  .",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Elixir",
+      "langSlug": "elixir",
+      "code": "defmodule Solution do\n  @spec group_anagrams(strs :: [String.t]) :: [[String.t]]\n  def group_anagrams(strs) do\n\n  end\nend",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Dart",
+      "langSlug": "dart",
+      "code": "class Solution {\n  List<List<String>> groupAnagrams(List<String> strs) {\n\n  }\n}",
+      "__typename": "CodeSnippetNode"
+    }
+  ],
+  "content": "<p>Given an array of strings <code>strs</code>, group <strong>the anagrams</strong> together. You can return the answer in <strong>any order</strong>.</p>\n\n<p>An <strong>Anagram</strong> is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> strs = [\"eat\",\"tea\",\"tan\",\"ate\",\"nat\",\"bat\"]\n<strong>Output:</strong> [[\"bat\"],[\"nat\",\"tan\"],[\"ate\",\"eat\",\"tea\"]]\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> strs = [\"\"]\n<strong>Output:</strong> [[\"\"]]\n</pre><p><strong class=\"example\">Example 3:</strong></p>\n<pre><strong>Input:</strong> strs = [\"a\"]\n<strong>Output:</strong> [[\"a\"]]\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= strs.length &lt;= 10<sup>4</sup></code></li>\n\t<li><code>0 &lt;= strs[i].length &lt;= 100</code></li>\n\t<li><code>strs[i]</code> consists of lowercase English letters.</li>\n</ul>\n",
+  "question_id": 49,
+  "question_frontend_id": 49,
+  "difficulty": "Medium",
+  "likes": 15547,
+  "dislikes": 445,
+  "sample_test_case": "[\"eat\",\"tea\",\"tan\",\"ate\",\"nat\",\"bat\"]"
+}
