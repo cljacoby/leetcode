@@ -30,7 +30,11 @@ void print_tree(
     for (unsigned int i = 0; i < indent; i++) {
         printf("  ");
     }
-    printf("TreeNode { val: %d }\n", node->val);
+    printf("TreeNode { val: %d, L: %d, R: %d }\n",
+        node->val,
+        node->left == NULL ? 0 : 1,
+        node->right == NULL ? 0 : 1
+    );
     print_tree(node->left, indent + 1);
     print_tree(node->right, indent + 1);
 }
