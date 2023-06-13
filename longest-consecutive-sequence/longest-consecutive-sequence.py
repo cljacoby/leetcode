@@ -67,16 +67,14 @@ class Solution(object):
         while len(s) > 0:
             i = s.pop()
             streak = 1
-            j = i + 1
-            while j in s:
+            j = i
+            while (j := j + 1) in s:
                 streak += 1
                 s.remove(j)
-                j += 1
-            j = i - 1
-            while j in s:
+            j = i
+            while (j := j - 1) in s:
                 streak += 1
                 s.remove(j)
-                j -= 1
             peak = max(streak, peak)
         return peak
             
