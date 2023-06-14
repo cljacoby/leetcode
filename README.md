@@ -16,7 +16,7 @@
 | :white_check_mark: | 128    | Python   | [longest-consecutive-sequence](longest-consecutive-sequence)                                                           | Medium     | Graph               | 1    |
 | :white_check_mark: | 417    | Python/Rust | [pacific-atlantic-water-flow](pacific-atlantic-water-flow)                                                             | Medium     | Graph               | 1    |
 | :white_check_mark: | 53     | Python   | [maximum-subarray](maximum-subarray)                                                                                   | Medium     | Array               | 1    |
-|                    | 198    |          | house-robber                                                                                                           | Medium     | Dynamic Programming | 2    |
+| :white_check_mark: | 198    | Python   | [house-robber](house-robber)                                                                                           | Medium     | Dynamic Programming | 2    |
 | :white_check_mark: | 125    | Rust     | [valid-palindrome](valid-palindrome)                                                                                   | Easy       | String              | 2    |
 |                    | 647    |          | palindromic-substrings                                                                                                 | Medium     | String              | 2    |
 | :white_check_mark: | 226    | C        | [invert-binary-tree](invert-binary-tree)                                                                               | Easy       | Tree                | 2    |
