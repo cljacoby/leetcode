@@ -20,7 +20,7 @@
 | :white_check_mark: | 125    | Rust     | [valid-palindrome](valid-palindrome)                                                                                   | Easy       | String              | 2    |
 |                    | 647    |          | palindromic-substrings                                                                                                 | Medium     | String              | 2    |
 | :white_check_mark: | 226    | C        | [invert-binary-tree](invert-binary-tree)                                                                               | Easy       | Tree                | 2    |
-|                    | 39     |          | combination-sum                                                                                                        | Medium     | Dynamic Programming | 2    |
+| :white_check_mark: | 39     | Python   | [combination-sum](combination-sum)                                                                                     | Medium     | Dynamic Programming | 2    |
 |                    | 271    |          | encode-and-decode-strings                                                                                              | Medium     | String              | 2    |
 |                    | 424    |          | longest-repeating-character-replacement                                                                                | Medium     | String              | 2    |
 |                    | 3      |          | longest-substring-without-repeating-characters                                                                         | Medium     | String              | 2    |
