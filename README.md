@@ -18,7 +18,7 @@
 | :white_check_mark: | 53     | Python   | [maximum-subarray](maximum-subarray)                                                                                   | Medium     | Array               | 1    |
 | :white_check_mark: | 198    | Python   | [house-robber](house-robber)                                                                                           | Medium     | Dynamic Programming | 2    |
 | :white_check_mark: | 125    | Rust     | [valid-palindrome](valid-palindrome)                                                                                   | Easy       | String              | 2    |
-|                    | 647    |          | palindromic-substrings                                                                                                 | Medium     | String              | 2    |
+| :white_check_mark: | 647    | Python   | [palindromic-substrings](palindromic-substrings)                                                                       | Medium     | String              | 2    |
 | :white_check_mark: | 226    | C        | [invert-binary-tree](invert-binary-tree)                                                                               | Easy       | Tree                | 2    |
 | :white_check_mark: | 39     | Python   | [combination-sum](combination-sum)                                                                                     | Medium     | Dynamic Programming | 2    |
 |                    | 271    |          | encode-and-decode-strings                                                                                              | Medium     | String              | 2    |
