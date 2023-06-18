@@ -67,7 +67,7 @@
 |                    | 152    |          | maximum-product-subarray                                                                                               | Medium     | Array               | 7    |
 |                    | 54     |          | spiral-matrix                                                                                                          | Medium     | Matrix              | 7    |
 |                    | 300    |          | longest-increasing-subsequence                                                                                         | Medium     | Dynamic Programming | 8    |
-|                    | 100    |          | same-tree                                                                                                              | Easy       | Tree                | 8    |
+| :white_check_mark: | 100    | C        | [same-tree](same-tree)                                                                                                 | Easy       | Tree                | 8    |
 |                    | 102    |          | binary-tree-level-order-traversal                                                                                      | Medium     | Tree                | 8    |
 |                    | 253    |          | meeting-rooms-ii                                                                                                       | Medium     | Interval            | 8    |
 |                    | 76     |          | minimum-window-substring                                                                                               | Hard       | String              | 8    |
