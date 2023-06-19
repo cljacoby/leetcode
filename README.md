@@ -22,7 +22,7 @@
 | :white_check_mark: | 226    | C        | [invert-binary-tree](invert-binary-tree)                                                                               | Easy       | Tree                | 2    |
 | :white_check_mark: | 39     | Python   | [combination-sum](combination-sum)                                                                                     | Medium     | Dynamic Programming | 2    |
 |                    | 271    |          | encode-and-decode-strings                                                                                              | Medium     | String              | 2    |
-|                    | 424    |          | longest-repeating-character-replacement                                                                                | Medium     | String              | 2    |
+| :white_check_mark: | 424    | Python   | [longest-repeating-character-replacement](longest-repeating-character-replacement)                                     | Medium     | String              | 2    |
 | :white_check_mark: | 3      | Python   | [longest-substring-without-repeating-characters](longest-substring-without-repeating-characters)                       | Medium     | String              | 2    |
 |                    | 125    |          | longest-common-subsequence                                                                                             | Medium     | Dynamic Programming | 3    |
 |                    | 295    |          | find-median-from-data-stream                                                                                           | Hard       | Heap                | 3    |
