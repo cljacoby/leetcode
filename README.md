@@ -30,7 +30,7 @@
 | :white_check_mark: | 11     | Python   | [container-with-most-water](container-with-most-water)                                                                 | Medium     | Array               | 3    |
 |                    | 322    |          | coin-change                                                                                                            | Medium     | Dynamic Programming | 3    |
 | :white_check_mark: | 98     | Python   | [validate-binary-search-tree](validate-binary-search-tree)                                                             | Medium     | Tree                | 3    |
-|                    | 252    |          | meeting-rooms                                                                                                          | Easy       | Interval            | 3    |
+| :moneybag:         | 252    |          | meeting-rooms                                                                                                          | Easy       | Interval            | 3    |
 | :white_check_mark: | 242    |          | [valid-anagram](valid-anagram)                                                                                         | Easy       | String              | 3    |
 |                    | 57     |          | insert-interval                                                                                                        | Medium     | Interval            | 4    |
 |                    | 139    |          | word-break                                                                                                             | Medium     | Dynamic Programming | 4    |
