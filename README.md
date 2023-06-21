@@ -28,7 +28,7 @@
 |                    | 295    |          | find-median-from-data-stream                                                                                           | Hard       | Heap                | 3    |
 |                    | 15     |          | 3sum                                                                                                                   | Medium     | Array               | 3    |
 | :white_check_mark: | 11     | Python   | [container-with-most-water](container-with-most-water)                                                                 | Medium     | Array               | 3    |
-|                    | 322    |          | coin-change                                                                                                            | Medium     | Dynamic Programming | 3    |
+| :white_check_mark: | 322    | Rust     | [coin-change](coin-change)                                                                                             | Medium     | Dynamic Programming | 3    |
 | :white_check_mark: | 98     | Python   | [validate-binary-search-tree](validate-binary-search-tree)                                                             | Medium     | Tree                | 3    |
 | :moneybag:         | 252    |          | meeting-rooms                                                                                                          | Easy       | Interval            | 3    |
 | :white_check_mark: | 242    |          | [valid-anagram](valid-anagram)                                                                                         | Easy       | String              | 3    |
