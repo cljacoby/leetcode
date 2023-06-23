@@ -14,7 +14,7 @@
 | :white_check_mark: | 153    | Python   | [find-minimum-in-rotated-sorted-array](find-minimum-in-rotated-sorted-array)                                           | Medium     | Array               | 1    |
 | :white_check_mark: | 206    | C        | [reverse-linked-list](reverse-linked-list)                                                                             | Easy       | Linked List         | 1    |
 | :white_check_mark: | 128    | Python   | [longest-consecutive-sequence](longest-consecutive-sequence)                                                           | Medium     | Graph               | 1    |
-| :white_check_mark: | 417    | Python/Rust | [pacific-atlantic-water-flow](pacific-atlantic-water-flow)                                                             | Medium     | Graph               | 1    |
+| :white_check_mark: | 417    | Rust/Python | [pacific-atlantic-water-flow](pacific-atlantic-water-flow)                                                             | Medium     | Graph               | 1    |
 | :white_check_mark: | 53     | Python   | [maximum-subarray](maximum-subarray)                                                                                   | Medium     | Array               | 1    |
 | :white_check_mark: | 198    | Python   | [house-robber](house-robber)                                                                                           | Medium     | Dynamic Programming | 2    |
 | :white_check_mark: | 125    | Rust     | [valid-palindrome](valid-palindrome)                                                                                   | Easy       | String              | 2    |
@@ -24,7 +24,7 @@
 | :moneybag:         | 271    |          | encode-and-decode-strings                                                                                              | Medium     | String              | 2    |
 | :white_check_mark: | 424    | Python   | [longest-repeating-character-replacement](longest-repeating-character-replacement)                                     | Medium     | String              | 2    |
 | :white_check_mark: | 3      | Python   | [longest-substring-without-repeating-characters](longest-substring-without-repeating-characters)                       | Medium     | String              | 2    |
-|                    | 125    |          | longest-common-subsequence                                                                                             | Medium     | Dynamic Programming | 3    |
+| :white_check_mark: | 125    | Rust/Python | [longest-common-subsequence](longest-common-subsequence)                                                               | Medium     | Dynamic Programming | 3    |
 |                    | 295    |          | find-median-from-data-stream                                                                                           | Hard       | Heap                | 3    |
 |                    | 15     |          | 3sum                                                                                                                   | Medium     | Array               | 3    |
 | :white_check_mark: | 11     | Python   | [container-with-most-water](container-with-most-water)                                                                 | Medium     | Array               | 3    |
