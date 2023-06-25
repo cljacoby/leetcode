@@ -34,7 +34,7 @@
 | :white_check_mark: | 242    |          | [valid-anagram](src/valid-anagram)                                                                                     | Easy       | String              | 3    |
 |                    | 57     |          | insert-interval                                                                                                        | Medium     | Interval            | 4    |
 |                    | 139    |          | word-break                                                                                                             | Medium     | Dynamic Programming | 4    |
-|                    | 230    |          | kth-smallest-element-in-a-bst                                                                                          | Medium     | Tree                | 4    |
+| :white_check_mark: | 230    | Python   | [kth-smallest-element-in-a-bst](kth-smallest-element-in-a-bst)                                                         | Medium     | Tree                | 4    |
 | :white_check_mark: | 190    | Rust     | [reverse-bits](src/reverse-bits)                                                                                       | Easy       | Binary              | 4    |
 |                    | 33     |          | search-in-rotated-sorted-array                                                                                         | Medium     | Array               | 4    |
 |                    | 297    |          | serialize-and-deserialize-binary-tree                                                                                  | Hard       | Tree                | 4    |
