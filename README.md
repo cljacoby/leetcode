@@ -40,7 +40,7 @@
 |                    | 297    |          | serialize-and-deserialize-binary-tree                                                                                  | Hard       | Tree                | 4    |
 | :white_check_mark: | 268    | Rust     | [missing-number](missing-number)                                                                                       | Easy       | Binary              | 4    |
 | :moneybag:         | 261    |          | graph-valid-tree                                                                                                       | Medium     | Graph               | 4    |
-|                    | 121    |          | best-time-to-buy-and-sell-stock                                                                                        | Easy       | Array               | 5    |
+| :white_check_mark: | 121    | Rust     | [best-time-to-buy-and-sell-stock](best-time-to-buy-and-sell-stock)                                                     | Easy       | Array               | 5    |
 | :white_check_mark: | 217    | C++      | [contains-duplicate](src/contains-duplicate)                                                                           | Easy       | Array               | 5    |
 |                    | 133    |          | clone-graph                                                                                                            | Medium     | Graph               | 5    |
 |                    | 269    |          | alien-dictionary                                                                                                       | Hard       | Graph               | 5    |
