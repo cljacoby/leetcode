@@ -54,7 +54,7 @@
 |                    | 23     |          | merge-k-sorted-lists                                                                                                   | Hard       | Heap                | 6    |
 |                    | 213    |          | house-robber-ii                                                                                                        | Medium     | Dynamic Programming | 6    |
 |                    | 211    |          | design-add-and-search-words-data-structure                                                                             | Medium     | Tree                | 6    |
-|                    | 20     |          | valid-parentheses                                                                                                      | Easy       | String              | 6    |
+| :white_check_mark: | 20     | Python   | [valid-parentheses](valid-parentheses)                                                                                 | Easy       | String              | 6    |
 |                    | 23     |          | merge-k-sorted-lists                                                                                                   | Hard       | Linked List         | 6    |
 |                    | 48     |          | rotate-image                                                                                                           | Medium     | Matrix              | 6    |
 |                    | 338    |          | counting-bits                                                                                                          | Easy       | Binary              | 7    |
