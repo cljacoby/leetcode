@@ -42,7 +42,7 @@
 | :moneybag:         | 261    |          | graph-valid-tree                                                                                                       | Medium     | Graph               | 4    |
 | :white_check_mark: | 121    | Rust     | [best-time-to-buy-and-sell-stock](best-time-to-buy-and-sell-stock)                                                     | Easy       | Array               | 5    |
 | :white_check_mark: | 217    | C++      | [contains-duplicate](src/contains-duplicate)                                                                           | Easy       | Array               | 5    |
-|                    | 133    |          | clone-graph                                                                                                            | Medium     | Graph               | 5    |
+| :white_check_mark: | 133    | Python   | [clone-graph](clone-graph)                                                                                             | Medium     | Graph               | 5    |
 |                    | 269    |          | alien-dictionary                                                                                                       | Hard       | Graph               | 5    |
 |                    | 238    |          | product-of-array-except-self                                                                                           | Medium     | Array               | 5    |
 |                    | 19     |          | remove-nth-node-from-end-of-list                                                                                       | Medium     | Linked List         | 5    |
