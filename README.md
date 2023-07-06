@@ -60,7 +60,7 @@
 |                    | 338    |          | counting-bits                                                                                                          | Easy       | Binary              | 7    |
 |                    | 5      |          | longest-palindromic-substring                                                                                          | Medium     | String              | 7    |
 |                    | 91     |          | decode-ways                                                                                                            | Medium     | Dynamic Programming | 7    |
-|                    | 208    |          | implement-trie-prefix-tree                                                                                             | Medium     | Tree                | 7    |
+| :white_check_mark: | 208    | Python   | [implement-trie-prefix-tree](implement-trie-prefix-tree)                                                               | Medium     | Tree                | 7    |
 |                    | 212    |          | word-search-ii                                                                                                         | Hard       | Tree                | 7    |
 |                    | 371    |          | sum-of-two-integers                                                                                                    | Medium     | Binary              | 7    |
 |                    | 207    |          | course-schedule                                                                                                        | Medium     | Graph               | 7    |
