@@ -47,7 +47,7 @@
 | :white_check_mark: | 238    | Python   | [product-of-array-except-self](product-of-array-except-self)                                                           | Medium     | Array               | 5    |
 | :white_check_mark: | 19     | Python   | [remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list)                                                   | Medium     | Linked List         | 5    |
 |                    | 1      |          | two-sum                                                                                                                | Easy       | Array               | 5    |
-|                    | 143    |          | reorder-list                                                                                                           | Medium     | Linked List         | 5    |
+| :white_check_mark: | 143    | Python   | [reorder-list](reorder-list)                                                                                           | Medium     | Linked List         | 5    |
 |                    | 56     |          | merge-intervals                                                                                                        | Medium     | Interval            | 6    |
 |                    | 347    |          | top-k-frequent-elements                                                                                                | Medium     | Heap                | 6    |
 | :white_check_mark: | 141    | Python   | [linked-list-cycle](linked-list-cycle)                                                                                 | Easy       | Linked List         | 6    |
