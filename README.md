@@ -74,5 +74,5 @@
 |                    | 323    |          | number-of-connected-components-in-an-undirected-graph                                                                  | Medium     | Graph               | 8    |
 |                    | 73     |          | set-matrix-zeroes                                                                                                      | Medium     | Matrix              | 8    |
 |                    | 62     |          | unique-paths                                                                                                           | Medium     | Dynamic Programming | 8    |
-|                    | 124    |          | binary-tree-maximum-path-sum                                                                                           | Hard       | Tree                | 8    |
+| :white_check_mark: | 124    | Python   | [binary-tree-maximum-path-sum](binary-tree-maximum-path-sum)                                                           | Hard       | Tree                | 8    |
 
