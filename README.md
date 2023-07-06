@@ -45,7 +45,7 @@
 | :white_check_mark: | 133    | Python   | [clone-graph](clone-graph)                                                                                             | Medium     | Graph               | 5    |
 | :moneybag:         | 269    |          | alien-dictionary                                                                                                       | Hard       | Graph               | 5    |
 | :white_check_mark: | 238    | Python   | [product-of-array-except-self](product-of-array-except-self)                                                           | Medium     | Array               | 5    |
-|                    | 19     |          | remove-nth-node-from-end-of-list                                                                                       | Medium     | Linked List         | 5    |
+| :white_check_mark: | 19     | Python   | [remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list)                                                   | Medium     | Linked List         | 5    |
 |                    | 1      |          | two-sum                                                                                                                | Easy       | Array               | 5    |
 |                    | 143    |          | reorder-list                                                                                                           | Medium     | Linked List         | 5    |
 |                    | 56     |          | merge-intervals                                                                                                        | Medium     | Interval            | 6    |

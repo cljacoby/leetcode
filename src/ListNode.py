@@ -19,6 +19,14 @@ class ListNode(object):
     def __str__(self):
         return self.__repr__()
 
+    def to_array(self):
+        arr = list()
+        node = self
+        while node != None:
+            arr.append(node.val)
+            node = node.next
+        return arr
+
     @staticmethod
     def from_array(nums):
         if len(nums) == 0:
