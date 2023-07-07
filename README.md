@@ -25,7 +25,7 @@
 | :white_check_mark: | 424    | Python   | [longest-repeating-character-replacement](src/longest-repeating-character-replacement)                                 | Medium     | String              | 2    |
 | :white_check_mark: | 3      | Python   | [longest-substring-without-repeating-characters](src/longest-substring-without-repeating-characters)                   | Medium     | String              | 2    |
 | :white_check_mark: | 125    | Rust/Python | [longest-common-subsequence](src/longest-common-subsequence)                                                        | Medium     | Dynamic Programming | 3    |
-| :white_check_mark: | 295    | Rust     | [find-median-from-data-stream](find-median-from-data-stream)                                                           | Hard       | Heap                | 3    |
+| :white_check_mark: | 295    | Rust     | [find-median-from-data-stream](src/find-median-from-data-stream)                                                           | Hard       | Heap                | 3    |
 |                    | 15     |          | 3sum                                                                                                                   | Medium     | Array               | 3    |
 | :white_check_mark: | 11     | Python   | [container-with-most-water](src/container-with-most-water)                                                             | Medium     | Array               | 3    |
 | :white_check_mark: | 322    | Rust     | [coin-change](src/coin-change)                                                                                         | Medium     | Dynamic Programming | 3    |
@@ -33,34 +33,34 @@
 | :moneybag:         | 252    |          | meeting-rooms                                                                                                          | Easy       | Interval            | 3    |
 | :white_check_mark: | 242    |          | [valid-anagram](src/valid-anagram)                                                                                     | Easy       | String              | 3    |
 | :white_check_mark: | 57     | Python   | [insert-interval](src/insert-interval)                                                                                 | Medium     | Interval            | 4    |
-| :white_check_mark: | 139    | Python   | [word-break](word-break)                                                                                               | Medium     | Dynamic Programming | 4    |
-| :white_check_mark: | 230    | Python   | [kth-smallest-element-in-a-bst](kth-smallest-element-in-a-bst)                                                         | Medium     | Tree                | 4    |
+| :white_check_mark: | 139    | Python   | [word-break](src/word-break)                                                                                               | Medium     | Dynamic Programming | 4    |
+| :white_check_mark: | 230    | Python   | [kth-smallest-element-in-a-bst](src/kth-smallest-element-in-a-bst)                                                         | Medium     | Tree                | 4    |
 | :white_check_mark: | 190    | Rust     | [reverse-bits](src/reverse-bits)                                                                                       | Easy       | Binary              | 4    |
 |                    | 33     |          | search-in-rotated-sorted-array                                                                                         | Medium     | Array               | 4    |
 |                    | 297    |          | serialize-and-deserialize-binary-tree                                                                                  | Hard       | Tree                | 4    |
-| :white_check_mark: | 268    | Rust     | [missing-number](missing-number)                                                                                       | Easy       | Binary              | 4    |
+| :white_check_mark: | 268    | Rust     | [missing-number](src/missing-number)                                                                                       | Easy       | Binary              | 4    |
 | :moneybag:         | 261    |          | graph-valid-tree                                                                                                       | Medium     | Graph               | 4    |
-| :white_check_mark: | 121    | Rust     | [best-time-to-buy-and-sell-stock](best-time-to-buy-and-sell-stock)                                                     | Easy       | Array               | 5    |
+| :white_check_mark: | 121    | Rust     | [best-time-to-buy-and-sell-stock](src/best-time-to-buy-and-sell-stock)                                                     | Easy       | Array               | 5    |
 | :white_check_mark: | 217    | C++      | [contains-duplicate](src/contains-duplicate)                                                                           | Easy       | Array               | 5    |
-| :white_check_mark: | 133    | Python   | [clone-graph](clone-graph)                                                                                             | Medium     | Graph               | 5    |
+| :white_check_mark: | 133    | Python   | [clone-graph](src/clone-graph)                                                                                             | Medium     | Graph               | 5    |
 | :moneybag:         | 269    |          | alien-dictionary                                                                                                       | Hard       | Graph               | 5    |
-| :white_check_mark: | 238    | Python   | [product-of-array-except-self](product-of-array-except-self)                                                           | Medium     | Array               | 5    |
-| :white_check_mark: | 19     | Python   | [remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list)                                                   | Medium     | Linked List         | 5    |
-| :white_check_mark: | 1      | C++      | [two-sum](two-sum)                                                                                                     | Easy       | Array               | 5    |
-| :white_check_mark: | 143    | Python   | [reorder-list](reorder-list)                                                                                           | Medium     | Linked List         | 5    |
+| :white_check_mark: | 238    | Python   | [product-of-array-except-self](src/product-of-array-except-self)                                                           | Medium     | Array               | 5    |
+| :white_check_mark: | 19     | Python   | [remove-nth-node-from-end-of-list](src/remove-nth-node-from-end-of-list)                                                   | Medium     | Linked List         | 5    |
+| :white_check_mark: | 1      | C++      | [two-sum](src/two-sum)                                                                                                     | Easy       | Array               | 5    |
+| :white_check_mark: | 143    | Python   | [reorder-list](src/reorder-list)                                                                                           | Medium     | Linked List         | 5    |
 |                    | 56     |          | merge-intervals                                                                                                        | Medium     | Interval            | 6    |
 |                    | 347    |          | top-k-frequent-elements                                                                                                | Medium     | Heap                | 6    |
-| :white_check_mark: | 141    | Python   | [linked-list-cycle](linked-list-cycle)                                                                                 | Easy       | Linked List         | 6    |
+| :white_check_mark: | 141    | Python   | [linked-list-cycle](src/linked-list-cycle)                                                                                 | Easy       | Linked List         | 6    |
 |                    | 23     |          | merge-k-sorted-lists                                                                                                   | Hard       | Heap                | 6    |
 |                    | 213    |          | house-robber-ii                                                                                                        | Medium     | Dynamic Programming | 6    |
 |                    | 211    |          | design-add-and-search-words-data-structure                                                                             | Medium     | Tree                | 6    |
-| :white_check_mark: | 20     | Python   | [valid-parentheses](valid-parentheses)                                                                                 | Easy       | String              | 6    |
+| :white_check_mark: | 20     | Python   | [valid-parentheses](src/valid-parentheses)                                                                                 | Easy       | String              | 6    |
 |                    | 23     |          | merge-k-sorted-lists                                                                                                   | Hard       | Linked List         | 6    |
 |                    | 48     |          | rotate-image                                                                                                           | Medium     | Matrix              | 6    |
 |                    | 338    |          | counting-bits                                                                                                          | Easy       | Binary              | 7    |
 |                    | 5      |          | longest-palindromic-substring                                                                                          | Medium     | String              | 7    |
 |                    | 91     |          | decode-ways                                                                                                            | Medium     | Dynamic Programming | 7    |
-| :white_check_mark: | 208    | Python   | [implement-trie-prefix-tree](implement-trie-prefix-tree)                                                               | Medium     | Tree                | 7    |
+| :white_check_mark: | 208    | Python   | [implement-trie-prefix-tree](src/implement-trie-prefix-tree)                                                               | Medium     | Tree                | 7    |
 |                    | 212    |          | word-search-ii                                                                                                         | Hard       | Tree                | 7    |
 |                    | 371    |          | sum-of-two-integers                                                                                                    | Medium     | Binary              | 7    |
 |                    | 207    |          | course-schedule                                                                                                        | Medium     | Graph               | 7    |
@@ -72,7 +72,7 @@
 |                    | 253    |          | meeting-rooms-ii                                                                                                       | Medium     | Interval            | 8    |
 |                    | 76     |          | minimum-window-substring                                                                                               | Hard       | String              | 8    |
 |                    | 323    |          | number-of-connected-components-in-an-undirected-graph                                                                  | Medium     | Graph               | 8    |
-| :white_check_mark: | 73     | Python   | [set-matrix-zeroes](set-matrix-zeroes)                                                                                 | Medium     | Matrix              | 8    |
+| :white_check_mark: | 73     | Python   | [set-matrix-zeroes](src/set-matrix-zeroes)                                                                                 | Medium     | Matrix              | 8    |
 |                    | 62     |          | unique-paths                                                                                                           | Medium     | Dynamic Programming | 8    |
-| :white_check_mark: | 124    | Python   | [binary-tree-maximum-path-sum](binary-tree-maximum-path-sum)                                                           | Hard       | Tree                | 8    |
+| :white_check_mark: | 124    | Python   | [binary-tree-maximum-path-sum](src/binary-tree-maximum-path-sum)                                                           | Hard       | Tree                | 8    |
 
