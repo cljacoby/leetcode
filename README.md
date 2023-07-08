@@ -70,7 +70,7 @@
 | :white_check_mark: | 100    | C        | [same-tree](src/same-tree)                                                                                             | Easy       | Tree                | 8    |
 |                    | 102    |          | binary-tree-level-order-traversal                                                                                      | Medium     | Tree                | 8    |
 |                    | 253    |          | meeting-rooms-ii                                                                                                       | Medium     | Interval            | 8    |
-| :white_check_mark: | 76     | Python   | [minimum-window-substring](minimum-window-substring)                                                                   | Hard       | String              | 8    |
+| :white_check_mark: | 76     | Python   | [minimum-window-substring](src/minimum-window-substring)                                                                   | Hard       | String              | 8    |
 |                    | 323    |          | number-of-connected-components-in-an-undirected-graph                                                                  | Medium     | Graph               | 8    |
 | :white_check_mark: | 73     | Python   | [set-matrix-zeroes](src/set-matrix-zeroes)                                                                                 | Medium     | Matrix              | 8    |
 |                    | 62     |          | unique-paths                                                                                                           | Medium     | Dynamic Programming | 8    |
