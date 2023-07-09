@@ -55,7 +55,6 @@
 |                    | 213    |          | house-robber-ii                                                                                                        | Medium     | Dynamic Programming | 6    |
 |                    | 211    |          | design-add-and-search-words-data-structure                                                                             | Medium     | Tree                | 6    |
 | :white_check_mark: | 20     | Python   | [valid-parentheses](src/valid-parentheses)                                                                                 | Easy       | String              | 6    |
-|                    | 23     |          | merge-k-sorted-lists                                                                                                   | Hard       | Linked List         | 6    |
 |                    | 48     |          | rotate-image                                                                                                           | Medium     | Matrix              | 6    |
 |                    | 338    |          | counting-bits                                                                                                          | Easy       | Binary              | 7    |
 |                    | 5      |          | longest-palindromic-substring                                                                                          | Medium     | String              | 7    |
