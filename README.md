@@ -37,7 +37,7 @@
 | :white_check_mark: | 230    | Python   | [kth-smallest-element-in-a-bst](src/kth-smallest-element-in-a-bst)                                                         | Medium     | Tree                | 4    |
 | :white_check_mark: | 190    | Rust     | [reverse-bits](src/reverse-bits)                                                                                       | Easy       | Binary              | 4    |
 |                    | 33     |          | search-in-rotated-sorted-array                                                                                         | Medium     | Array               | 4    |
-|                    | 297    |          | serialize-and-deserialize-binary-tree                                                                                  | Hard       | Tree                | 4    |
+| :white_check_mark: | 297    | Python   | [serialize-and-deserialize-binary-tree](src/serialize-and-deserialize-binary-tree)                                     | Hard       | Tree                | 4    |
 | :white_check_mark: | 268    | Rust     | [missing-number](src/missing-number)                                                                                       | Easy       | Binary              | 4    |
 | :moneybag:         | 261    |          | graph-valid-tree                                                                                                       | Medium     | Graph               | 4    |
 | :white_check_mark: | 121    | Rust     | [best-time-to-buy-and-sell-stock](src/best-time-to-buy-and-sell-stock)                                                     | Easy       | Array               | 5    |
