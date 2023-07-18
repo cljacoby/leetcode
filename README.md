@@ -56,7 +56,7 @@
 |                    | 211    |          | design-add-and-search-words-data-structure                                                                             | Medium     | Tree                | 6    |
 | :white_check_mark: | 20     | Python   | [valid-parentheses](src/valid-parentheses)                                                                             | Easy       | String              | 6    |
 |                    | 48     |          | rotate-image                                                                                                           | Medium     | Matrix              | 6    |
-|                    | 338    |          | counting-bits                                                                                                          | Easy       | Binary              | 7    |
+| :white_check_mark: | 338    | Python   | [counting-bits](src/counting-bits)                                                                                     | Easy       | Binary              | 7    |
 | :white_check_mark: | 5      | Python   | [longest-palindromic-substring](src/longest-palindromic-substring)                                                     | Medium     | String              | 7    |
 | :white_check_mark: | 91     | Python   | [decode-ways](src/decode-ways)                                                                                         | Medium     | Dynamic Programming | 7    |
 | :white_check_mark: | 208    | Python   | [implement-trie-prefix-tree](src/implement-trie-prefix-tree)                                                           | Medium     | Tree                | 7    |
