@@ -64,7 +64,7 @@
 |                    | 371    |          | sum-of-two-integers                                                                                                    | Medium     | Binary              | 7    |
 |                    | 207    |          | course-schedule                                                                                                        | Medium     | Graph               | 7    |
 |                    | 152    |          | maximum-product-subarray                                                                                               | Medium     | Array               | 7    |
-|                    | 54     |          | spiral-matrix                                                                                                          | Medium     | Matrix              | 7    |
+| :white_check_mark: | 54     | Python   | [spiral-matrix](src/spiral-matrix)                                                                                     | Medium     | Matrix              | 7    |
 |                    | 300    |          | longest-increasing-subsequence                                                                                         | Medium     | Dynamic Programming | 8    |
 | :white_check_mark: | 100    | C        | [same-tree](src/same-tree)                                                                                             | Easy       | Tree                | 8    |
 | :white_check_mark: | 102    | Python   | [binary-tree-level-order-traversal](src/binary-tree-level-order-traversal)                                             | Medium     | Tree                | 8    |
