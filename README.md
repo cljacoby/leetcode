@@ -49,7 +49,7 @@
 | :white_check_mark: | 1      | C++      | [two-sum](src/two-sum)                                                                                                 | Easy       | Array               | 5    |
 | :white_check_mark: | 143    | Python   | [reorder-list](src/reorder-list)                                                                                       | Medium     | Linked List         | 5    |
 |                    | 56     |          | merge-intervals                                                                                                        | Medium     | Interval            | 6    |
-|                    | 347    |          | top-k-frequent-elements                                                                                                | Medium     | Heap                | 6    |
+| :white_check_mark: | 347    | Python   | [top-k-frequent-elements](src/top-k-frequent-elements)                                                                 | Medium     | Heap                | 6    |
 | :white_check_mark: | 141    | Python   | [linked-list-cycle](src/linked-list-cycle)                                                                             | Easy       | Linked List         | 6    |
 |                    | 23     |          | merge-k-sorted-lists                                                                                                   | Hard       | Heap                | 6    |
 |                    | 213    |          | house-robber-ii                                                                                                        | Medium     | Dynamic Programming | 6    |
