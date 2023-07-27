@@ -51,7 +51,7 @@
 |                    | 56     |          | merge-intervals                                                                                                        | Medium     | Interval            | 6    |
 | :white_check_mark: | 347    | Python   | [top-k-frequent-elements](src/top-k-frequent-elements)                                                                 | Medium     | Heap                | 6    |
 | :white_check_mark: | 141    | Python   | [linked-list-cycle](src/linked-list-cycle)                                                                             | Easy       | Linked List         | 6    |
-|                    | 23     |          | merge-k-sorted-lists                                                                                                   | Hard       | Heap                | 6    |
+| :white_check_mark: | 23     | Python   | [merge-k-sorted-lists](src/merge-k-sorted-lists)                                                                       | Hard       | Heap                | 6    |
 |                    | 213    |          | house-robber-ii                                                                                                        | Medium     | Dynamic Programming | 6    |
 |                    | 211    |          | design-add-and-search-words-data-structure                                                                             | Medium     | Tree                | 6    |
 | :white_check_mark: | 20     | Python   | [valid-parentheses](src/valid-parentheses)                                                                             | Easy       | String              | 6    |
