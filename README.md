@@ -74,12 +74,12 @@
 | :white_check_mark: | 73     | Python      | [set-matrix-zeroes](src/set-matrix-zeroes)                                                                                 | Medium     | Matrix              |
 | :white_check_mark: | 62     | Python      | [unique-paths](src/unique-paths)                                                                                           | Medium     | Dynamic Programming |
 | :white_check_mark: | 124    | Python      | [binary-tree-maximum-path-sum](src/binary-tree-maximum-path-sum)                                                           | Hard       | Tree                |
-|                    |        |             | 01-matrix                                                                                                                  |            |                     |
-|                    |        |             | accounts-merge                                                                                                             |            |                     |
-|                    |        |             | add-binary                                                                                                                 |            |                     |
-|                    |        |             | basic-calculator                                                                                                           |            |                     |
-|                    |        |             | find-all-anagrams-in-a-string                                                                                              |            |                     |
-|                    |        |             | first-bad-version                                                                                                          |            |                     |
+|                    |        |             | 01-matrix                                                                                                                  | Medium     |                     |
+|                    |        |             | accounts-merge                                                                                                             | Medium     |                     |
+|                    |        |             | add-binary                                                                                                                 | Easy       |                     |
+|                    |        |             | basic-calculator                                                                                                           | Hard       |                     |
+|                    |        |             | find-all-anagrams-in-a-string                                                                                              | Medium     |                     |
+| :white_check_mark: | 278    | Python      | [first-bad-version](src/first-bad-version)                                                                                 | Easy       | Array               |
 |                    |        |             | flood-fill                                                                                                                 |            |                     |
 |                    |        |             | implement-queue-using-stacks                                                                                               |            |                     |
 |                    |        |             | implement-trie-prefix-tree                                                                                                 |            |                     |
