@@ -88,6 +88,6 @@
 |                    |        |             | maximum-profit-in-job-scheduling                                                                                           |            |                     |
 | :white_check_mark: | 876    | Python      | [middle-of-the-linked-list](src/middle-of-the-linked-list)                                                                 | Medium     | Linked List         |
 |                    |        |             | minimum-height-trees                                                                                                       |            |                     |
-|                    |        |             | ransom-note                                                                                                                |            |                     |
+| :white_check_mark: | 383    | Python      | [ransom-note](src/ransom-note)                                                                                             | Easy       | HashMap             |
 |                    |        |             | sort-colors                                                                                                                |            |                     |
 |                    |        |             | string-to-integer-atoi                                                                                                     |            |                     |
