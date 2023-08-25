@@ -81,7 +81,7 @@
 |                    |        |             | find-all-anagrams-in-a-string                                                                                              | Medium     |                     |
 | :white_check_mark: | 278    | Python      | [first-bad-version](src/first-bad-version)                                                                                 | Easy       | Array               |
 |                    |        |             | flood-fill                                                                                                                 |            |                     |
-|                    |        |             | implement-queue-using-stacks                                                                                               |            |                     |
+| :white_check_mark: | 232    | Python      | [implement-queue-using-stacks](src/implement-queue-using-stacks)                                                           | Easy       | Array               |
 |                    |        |             | longest-palindrome                                                                                                         |            |                     |
 |                    |        |             | lowest-common-ancestor-of-a-binary-tree                                                                                    |            |                     |
 | :white_check_mark: | 169    | Python      | [majority-element](src/majority-element)                                                                                   | Easy       | Array               |
