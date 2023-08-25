@@ -86,7 +86,7 @@
 |                    |        |             | lowest-common-ancestor-of-a-binary-tree                                                                                    |            |                     |
 |                    |        |             | majority-element                                                                                                           |            |                     |
 |                    |        |             | maximum-profit-in-job-scheduling                                                                                           |            |                     |
-|                    |        |             | middle-of-the-linked-list                                                                                                  |            |                     |
+| :white_check_mark: | 876    | Python      | [middle-of-the-linked-list](src/middle-of-the-linked-list)                                                                 | Medium     | Linked List         |
 |                    |        |             | minimum-height-trees                                                                                                       |            |                     |
 |                    |        |             | ransom-note                                                                                                                |            |                     |
 |                    |        |             | sort-colors                                                                                                                |            |                     |
