@@ -82,7 +82,6 @@
 | :white_check_mark: | 278    | Python      | [first-bad-version](src/first-bad-version)                                                                                 | Easy       | Array               |
 |                    |        |             | flood-fill                                                                                                                 |            |                     |
 |                    |        |             | implement-queue-using-stacks                                                                                               |            |                     |
-|                    |        |             | implement-trie-prefix-tree                                                                                                 |            |                     |
 |                    |        |             | longest-palindrome                                                                                                         |            |                     |
 |                    |        |             | lowest-common-ancestor-of-a-binary-tree                                                                                    |            |                     |
 |                    |        |             | majority-element                                                                                                           |            |                     |
