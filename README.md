@@ -84,7 +84,7 @@
 |                    |        |             | implement-queue-using-stacks                                                                                               |            |                     |
 |                    |        |             | longest-palindrome                                                                                                         |            |                     |
 |                    |        |             | lowest-common-ancestor-of-a-binary-tree                                                                                    |            |                     |
-|                    |        |             | majority-element                                                                                                           |            |                     |
+| :white_check_mark: | 169    | Python      | [majority-element](src/majority-element)                                                                                   | Easy       | Array               |
 |                    |        |             | maximum-profit-in-job-scheduling                                                                                           |            |                     |
 | :white_check_mark: | 876    | Python      | [middle-of-the-linked-list](src/middle-of-the-linked-list)                                                                 | Medium     | Linked List         |
 |                    |        |             | minimum-height-trees                                                                                                       |            |                     |
