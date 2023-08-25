@@ -1,14 +1,10 @@
 # https://leetcode.com/problems/first-bad-version
 
 """
-This problem is basically just annoying scaffolding
-around a binary search through an array. It's annoying
-because the `isBadVersion(version)` is implemted on the
-leetcode server side, so its harder to run/test locally.
-"""
-
-"""
 Key Insights:
+    - This problem is basically just annoying scaffolding around a
+      binary search through an array. Had to use a python locals() hack
+      to mock a leetcode server-side function.
     - Don't need to create an array, because it's all just
       sequential integers from 1..N. So just pass values directly
       and don't index.
