@@ -10,7 +10,7 @@ class MyQueue(object):
         """
         When output is empty, and input is not,
         move all elements from input to output,
-        reversing order using stack ordering.
+        reversing the ordering in the process.
         """
         if len(self.output) == 0:
             while len(self.input) > 0:
