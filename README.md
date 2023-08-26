@@ -83,7 +83,7 @@
 |                    |        |             | flood-fill                                                                                                                 |            |                     |
 | :white_check_mark: | 232    | Python      | [implement-queue-using-stacks](src/implement-queue-using-stacks)                                                           | Easy       | Array               |
 |                    |        |             | longest-palindrome                                                                                                         |            |                     |
-|                    |        |             | lowest-common-ancestor-of-a-binary-tree                                                                                    |            |                     |
+| :white_check_mark: | 236    | Python      | [lowest-common-ancestor-of-a-binary-tree](src/lowest-common-ancestor-of-a-binary-tree)                                     | Medium     | Tree                |
 | :white_check_mark: | 169    | Python      | [majority-element](src/majority-element)                                                                                   | Easy       | Array               |
 |                    |        |             | maximum-profit-in-job-scheduling                                                                                           |            |                     |
 | :white_check_mark: | 876    | Python      | [middle-of-the-linked-list](src/middle-of-the-linked-list)                                                                 | Medium     | Linked List         |
