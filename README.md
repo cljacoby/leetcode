@@ -78,7 +78,7 @@
 |                    |        |             | accounts-merge                                                                                                             | Medium     |                     |
 |                    |        |             | add-binary                                                                                                                 | Easy       |                     |
 |                    |        |             | basic-calculator                                                                                                           | Hard       |                     |
-|                    |        |             | find-all-anagrams-in-a-string                                                                                              | Medium     |                     |
+| :white_check_mark: | 438    | Python      | [find-all-anagrams-in-a-string](src/find-all-anagrams-in-a-string)                                                         | Medium     | Array               |
 | :white_check_mark: | 278    | Python      | [first-bad-version](src/first-bad-version)                                                                                 | Easy       | Array               |
 | :white_check_mark: | 733    | Python      | [flood-fill](src/flood-fill)                                                                                               | Easy       | Dynamic Programming |
 | :white_check_mark: | 232    | Python      | [implement-queue-using-stacks](src/implement-queue-using-stacks)                                                           | Easy       | Array               |
