@@ -74,7 +74,7 @@
 | :white_check_mark: | 73     | Python      | [set-matrix-zeroes](src/set-matrix-zeroes)                                                                                 | Medium     | Matrix              |
 | :white_check_mark: | 62     | Python      | [unique-paths](src/unique-paths)                                                                                           | Medium     | Dynamic Programming |
 | :white_check_mark: | 124    | Python      | [binary-tree-maximum-path-sum](src/binary-tree-maximum-path-sum)                                                           | Hard       | Tree                |
-|                    |        |             | 01-matrix                                                                                                                  | Medium     |                     |
+| :white_check_mark: | 542    | Python      | [01-matrix](src/01-matrix)                                                                                                 | Medium     | Matrix              |
 |                    |        |             | accounts-merge                                                                                                             | Medium     |                     |
 |                    |        |             | add-binary                                                                                                                 | Easy       |                     |
 |                    |        |             | basic-calculator                                                                                                           | Hard       |                     |
