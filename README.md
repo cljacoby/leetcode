@@ -91,3 +91,4 @@
 | :white_check_mark: | 383    | Python      | [ransom-note](src/ransom-note)                                                                                             | Easy       | HashMap             |
 |                    |        |             | sort-colors                                                                                                                |            |                     |
 |                    |        |             | string-to-integer-atoi                                                                                                     |            |                     |
+| :white_check_mark: | 78     | Python      | [subsets](src/subsets)                                                                                                     | Medium     | Array               |
