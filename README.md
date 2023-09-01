@@ -93,3 +93,4 @@
 |                    |        |             | string-to-integer-atoi                                                                                                     |            |                     |
 | :white_check_mark: | 78     | Python      | [subsets](src/subsets)                                                                                                     | Medium     | Array               |
 | :white_check_mark: | 90     | Python      | [subsets-ii](src/subsets-ii)                                                                                               | Medium     | Array               |
+| :white_check_mark: | 1448   | Python      | [count-good-nodes-in-binary-tree](src/count-good-nodes-in-binary-tree)                                                     | Medium     | Tree                |
