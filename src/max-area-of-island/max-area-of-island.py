@@ -2,7 +2,6 @@
 
 from collections import deque
 
-# Recursive + DFS
 class Solution(object):
     def maxAreaOfIsland(self, grid):
         """
@@ -17,8 +16,10 @@ class Solution(object):
         for i, row in enumerate(self.grid):
             for j, _ in enumerate(row):
                 self.mx = max(self.dfs(i, j), self.mx)
+                # self.mx = max(self.bfs(i, j), self.mx)
         return self.mx
 
+    # Recursive + DFS
     def dfs(self, x, y):
         if (
             x < 0
@@ -30,29 +31,13 @@ class Solution(object):
         ):
             return 0
         self.visited.add((x,y))
-        area = 1 + self.step(x-1, y) \
-            + self.step(x+1, y) \
-            + self.step(x, y+1) \
-            + self.step(x, y-1)
+        area = 1 + self.dfs(x-1, y) \
+            + self.dfs(x+1, y) \
+            + self.dfs(x, y+1) \
+            + self.dfs(x, y-1)
         return area
-
-# Iterative + BFS
-class Solution(object):
-    def maxAreaOfIsland(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
-        self.grid = grid
-        self.rows = len(grid)
-        self.cols = len(grid[0])
-        self.visited = set()
-        self.mx = 0
-        for i, row in enumerate(self.grid):
-            for j, _ in enumerate(row):
-                self.mx = max(self.bfs(i, j), self.mx)
-        return self.mx
-
+    
+    # Iterative + BFS
     def bfs(self, x, y):
         q = deque([(x, y)])
         area = 0
