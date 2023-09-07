@@ -96,4 +96,4 @@
 | :white_check_mark: | 1448   | Python      | [count-good-nodes-in-binary-tree](src/count-good-nodes-in-binary-tree)                                                     | Medium     | Tree                |
 | :white_check_mark: | 1019   | Python      | [next-greater-node-in-linked-list](src/next-greater-node-in-linked-list)                                                   | Medium     | Linked List         |
 | :white_check_mark: | 695    | Python      | [max-area-of-island](src/max-area-of-island)                                                                               | Medium     | Matrix              |
-| :white_check_mark: | 846    | Python      | [hand-of-straight](src/hand-of-straight)                                                                                   | Medium     | Array               |
+| :white_check_mark: | 846    | Python      | [hand-of-straights](src/hand-of-straights)                                                                                   | Medium     | Array               |
