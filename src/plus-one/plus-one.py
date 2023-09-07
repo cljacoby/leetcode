@@ -45,6 +45,23 @@ class Solution(object):
             digits[idx] = 0
             idx -= 1
 
+# Just code golf at this point 
+class Solution(object):
+    def plusOne(self, digits):
+        """
+        :type digits: List[int]
+        :rtype: List[int]
+        """
+        idx = len(digits) - 1
+        while True:
+            if idx == -1:
+                digits.insert(0, 1)
+                return digits
+            digits[idx] = (digits[idx] + 1) % 10
+            if digits[idx] != 0:
+                return digits
+            idx -= 1
+
 if __name__ == "__main__":
     sol = Solution()
     tests = [

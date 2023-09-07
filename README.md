@@ -98,3 +98,4 @@
 | :white_check_mark: | 695    | Python      | [max-area-of-island](src/max-area-of-island)                                                                               | Medium     | Matrix              |
 | :white_check_mark: | 846    | Python      | [hand-of-straights](src/hand-of-straights)                                                                                 | Medium     | Array               |
 | :white_check_mark: | 66     | Python      | [plus-one](src/plus-one)                                                                                                   | Medium     | Array               |
+| :white_check_mark: | 778    | Python      | [swim-in-rising-water](src/swim-in-rising-water)                                                                           | Hard       | Matrix              |
