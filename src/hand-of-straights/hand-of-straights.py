@@ -9,7 +9,7 @@ class Solution(object):
         :type groupSize: int
         :rtype: bool
         """
-        if not len(hand) % size == 0:
+        if len(hand) % size != 0:
             return False
         q = deque(sorted(hand))
         n_buckets = len(hand) // size
