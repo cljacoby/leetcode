@@ -99,3 +99,4 @@
 | :white_check_mark: | 846    | Python      | [hand-of-straights](src/hand-of-straights)                                                                                 | Medium     | Array               |
 | :white_check_mark: | 66     | Python      | [plus-one](src/plus-one)                                                                                                   | Medium     | Array               |
 | :white_check_mark: | 74     | Python      | [search-a-2d-matrix](src/search-a-2d-matrix)                                                                               | Medium     | Binary Search       |
+| :white_check_mark: | 155    | Python      | [min-stack](src/min-stack)                                                                                                 | Medium     | Array               |
