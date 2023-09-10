@@ -9,7 +9,7 @@ class MinStack(object):
         return f"MinStack {{ stack: {self.stack} }}"
     
     def __str__(self):
-        return f"MinStack {{ stack: {self.stack} }}"
+        return self.__repr__()
 
     def push(self, val):
         """
