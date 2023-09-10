@@ -9,3 +9,4 @@ Linked List
 Matrix
 String
 Tree
+Binary Search
