@@ -101,3 +101,4 @@
 | :white_check_mark: | 74     | Python      | [search-a-2d-matrix](src/search-a-2d-matrix)                                                                               | Medium     | Binary Search       |
 | :white_check_mark: | 155    | Python      | [min-stack](src/min-stack)                                                                                                 | Medium     | Array               |
 | :white_check_mark: | 981    | Python      | [time-based-key-value-store](src/time-based-key-value-store)                                                               | Medium     | Array               |
+| :white_check_mark: | 704    | Python      | [binary-search](src/binary-search)                                                                                         | Easy       | Binary Search       |
