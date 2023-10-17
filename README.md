@@ -104,3 +104,4 @@
 | :white_check_mark: | 704    | Python      | [binary-search](src/binary-search)                                                                                         | Easy       | Binary Search       |
 | :white_check_mark: | 380    | Python      | [insert-delete-getrandom-o1](src/insert-delete-getrandom-o1)                                                               | Medium     | HashMap             |
 | :white_check_mark: | 130    | Python      | [surrounded-regions](src/surrounded-regions)                                                                               | Medium     | Matrix              |
+| :white_check_mark: | 2095   | Python      | [delete-the-middle-node-of-a-linked-list](src/delete-the-middle-node-of-a-linked-list)                                     | Medium     | Linked List         |
