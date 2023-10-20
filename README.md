@@ -106,4 +106,5 @@
 | :white_check_mark: | 130    | Python      | [surrounded-regions](src/surrounded-regions)                                                                               | Medium     | Matrix              |
 | :white_check_mark: | 2095   | Python      | [delete-the-middle-node-of-a-linked-list](src/delete-the-middle-node-of-a-linked-list)                                     | Medium     | Linked List         |
 | :white_check_mark: | 1472   | Python      | [design-browser-history](src/design-browser-history)                                                                       | Medium     | Linked List         |
-| :white_check_mark: | 844    | Python      | [backspace-string-compare](src/backspace-string-compare)                                                                   | Medium     | Stack               |
+| :white_check_mark: | 844    | Python      | [backspace-string-compare](src/backspace-string-compare)                                                                   | Easy       | Stack               |
+| :white_check_mark: | 118    | Python      | [pascals-triangle](src/pascals-triangle)                                                                                   | Easy       | Array               |
