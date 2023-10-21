@@ -108,3 +108,4 @@
 | :white_check_mark: | 1472   | Python      | [design-browser-history](src/design-browser-history)                                                                       | Medium     | Linked List         |
 | :white_check_mark: | 844    | Python      | [backspace-string-compare](src/backspace-string-compare)                                                                   | Easy       | Stack               |
 | :white_check_mark: | 118    | Python      | [pascals-triangle](src/pascals-triangle)                                                                                   | Easy       | Array               |
+| :white_check_mark: | 119    | Python      | [pascals-triangle-ii](src/pascals-triangle-ii)                                                                             | Easy       | Array               |
