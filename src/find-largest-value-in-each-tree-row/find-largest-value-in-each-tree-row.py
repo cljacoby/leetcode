@@ -12,7 +12,6 @@ class Solution(object):
         rows = []
         if root == None:
             return rows
-        row = 0
         rowmax = float('-inf')
         q1 = deque([root])
         q2 = deque([])
@@ -23,14 +22,12 @@ class Solution(object):
                 rows.append(rowmax)
                 while len(q2) > 0:
                     node = q2.pop()
-                    # print(f"visit node={node.val}, row={row}")
                     if node.val > rows[-1]:
                         rows[-1] = node.val
                     if node.left != None:
                         q1.append(node.left)
                     if node.right != None:
                         q1.append(node.right)
-                row += 1
         return rows
         
 
