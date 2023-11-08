@@ -111,3 +111,4 @@
 | :white_check_mark: | 119    | Python      | [pascals-triangle-ii](src/pascals-triangle-ii)                                                                             | Easy       | Array               |
 | :white_check_mark: | 515    | Python      | [find-largest-value-in-each-tree-row](src/find-largest-value-in-each-tree-row)                                             | Medium     | Graph               |
 | :white_check_mark: | 706    | Python      | [design-hashmap](src/design-hashmap)                                                                                       | Easy       | HashMap             |
+| :white_check_mark: | 1845   | Python      | [seat-reservation-manager](src/seat-reservation-manager)                                                                   | Medium     | Array               |

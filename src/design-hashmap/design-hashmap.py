@@ -60,11 +60,12 @@ class MyHashMap(object):
         while node.val[0] != key and node.next != None:
             prev = node
             node = node.next
-        if node.val[0] == key:
-            if prev != None:
-                prev.next = node.next
-            else:
-                self.arr[idx] = node.next
+        if node.val[0] != key:
+            return
+        if prev != None:
+            prev.next = node.next
+        else:
+            self.arr[idx] = node.next
 
 if __name__ == "__main__":
     hmap = MyHashMap()
