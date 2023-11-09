@@ -13,7 +13,6 @@ class Solution(object):
         self.mode = -1
         self.step(root)
         modes = []
-        print(f"mode={self.mode}, freq={self.freq}")
         for (x, count) in self.freq.items():
             if count == self.mode:
                 modes.append(x)
@@ -31,7 +30,6 @@ class Solution(object):
 if __name__ == "__main__":
     sol = Solution()
     tests = [
-        # ([1,None,2,2], [2]),
         ([1,None,2,None,None,2], [2]),
         ([0], [0])
     ]
