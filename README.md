@@ -112,4 +112,5 @@
 | :white_check_mark: | 515    | Python      | [find-largest-value-in-each-tree-row](src/find-largest-value-in-each-tree-row)                                             | Medium     | Graph               |
 | :white_check_mark: | 706    | Python      | [design-hashmap](src/design-hashmap)                                                                                       | Easy       | HashMap             |
 | :white_check_mark: | 1845   | Python      | [seat-reservation-manager](src/seat-reservation-manager)                                                                   | Medium     | Array               |
-| :white_check_mark: | 1535   | Rust        | [find-the-winner-of-an-array-game](src/find-the-winner-of-an-array-game)                                                   | Medium     | Array               |
+| :white_check_mark: | 1535   | Rust        | [find-the-winner-of-an-array-game](src/find-the-winner-of-an-array-game)                                                   | Medium     | Double Ended Queue  |
+| :white_check_mark: | 1759   | Rust        | [count-number-of-homogenous-substrings](src/count-number-of-homogenous-substrings)                                         | Medium     | Double Ended Queue  |
