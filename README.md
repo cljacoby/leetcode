@@ -116,3 +116,4 @@
 | :white_check_mark: | 1759   | Python      | [count-number-of-homogenous-substrings](src/count-number-of-homogenous-substrings)                                         | Medium     | Double Ended Queue  |
 | :white_check_mark: | 501    | Python      | [find-mode-in-binary-search-tree](src/find-mode-in-binary-search-tree)                                                     | Easy       | Tree                |
 | :white_check_mark: | 557    | Python      | [reverse-words-in-a-string-iii](src/reverse-words-in-a-string-iii)                                                         | Easy       | Array               |
+| :white_check_mark: | 1493   | Python      | [longest-subarray-of-1s-after-deleting-one-element](src/longest-subarray-of-1s-after-deleting-one-element)                 | Medium     | Double Ended Queue  |
