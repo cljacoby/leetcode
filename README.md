@@ -118,3 +118,4 @@
 | :white_check_mark: | 557    | Python      | [reverse-words-in-a-string-iii](src/reverse-words-in-a-string-iii)                                                         | Easy       | Array               |
 | :white_check_mark: | 1493   | Python      | [longest-subarray-of-1s-after-deleting-one-element](src/longest-subarray-of-1s-after-deleting-one-element)                 | Medium     | Double Ended Queue  |
 | :white_check_mark: | 725    | Python      | [split-linked-list-in-parts](src/split-linked-list-in-parts)                                                               | Medium     | Linked List         |
+| :white_check_mark: | 138    | Python      | [copy-list-with-random-pointer](src/copy-list-with-random-pointer)                                                         | Medium     | Linked List         |
