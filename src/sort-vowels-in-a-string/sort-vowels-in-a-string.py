@@ -47,7 +47,7 @@ class Solution(object):
                 idx.append(i)
                 v.append(char)
         v.sort(reverse=True)
-        idx = list(reversed(idx))
+        idx.sort(reverse=True)
         while len(v) > 0 and len(idx) > 0:
             assert len(v) == len(idx), "Queue length mismatch"
             i = idx.pop()
