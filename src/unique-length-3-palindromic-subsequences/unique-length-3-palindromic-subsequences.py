@@ -3,12 +3,12 @@
 '''
 Had to reference others solutions on this one. I had the right idea of
 building the index map. Where I went wrong was trying to iterate over
-the first have of characters up to a midpoint testing each for a
+the first half of characters up to a midpoint testing each for a
 palindrome.
 
 The key insight was recognizing any 3 length palindrome will be specific
 to characters with a count >= 2. Therefore, we can take all of these
-instanceas, take the first and last index, slice the string, and count
+instances, take the first and last index, slice the string, and count
 the unique characters occuring within. Summing these together yields the
 answer.
 '''
