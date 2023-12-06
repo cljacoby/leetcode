@@ -124,3 +124,4 @@
 | :white_check_mark: | 1838   | Python      | [frequency-of-the-most-frequent-element](src/frequency-of-the-most-frequent-element)                                       | Medium     | Array               |
 | :white_check_mark: | 2264   | Python      | [largest-3-same-digit-number-in-string](src/largest-3-same-digit-number-in-string)                                         | Easy       | Double Ended Queue  |
 | :white_check_mark: | 1160   | Python,Rust | [find-words-that-can-be-formed-by-characters](src/find-words-that-can-be-formed-by-characters)                             | Easy       | HashMap             |
+| :white_check_mark: | 1688   | Python,Rust | [count-of-matches-in-tournament](src/count-of-matches-in-tournament)                                                       | Easy       | Array               |
