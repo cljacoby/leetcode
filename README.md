@@ -125,5 +125,6 @@
 | :white_check_mark: | 2264   | Python      | [largest-3-same-digit-number-in-string](src/largest-3-same-digit-number-in-string)                                         | Easy       | Double Ended Queue  |
 | :white_check_mark: | 1160   | Python,Rust | [find-words-that-can-be-formed-by-characters](src/find-words-that-can-be-formed-by-characters)                             | Easy       | HashMap             |
 | :white_check_mark: | 1688   | Python,Rust | [count-of-matches-in-tournament](src/count-of-matches-in-tournament)                                                       | Easy       | Array               |
-| :white_check_mark: | 1716   | Rust        | [largest-odd-number-in-string](src/largest-odd-number-in-string)                                                           | Easy       | Array               |
+| :white_check_mark: | 1716   | Python      | [largest-odd-number-in-string](src/largest-odd-number-in-string)                                                           | Easy       | Array               |
 | :white_check_mark: | 1903   | Rust        | [calculate-money-in-leetcode-bank](src/calculate-money-in-leetcode-bank)                                                   | Easy       | Array               |
+| :white_check_mark: | 606    | Python      | [construct-string-from-binary-tree](src/construct-string-from-binary-tree)                                                 | Easy       | Tree                |
