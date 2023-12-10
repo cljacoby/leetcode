@@ -127,4 +127,4 @@
 | :white_check_mark: | 1688   | Python,Rust | [count-of-matches-in-tournament](src/count-of-matches-in-tournament)                                                       | Easy       | Array               |
 | :white_check_mark: | 1716   | Python      | [largest-odd-number-in-string](src/largest-odd-number-in-string)                                                           | Easy       | Array               |
 | :white_check_mark: | 1903   | Rust        | [calculate-money-in-leetcode-bank](src/calculate-money-in-leetcode-bank)                                                   | Easy       | Array               |
-| :white_check_mark: | 606    | Python      | [construct-string-from-binary-tree](src/construct-string-from-binary-tree)                                                 | Easy       | Tree                |
+| :white_check_mark: | 94     | Python      | [binary-tree-inorder-traversal](src/binary-tree-inorder-traversal)                                                         | Easy       | Tree                |
