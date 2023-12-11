@@ -5,7 +5,7 @@ impl Solution {
     pub fn transpose(matrix: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
         let rows = matrix.len();
         let cols = matrix[0].len();
-        let mut out: Vec<Vec<i32>> = vec![vec![i32::MIN; rows]; cols];
+        let mut out = vec![vec![i32::MIN; rows]; cols];
 
         for i in 0..rows {
             for j in 0..cols {
