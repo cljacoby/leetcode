@@ -130,3 +130,4 @@
 | :white_check_mark: | 94     | Python      | [binary-tree-inorder-traversal](src/binary-tree-inorder-traversal)                                                         | Easy       | Tree                |
 | :white_check_mark: | 867    | Rust        | [transpose-matrix](src/transpose-matrix)                                                                                   | Easy       | Matrix              |
 | :white_check_mark: | 1287   | Rust        | [element-appearing-more-than-25-in-sorted-array](src/element-appearing-more-than-25-in-sorted-array)                       | Easy       | HashMap             |
+| :white_check_mark: | 1662   | Python,Rust | [check-if-two-string-arrays-are-equivalent](src/check-if-two-string-arrays-are-equivalent)                                 | Easy       | String             |
