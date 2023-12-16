@@ -131,4 +131,4 @@
 | :white_check_mark: | 867    | Rust        | [transpose-matrix](src/transpose-matrix)                                                                                   | Easy       | Matrix              |
 | :white_check_mark: | 1287   | Rust        | [element-appearing-more-than-25-in-sorted-array](src/element-appearing-more-than-25-in-sorted-array)                       | Easy       | HashMap             |
 | :white_check_mark: | 1662   | Python,Rust | [check-if-two-string-arrays-are-equivalent](src/check-if-two-string-arrays-are-equivalent)                                 | Easy       | String              |
-| :white_check_mark: | 1464   | Python      | [maximum-product-of-two-elements-in-an-array](src/maximum-product-of-two-elements-in-an-array)                             | Easy       | Array               |
+| :white_check_mark: | 1582   | Python      | [special-positions-in-a-binary-matrix](src/special-positions-in-a-binary-matrix)                                           | Easy       | Matrix              |
