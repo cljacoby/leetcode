@@ -26,7 +26,7 @@ impl Solution {
     pub fn image_smoother(img: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
         let rows = img.len();
         let cols = img[0].len();
-        let mut out = vec![vec![0 ; cols] ; rows];
+        let mut out = vec![vec![0; cols]; rows];
 
         for i in 0..rows {
             for j in 0..cols {
@@ -41,15 +41,18 @@ impl Solution {
 fn main() {
     let tests = vec![
         (
-            vec![vec![1,1,1], vec![1,0,1], vec![1,1,1]],
-            vec![vec![0,0,0], vec![0,0,0], vec![0,0,0]],
+            vec![vec![1, 1, 1], vec![1, 0, 1], vec![1, 1, 1]],
+            vec![vec![0, 0, 0], vec![0, 0, 0], vec![0, 0, 0]],
         ),
         (
-            vec![vec![100,200,100],vec![200,50,200],vec![100,200,100]],
-            vec![vec![137,141,137],vec![141,138,141],vec![137,141,137]],
-        )
+            vec![vec![100, 200, 100], vec![200, 50, 200], vec![100, 200, 100]],
+            vec![
+                vec![137, 141, 137],
+                vec![141, 138, 141],
+                vec![137, 141, 137],
+            ],
+        ),
     ];
-
 
     for (img, solution) in tests {
         let result = Solution::image_smoother(img);
@@ -57,4 +60,3 @@ fn main() {
     }
     println!("✅ All tests passed")
 }
-
