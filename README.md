@@ -134,3 +134,4 @@
 | :white_check_mark: | 1582   | Python      | [special-positions-in-a-binary-matrix](src/special-positions-in-a-binary-matrix)                                           | Easy       | Matrix              |
 | :white_check_mark: | 1436   | Rust        | [destination-city](src/destination-city)                                                                                   | Easy       | Array               |
 | :white_check_mark: | 2353   | Python      | [design-a-food-rating-system](src/design-a-food-rating-system)                                                             | Easy       | Heap                |
+| :white_check_mark: | 661    | Rust        | [image-smoother](src/image-smoother)                                                                                       | Easy       | Matrix              |
