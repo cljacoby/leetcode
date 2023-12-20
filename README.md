@@ -8,7 +8,7 @@
 | :white_check_mark: | 572    | Python      | [subtree-of-another-tree](src/subtree-of-another-tree)                                                                     | Easy       | Tree                |
 | :white_check_mark: | 70     | Python      | [climbing-stairs](src/climbing-stairs)                                                                                     | Easy       | Dynamic Programming |
 | :white_check_mark: | 21     | Python      | [merge-two-sorted-lists](src/merge-two-sorted-lists)                                                                       | Easy       | Linked List         |
-| :white_check_mark: | 191    | Python      | [number-of-1-bits](src/number-of-1-bits)                                                                                   | Easy       | Binary              |
+| :white_check_mark: | 191    | Python,Rust | [number-of-1-bits](src/number-of-1-bits)                                                                                   | Easy       | Binary              |
 | :white_check_mark: | 104    | C           | [maximum-depth-of-binary-tree](src/maximum-depth-of-binary-tree)                                                           | Easy       | Tree                |
 | :white_check_mark: | 435    | Python      | [non-overlapping-intervals](src/non-overlapping-intervals)                                                                 | Medium     | Interval            |
 | :white_check_mark: | 153    | Python      | [find-minimum-in-rotated-sorted-array](src/find-minimum-in-rotated-sorted-array)                                           | Medium     | Array               |
