@@ -136,3 +136,4 @@
 | :white_check_mark: | 2353   | Python      | [design-a-food-rating-system](src/design-a-food-rating-system)                                                             | Medium     | Heap                |
 | :white_check_mark: | 661    | Rust        | [image-smoother](src/image-smoother)                                                                                       | Easy       | Matrix              |
 | :white_check_mark: | 1913   | Rust        | [maximum-product-difference-between-two-pairs](src/maximum-product-difference-between-two-pairs)                           | Easy       | Array               |
+| :white_check_mark: | 2706   | Rust        | [buy-two-chocolates](src/buy-two-chocolates)                                                                               | Easy       | Array               |
