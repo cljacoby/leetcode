@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/print-in-order
 
 from threading import Thread, Lock
-import time
+from time import sleep
 from random import random
 
 class Foo(object):
@@ -37,7 +37,7 @@ class Foo(object):
 
 def print_cb(s):
     def cb():
-        time.sleep(random() * 1)
+        sleep(random() * 1)
         print(s)
     return cb
 
