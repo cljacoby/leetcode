@@ -137,3 +137,4 @@
 | :white_check_mark: | 661    | Rust        | [image-smoother](src/image-smoother)                                                                                       | Easy       | Matrix              |
 | :white_check_mark: | 1913   | Rust        | [maximum-product-difference-between-two-pairs](src/maximum-product-difference-between-two-pairs)                           | Easy       | Array               |
 | :white_check_mark: | 2706   | Rust        | [buy-two-chocolates](src/buy-two-chocolates)                                                                               | Easy       | Array               |
+| :white_check_mark: | 1114   | Python      | [print-in-order](src/print-in-order)                                                                                       | Easy       | Concurrency         |
