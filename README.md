@@ -138,3 +138,4 @@
 | :white_check_mark: | 1913   | Rust        | [maximum-product-difference-between-two-pairs](src/maximum-product-difference-between-two-pairs)                           | Easy       | Array               |
 | :white_check_mark: | 2706   | Rust        | [buy-two-chocolates](src/buy-two-chocolates)                                                                               | Easy       | Array               |
 | :white_check_mark: | 1114   | Python      | [print-in-order](src/print-in-order)                                                                                       | Easy       | Concurrency         |
+| :white_check_mark: | 1422   | Rust        | [maximum-score-after-splitting-a-string](src/maximum-score-after-splitting-a-string)                                       | Easy       | String              |
