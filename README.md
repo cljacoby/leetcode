@@ -139,3 +139,4 @@
 | :white_check_mark: | 2706   | Rust        | [buy-two-chocolates](src/buy-two-chocolates)                                                                               | Easy       | Array               |
 | :white_check_mark: | 1114   | Python      | [print-in-order](src/print-in-order)                                                                                       | Easy       | Concurrency         |
 | :white_check_mark: | 1422   | Rust        | [maximum-score-after-splitting-a-string](src/maximum-score-after-splitting-a-string)                                       | Easy       | String              |
+| :white_check_mark: | 1496   | Rust        | [path-crossing](src/path-crossing)                                                                                         | Easy       | Matrix              |
