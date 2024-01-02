@@ -142,3 +142,4 @@
 | :white_check_mark: | 1496   | Rust        | [path-crossing](src/path-crossing)                                                                                         | Easy       | Matrix              |
 | :white_check_mark: | 1624   | Rust        | [largest-substring-between-two-equal-characters](src/largest-substring-between-two-equal-characters)                       | Easy       | String              |
 | :white_check_mark: | 1091   | Rust        | [shortest-path-in-binary-matrix](src/shortest-path-in-binary-matrix)                                                       | Medium     | Matrix              |
+| :white_check_mark: | 455    | Rust        | [assign-cookies](src/assign-cookies)                                                                                       | Easy       | Array               |
