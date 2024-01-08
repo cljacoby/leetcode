@@ -145,3 +145,5 @@
 | :white_check_mark: | 455    | Rust        | [assign-cookies](src/assign-cookies)                                                                                       | Easy       | Array               |
 | :white_check_mark: | 2610   | Rust        | [convert-an-array-into-a-2d-array-with-conditions](src/convert-an-array-into-a-2d-array-with-conditions)                   | Medium     | Matrix              |
 | :white_check_mark: | 451    | Python,Rust | [sort-characters-by-frequency](src/sort-characters-by-frequency)                                                           | Medium     | Heap / HashMap      |
+| :white_check_mark: | 2870   | Python      | [minimum-number-of-operations-to-make-array-empty](src/minimum-number-of-operations-to-make-array-empty)                   | Medium     | Mod Math            |
+| :white_check_mark: | 938    | Python      | [range-sum-of-bst](src/range-sum-of-bst)                                                                                   | Easy       | Tree                |
