@@ -31,7 +31,7 @@
 | :white_check_mark: | 322    | Rust        | [coin-change](src/coin-change)                                                                                             | Medium     | Dynamic Programming |
 | :white_check_mark: | 98     | Python      | [validate-binary-search-tree](src/validate-binary-search-tree)                                                             | Medium     | Tree                |
 | :moneybag:         | 252    |             | meeting-rooms                                                                                                              | Easy       | Interval            |
-| :white_check_mark: | 242    |             | [valid-anagram](src/valid-anagram)                                                                                         | Easy       | String              |
+| :white_check_mark: | 242    | Rust        | [valid-anagram](src/valid-anagram)                                                                                         | Easy       | String              |
 | :white_check_mark: | 57     | Python      | [insert-interval](src/insert-interval)                                                                                     | Medium     | Interval            |
 | :white_check_mark: | 139    | Python      | [word-break](src/word-break)                                                                                               | Medium     | Dynamic Programming |
 | :white_check_mark: | 230    | Python      | [kth-smallest-element-in-a-bst](src/kth-smallest-element-in-a-bst)                                                         | Medium     | Tree                |
