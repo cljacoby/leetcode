@@ -18,7 +18,7 @@ class Solution(object):
                 q.append(node.right)
         return tot
 
-# Iterative + DFS
+# Recurisve + DFS
 class Solution(object):
     def rangeSumBST(self, node, low, high):
         tot = 0
