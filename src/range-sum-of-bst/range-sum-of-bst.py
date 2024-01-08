@@ -38,9 +38,6 @@ if __name__ == "__main__":
     ]
     for (nums, low, high, solution) in tests:
         tree = TreeNode.from_array(nums)
-        print("********")
-        print(f"nums = {nums}, low={low}, high={high}, solution={solution}")
-        tree.print_tree()
         result = sol.rangeSumBST(tree, low, high)
         assert result == solution, \
             f"result {result} != solution {solution}"
