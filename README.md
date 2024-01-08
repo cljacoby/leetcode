@@ -31,7 +31,7 @@
 | :white_check_mark: | 322    | Rust        | [coin-change](src/coin-change)                                                                                             | Medium     | Dynamic Programming |
 | :white_check_mark: | 98     | Python      | [validate-binary-search-tree](src/validate-binary-search-tree)                                                             | Medium     | Tree                |
 | :moneybag:         | 252    |             | meeting-rooms                                                                                                              | Easy       | Interval            |
-| :white_check_mark: | 242    |             | [valid-anagram](src/valid-anagram)                                                                                         | Easy       | String              |
+| :white_check_mark: | 242    | Rust        | [valid-anagram](src/valid-anagram)                                                                                         | Easy       | String              |
 | :white_check_mark: | 57     | Python      | [insert-interval](src/insert-interval)                                                                                     | Medium     | Interval            |
 | :white_check_mark: | 139    | Python      | [word-break](src/word-break)                                                                                               | Medium     | Dynamic Programming |
 | :white_check_mark: | 230    | Python      | [kth-smallest-element-in-a-bst](src/kth-smallest-element-in-a-bst)                                                         | Medium     | Tree                |
@@ -119,7 +119,7 @@
 | :white_check_mark: | 1493   | Python      | [longest-subarray-of-1s-after-deleting-one-element](src/longest-subarray-of-1s-after-deleting-one-element)                 | Medium     | Double Ended Queue  |
 | :white_check_mark: | 725    | Python      | [split-linked-list-in-parts](src/split-linked-list-in-parts)                                                               | Medium     | Linked List         |
 | :white_check_mark: | 138    | Python      | [copy-list-with-random-pointer](src/copy-list-with-random-pointer)                                                         | Medium     | Linked List         |
-| :white_check_mark: | 2785   | Python      | [sort-vowels-in-a-string](src/sort-vowels-in-a-string)                                                                     | Medium     | Heap / Array        |
+| :white_check_mark: | 2785   | Python      | [sort-vowels-in-a-string](src/sort-vowels-in-a-string)                                                                     | Medium     | Heap                |
 | :white_check_mark: | 1930   | Python      | [unique-length-3-palindromic-subsequences](src/unique-length-3-palindromic-subsequences)                                   | Medium     | Array               |
 | :white_check_mark: | 1838   | Python      | [frequency-of-the-most-frequent-element](src/frequency-of-the-most-frequent-element)                                       | Medium     | Array               |
 | :white_check_mark: | 2264   | Python      | [largest-3-same-digit-number-in-string](src/largest-3-same-digit-number-in-string)                                         | Easy       | Double Ended Queue  |
@@ -144,6 +144,6 @@
 | :white_check_mark: | 1091   | Rust        | [shortest-path-in-binary-matrix](src/shortest-path-in-binary-matrix)                                                       | Medium     | Matrix              |
 | :white_check_mark: | 455    | Rust        | [assign-cookies](src/assign-cookies)                                                                                       | Easy       | Array               |
 | :white_check_mark: | 2610   | Rust        | [convert-an-array-into-a-2d-array-with-conditions](src/convert-an-array-into-a-2d-array-with-conditions)                   | Medium     | Matrix              |
-| :white_check_mark: | 451    | Python,Rust | [sort-characters-by-frequency](src/sort-characters-by-frequency)                                                           | Medium     | Heap / HashMap      |
+| :white_check_mark: | 451    | Python,Rust | [sort-characters-by-frequency](src/sort-characters-by-frequency)                                                           | Medium     | Heap                |
 | :white_check_mark: | 2870   | Python      | [minimum-number-of-operations-to-make-array-empty](src/minimum-number-of-operations-to-make-array-empty)                   | Medium     | Mod Math            |
 | :white_check_mark: | 938    | Python      | [range-sum-of-bst](src/range-sum-of-bst)                                                                                   | Easy       | Tree                |
