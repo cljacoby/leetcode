@@ -18,6 +18,7 @@ echo "Languages:"
 cat README.md \
     | tail -n +3 \
     | awk -F "|" '{print $4 }' \
+    | awk NF \
     | sort \
     | uniq -c \
     | sort -r
@@ -27,6 +28,7 @@ echo "Categories:"
 cat README.md \
     | tail -n +3 \
     | awk -F "|" '{print $7 }' \
+    | awk NF \
     | sort \
     | uniq -c \
     | sort -r
