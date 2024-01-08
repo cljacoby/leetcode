@@ -14,6 +14,15 @@ cat README.md \
     | uniq -c
 echo ""
 
+echo "Languages:"
+cat README.md \
+    | tail -n +3 \
+    | awk -F "|" '{print $4 }' \
+    | sort \
+    | uniq -c \
+    | sort -r
+echo ""
+
 echo "Categories:"
 cat README.md \
     | tail -n +3 \
@@ -22,3 +31,4 @@ cat README.md \
     | uniq -c \
     | sort -r
 echo ""
+
