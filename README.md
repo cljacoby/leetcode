@@ -8,13 +8,13 @@
 | :white_check_mark: | 572    | Python      | [subtree-of-another-tree](src/subtree-of-another-tree)                                                                     | Easy       | Tree                |
 | :white_check_mark: | 70     | Python      | [climbing-stairs](src/climbing-stairs)                                                                                     | Easy       | Dynamic Programming |
 | :white_check_mark: | 21     | Python      | [merge-two-sorted-lists](src/merge-two-sorted-lists)                                                                       | Easy       | Linked List         |
-| :white_check_mark: | 191    | Python,Rust | [number-of-1-bits](src/number-of-1-bits)                                                                                   | Easy       | Binary              |
+| :white_check_mark: | 191    | Rust,Python | [number-of-1-bits](src/number-of-1-bits)                                                                                   | Easy       | Binary              |
 | :white_check_mark: | 104    | C           | [maximum-depth-of-binary-tree](src/maximum-depth-of-binary-tree)                                                           | Easy       | Tree                |
 | :white_check_mark: | 435    | Python      | [non-overlapping-intervals](src/non-overlapping-intervals)                                                                 | Medium     | Interval            |
 | :white_check_mark: | 153    | Python      | [find-minimum-in-rotated-sorted-array](src/find-minimum-in-rotated-sorted-array)                                           | Medium     | Array               |
 | :white_check_mark: | 206    | C           | [reverse-linked-list](src/reverse-linked-list)                                                                             | Easy       | Linked List         |
 | :white_check_mark: | 128    | Python      | [longest-consecutive-sequence](src/longest-consecutive-sequence)                                                           | Medium     | Graph               |
-| :white_check_mark: | 417    | Rust/Python | [pacific-atlantic-water-flow](src/pacific-atlantic-water-flow)                                                             | Medium     | Graph               |
+| :white_check_mark: | 417    | Rust,Python | [pacific-atlantic-water-flow](src/pacific-atlantic-water-flow)                                                             | Medium     | Graph               |
 | :white_check_mark: | 53     | Python      | [maximum-subarray](src/maximum-subarray)                                                                                   | Medium     | Array               |
 | :white_check_mark: | 198    | Python      | [house-robber](src/house-robber)                                                                                           | Medium     | Dynamic Programming |
 | :white_check_mark: | 125    | Rust        | [valid-palindrome](src/valid-palindrome)                                                                                   | Easy       | String              |
@@ -24,7 +24,7 @@
 | :moneybag:         | 271    |             | encode-and-decode-strings                                                                                                  | Medium     | String              |
 | :white_check_mark: | 424    | Python      | [longest-repeating-character-replacement](src/longest-repeating-character-replacement)                                     | Medium     | String              |
 | :white_check_mark: | 3      | Python      | [longest-substring-without-repeating-characters](src/longest-substring-without-repeating-characters)                       | Medium     | String              |
-| :white_check_mark: | 125    | Rust/Python | [longest-common-subsequence](src/longest-common-subsequence)                                                               | Medium     | Dynamic Programming |
+| :white_check_mark: | 125    | Rust,Python | [longest-common-subsequence](src/longest-common-subsequence)                                                               | Medium     | Dynamic Programming |
 | :white_check_mark: | 295    | Rust        | [find-median-from-data-stream](src/find-median-from-data-stream)                                                           | Hard       | Heap                |
 |                    | 15     |             | 3sum                                                                                                                       | Medium     | Array               |
 | :white_check_mark: | 11     | Python      | [container-with-most-water](src/container-with-most-water)                                                                 | Medium     | Array               |
@@ -123,14 +123,14 @@
 | :white_check_mark: | 1930   | Python      | [unique-length-3-palindromic-subsequences](src/unique-length-3-palindromic-subsequences)                                   | Medium     | Array               |
 | :white_check_mark: | 1838   | Python      | [frequency-of-the-most-frequent-element](src/frequency-of-the-most-frequent-element)                                       | Medium     | Array               |
 | :white_check_mark: | 2264   | Python      | [largest-3-same-digit-number-in-string](src/largest-3-same-digit-number-in-string)                                         | Easy       | Double Ended Queue  |
-| :white_check_mark: | 1160   | Python,Rust | [find-words-that-can-be-formed-by-characters](src/find-words-that-can-be-formed-by-characters)                             | Easy       | HashMap             |
-| :white_check_mark: | 1688   | Python,Rust | [count-of-matches-in-tournament](src/count-of-matches-in-tournament)                                                       | Easy       | Array               |
+| :white_check_mark: | 1160   | Rust,Python | [find-words-that-can-be-formed-by-characters](src/find-words-that-can-be-formed-by-characters)                             | Easy       | HashMap             |
+| :white_check_mark: | 1688   | Rust,Python | [count-of-matches-in-tournament](src/count-of-matches-in-tournament)                                                       | Easy       | Array               |
 | :white_check_mark: | 1716   | Python      | [largest-odd-number-in-string](src/largest-odd-number-in-string)                                                           | Easy       | Array               |
 | :white_check_mark: | 1903   | Rust        | [calculate-money-in-leetcode-bank](src/calculate-money-in-leetcode-bank)                                                   | Easy       | Array               |
 | :white_check_mark: | 94     | Python      | [binary-tree-inorder-traversal](src/binary-tree-inorder-traversal)                                                         | Easy       | Tree                |
 | :white_check_mark: | 867    | Rust        | [transpose-matrix](src/transpose-matrix)                                                                                   | Easy       | Matrix              |
 | :white_check_mark: | 1287   | Rust        | [element-appearing-more-than-25-in-sorted-array](src/element-appearing-more-than-25-in-sorted-array)                       | Easy       | HashMap             |
-| :white_check_mark: | 1662   | Python,Rust | [check-if-two-string-arrays-are-equivalent](src/check-if-two-string-arrays-are-equivalent)                                 | Easy       | String              |
+| :white_check_mark: | 1662   | Rust,Python | [check-if-two-string-arrays-are-equivalent](src/check-if-two-string-arrays-are-equivalent)                                 | Easy       | String              |
 | :white_check_mark: | 1582   | Python      | [special-positions-in-a-binary-matrix](src/special-positions-in-a-binary-matrix)                                           | Easy       | Matrix              |
 | :white_check_mark: | 1436   | Rust        | [destination-city](src/destination-city)                                                                                   | Easy       | Array               |
 | :white_check_mark: | 2353   | Python      | [design-a-food-rating-system](src/design-a-food-rating-system)                                                             | Medium     | Heap                |
@@ -144,6 +144,6 @@
 | :white_check_mark: | 1091   | Rust        | [shortest-path-in-binary-matrix](src/shortest-path-in-binary-matrix)                                                       | Medium     | Matrix              |
 | :white_check_mark: | 455    | Rust        | [assign-cookies](src/assign-cookies)                                                                                       | Easy       | Array               |
 | :white_check_mark: | 2610   | Rust        | [convert-an-array-into-a-2d-array-with-conditions](src/convert-an-array-into-a-2d-array-with-conditions)                   | Medium     | Matrix              |
-| :white_check_mark: | 451    | Python,Rust | [sort-characters-by-frequency](src/sort-characters-by-frequency)                                                           | Medium     | Heap                |
+| :white_check_mark: | 451    | Rust,Python | [sort-characters-by-frequency](src/sort-characters-by-frequency)                                                           | Medium     | Heap                |
 | :white_check_mark: | 2870   | Python      | [minimum-number-of-operations-to-make-array-empty](src/minimum-number-of-operations-to-make-array-empty)                   | Medium     | Mod Math            |
 | :white_check_mark: | 938    | Python      | [range-sum-of-bst](src/range-sum-of-bst)                                                                                   | Easy       | Tree                |
