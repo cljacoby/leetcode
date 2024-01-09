@@ -3,17 +3,17 @@
 /**
  * Definition for a binary tree node.
  */
-struct TreeNode {
+typedef struct TreeNode {
     int val;
     struct TreeNode *left;
     struct TreeNode *right;
-};
+} TreeNode;
 
 void init_tree_node(
-    struct TreeNode* node,
+    TreeNode* node,
     int val,
-    struct TreeNode* left,
-    struct TreeNode* right
+    TreeNode* left,
+    TreeNode* right
 ) {
     node->val = val;
     node->left = left;
@@ -21,7 +21,7 @@ void init_tree_node(
 }
 
 void print_tree(
-    struct TreeNode *node,
+    TreeNode *node,
     unsigned int indent
 ) {
     if (node == NULL) {
@@ -37,4 +37,28 @@ void print_tree(
     );
     print_tree(node->left, indent + 1);
     print_tree(node->right, indent + 1);
+}
+
+
+/**
+ * Caller must allocate `nodes` buffer with space for at least
+ * `length` number of TreeNodes. The `length` should also be the same
+ * length for the `values` array.
+ *
+ * Currently only supports trees where values are greater than 0,
+ * as -1 is used to infer null values in the input array.
+ * */
+TreeNode* tree_from_array(
+    TreeNode* nodes,
+    const int* values,
+    int length,
+    int index
+) {
+    if (index >= length || values[index] == -1) {
+        return NULL;
+    }
+    nodes[index].val = values[index];
+    nodes[index].left = tree_from_array(nodes, values, length, 2 * index + 1);
+    nodes[index].right = tree_from_array(nodes, values, length, 2 * index + 2);
+    return &nodes[index];
 }
