@@ -147,3 +147,4 @@
 | :white_check_mark: | 451    | Rust,Python | [sort-characters-by-frequency](src/sort-characters-by-frequency)                                                           | Medium     | Heap                |
 | :white_check_mark: | 2870   | Python      | [minimum-number-of-operations-to-make-array-empty](src/minimum-number-of-operations-to-make-array-empty)                   | Medium     | Mod Math            |
 | :white_check_mark: | 938    | Python      | [range-sum-of-bst](src/range-sum-of-bst)                                                                                   | Easy       | Tree                |
+| :white_check_mark: | 872    | C,Python      | [leaf-similar-trees](src/leaf-similar-trees)                                                                               | Easy       | Tree                |
