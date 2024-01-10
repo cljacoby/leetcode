@@ -3,7 +3,7 @@
 from TreeNode import TreeNode
 from collections import deque
 
-# Kinda gross, vervose BFS solution.
+# Kinda gross, lengthy BFS solution.
 
 class Solution(object):
     def init_parent_lookup(self, root):
