@@ -36,8 +36,8 @@ class Solution(object):
             pending.append(node.left)
         if node.right and node.right.val not in visited:
             pending.append(node.right)
-        if plookup.get(node.val) and plookup[node.val].val not in visited:
-            p = plookup[node.val]
+        p = plookup.get(node.val)
+        if p and p.val not in visited:
             pending.append(p)
 
     def amountOfTime(self, root, start):
