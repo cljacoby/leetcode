@@ -151,3 +151,4 @@
 | :white_check_mark: | 2385   | Python      | [amount-of-time-for-binary-tree-to-be-infected](src/amount-of-time-for-binary-tree-to-be-infected)                         | Medium     | Graph               |
 | :white_check_mark: | 1026   | Python      | [maximum-difference-between-node-and-ancestor](src/maximum-difference-between-node-and-ancestor)                           | Medium     | Tree                |
 | :white_check_mark: | 1704   | Python      | [determine-if-string-halves-are-alike](src/determine-if-string-halves-are-alike)                                           | Easy       | String              |
+| :white_check_mark: | 1347   | Python      | [minimum-number-of-steps-to-make-two-strings-anagram](src/minimum-number-of-steps-to-make-two-strings-anagram)             | Medium     | String              |
