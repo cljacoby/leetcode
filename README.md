@@ -102,7 +102,7 @@
 | :white_check_mark: | 155    | Python      | [min-stack](src/min-stack)                                                                                                 | Medium     | Array               |
 | :white_check_mark: | 981    | Python      | [time-based-key-value-store](src/time-based-key-value-store)                                                               | Medium     | Array               |
 | :white_check_mark: | 704    | Python      | [binary-search](src/binary-search)                                                                                         | Easy       | Binary Search       |
-| :white_check_mark: | 380    | Python      | [insert-delete-getrandom-o1](src/insert-delete-getrandom-o1)                                                               | Medium     | HashMap             |
+| :white_check_mark: | 380    | Rust,Python | [insert-delete-getrandom-o1](src/insert-delete-getrandom-o1)                                                               | Medium     | HashMap             |
 | :white_check_mark: | 130    | Python      | [surrounded-regions](src/surrounded-regions)                                                                               | Medium     | Matrix              |
 | :white_check_mark: | 2095   | Python      | [delete-the-middle-node-of-a-linked-list](src/delete-the-middle-node-of-a-linked-list)                                     | Medium     | Linked List         |
 | :white_check_mark: | 1472   | Python      | [design-browser-history](src/design-browser-history)                                                                       | Medium     | Linked List         |
