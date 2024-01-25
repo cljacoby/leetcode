@@ -5,6 +5,7 @@ use std::collections::HashSet;
 use rand::rngs::ThreadRng;
 use rand::seq::SliceRandom;
 
+#[derive(Debug)]
 struct RandomizedCollection {
     values: Vec<i32>,
     // val -> (idx, count)
@@ -29,8 +30,8 @@ impl RandomizedCollection {
     
     fn insert(&mut self, val: i32) -> bool {
         match self.index.get_mut(&val) {
-            Some(v) => {
-                v.insert(self.values.len());
+            Some(hset) => {
+                assert!(hset.insert(self.values.len()));
                 self.values.push(val);
                 false
             },
@@ -41,28 +42,40 @@ impl RandomizedCollection {
             }
         }
     }
-    
-    fn remove(&mut self, val: i32) -> bool {
-        if let Some(mut set)  = self.index.remove(&val) {
-            let idx = set.iter().next()
-                .expect("Empty index entry hashset")
-                .to_owned();
-            let last = self.values.last()
-                .expect("Fail to get last");
-            let last_set = self.index.get_mut(last)
-                .expect("Fail to get last set");
-            assert!(last_set.remove(&(self.values.len() - 1)));
-            last_set.insert(idx);
-            assert!(self.values.swap_remove(idx) == val);
-            set.remove(&idx);
-            if set.len() > 0 {
-                assert!(self.index.insert(val, set).is_none());
-            }
 
-            return true;
+    fn val_idx_pop_next(&self, val: &i32) -> Option<usize> {
+        if let Some(hset) = self.index.get(val) {
+            let idx = hset.iter().next()
+                .expect("Hset present with no indices")
+                .to_owned();
+
+            return Some(idx);
         }
 
-        false
+        None
+    }
+    
+    fn remove(&mut self, val: i32) -> bool {
+        if let None = self.index.get(&val) {
+            return false;
+        }
+
+        let idx = self.val_idx_pop_next(&val)
+            .expect("Index had val entry, but did not get index to pop");
+        let last = self.values.last()
+            .expect("Fail to get last")
+            .to_owned();
+        let last_hset = self.index.get_mut(&last)
+            .expect("Fail to get last set");
+        assert!(last_hset.remove(&(self.values.len() - 1)));
+        last_hset.insert(idx);
+        assert!(self.values.swap_remove(idx) == val);
+
+        let hset = self.index.get_mut(&val)
+            .expect("Did not get hset for val");
+        hset.remove(&idx);
+
+        true
     }
     
     fn get_random(&mut self) -> i32 {
@@ -76,6 +89,7 @@ impl RandomizedCollection {
 fn main() {
     let mut obj = RandomizedCollection::new();
     assert!(obj.insert(1));
+    println!("obj = {:?}", obj);
     assert!(obj.get_random() == 1);
     assert!(obj.remove(1));
     assert!(!obj.remove(2));
