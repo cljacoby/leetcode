@@ -1,0 +1,11 @@
+[package]
+name = "insert-delete-getrandom-o1-duplicates-allowed"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "insert-delete-getrandom-o1-duplicates-allowed"
+path = "insert-delete-getrandom-o1-duplicates-allowed.rs"
+
+[dependencies]
+rand = "0.8.5"
