@@ -154,3 +154,4 @@
 | :white_check_mark: | 1347   | Python      | [minimum-number-of-steps-to-make-two-strings-anagram](src/minimum-number-of-steps-to-make-two-strings-anagram)             | Medium     | String              |
 | :white_check_mark: | 2225   | Rust,Python | [find-players-with-zero-or-one-losses](src/find-players-with-zero-or-one-losses)                                           | Medium     | HashMap             |
 | :white_check_mark: | 1207   | Rust        | [unique-number-of-occurrences](src/unique-number-of-occurrences)                                                           | Medium     | HashMap             |
+| :white_check_mark: | 381    | Python      | [insert-delete-getrandom-o1-duplicates-allowed/description](src/insert-delete-getrandom-o1-duplicates-allowed/description) | Hard       | HashMap             |
