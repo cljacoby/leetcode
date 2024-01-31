@@ -3,7 +3,7 @@ struct Solution;
 
 impl Solution {
     pub fn daily_temperatures(temps: Vec<i32>) -> Vec<i32> {
-        let mut out: Vec<i32> = vec![0; temps.len()];
+        let mut out = vec![0; temps.len()];
         let mut stack: Vec<(usize, i32)> = vec![];
 
         for (i, t1) in temps.iter().enumerate() {
@@ -29,8 +29,8 @@ fn main() {
             vec![1, 1, 4, 2, 1, 1, 0, 0],
         ),
         (
-                vec![30,40,50,60],
-                vec![1,1,1,0],
+            vec![30,40,50,60],
+            vec![1,1,1,0],
         ),
         (
             vec![30,60,90],
