@@ -157,3 +157,4 @@
 | :white_check_mark: | 381    | Python      | [insert-delete-getrandom-o1-duplicates-allowed](src/insert-delete-getrandom-o1-duplicates-allowed)                         | Hard       | HashMap             |
 | :white_check_mark: | 150    | Rust        | [evaluate-reverse-polish-notation](src/evaluate-reverse-polish-notation)                                                   | Medium     | Stack               |
 | :white_check_mark: | 739    | Python,Rust | [daily-temperatures](src/daily-temperatures)                                                                               | Medium     | Stack               |
+| :white_check_mark: | 645    | Rust        | [set-mismatch](src/set-mismatch)                                                                                           | Easy       | HashMap             |
