@@ -1,0 +1,127 @@
+{
+  "title_slug": "first-unique-character-in-a-string",
+  "title": "First Unique Character in a String",
+  "code_snippets": [
+    {
+      "lang": "C++",
+      "langSlug": "cpp",
+      "code": "class Solution {\npublic:\n    int firstUniqChar(string s) {\n        \n    }\n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Java",
+      "langSlug": "java",
+      "code": "class Solution {\n    public int firstUniqChar(String s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python",
+      "langSlug": "python",
+      "code": "class Solution(object):\n    def firstUniqChar(self, s):\n        \"\"\"\n        :type s: str\n        :rtype: int\n        \"\"\"\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python3",
+      "langSlug": "python3",
+      "code": "class Solution:\n    def firstUniqChar(self, s: str) -> int:\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C",
+      "langSlug": "c",
+      "code": "int firstUniqChar(char* s) {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C#",
+      "langSlug": "csharp",
+      "code": "public class Solution {\n    public int FirstUniqChar(string s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "JavaScript",
+      "langSlug": "javascript",
+      "code": "/**\n * @param {string} s\n * @return {number}\n */\nvar firstUniqChar = function(s) {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "TypeScript",
+      "langSlug": "typescript",
+      "code": "function firstUniqChar(s: string): number {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "PHP",
+      "langSlug": "php",
+      "code": "class Solution {\n\n    /**\n     * @param String $s\n     * @return Integer\n     */\n    function firstUniqChar($s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Swift",
+      "langSlug": "swift",
+      "code": "class Solution {\n    func firstUniqChar(_ s: String) -> Int {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Kotlin",
+      "langSlug": "kotlin",
+      "code": "class Solution {\n    fun firstUniqChar(s: String): Int {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Dart",
+      "langSlug": "dart",
+      "code": "class Solution {\n  int firstUniqChar(String s) {\n    \n  }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Go",
+      "langSlug": "golang",
+      "code": "func firstUniqChar(s string) int {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Ruby",
+      "langSlug": "ruby",
+      "code": "# @param {String} s\n# @return {Integer}\ndef first_uniq_char(s)\n    \nend",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Scala",
+      "langSlug": "scala",
+      "code": "object Solution {\n    def firstUniqChar(s: String): Int = {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Rust",
+      "langSlug": "rust",
+      "code": "impl Solution {\n    pub fn first_uniq_char(s: String) -> i32 {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Racket",
+      "langSlug": "racket",
+      "code": "(define/contract (first-uniq-char s)\n  (-> string? exact-integer?)\n  )",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Erlang",
+      "langSlug": "erlang",
+      "code": "-spec first_uniq_char(S :: unicode:unicode_binary()) -> integer().\nfirst_uniq_char(S) ->\n  .",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Elixir",
+      "langSlug": "elixir",
+      "code": "defmodule Solution do\n  @spec first_uniq_char(s :: String.t) :: integer\n  def first_uniq_char(s) do\n    \n  end\nend",
+      "__typename": "CodeSnippetNode"
+    }
+  ],
+  "content": "<p>Given a string <code>s</code>, <em>find the first non-repeating character in it and return its index</em>. If it does not exist, return <code>-1</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"leetcode\"\n<strong>Output:</strong> 0\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \"loveleetcode\"\n<strong>Output:</strong> 2\n</pre><p><strong class=\"example\">Example 3:</strong></p>\n<pre><strong>Input:</strong> s = \"aabb\"\n<strong>Output:</strong> -1\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>s</code> consists of only lowercase English letters.</li>\n</ul>\n",
+  "question_id": 387,
+  "question_frontend_id": 387,
+  "difficulty": "Easy",
+  "likes": 8780,
+  "dislikes": 284,
+  "sample_test_case": "\"leetcode\""
+}
