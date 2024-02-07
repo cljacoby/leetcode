@@ -63,12 +63,31 @@ class Solution(object):
             s += char * count
         return s
 
+# Wow I just wrote this again from scratch without realizing I'd done
+# this before, and spat out basically the exact same code as a couple months
+# ago.
+class Solution(object):
+    def frequencySort(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        freq = dict()
+        for ch in s:
+            freq[ch] = freq.get(ch, 0) + 1
+        pairs = [(k,v) for k,v in
+                sorted(freq.items(), key=lambda pair: pair[1],
+                    reverse=True)]
+        s = ""
+        for (ch, count) in pairs:
+            s += ch * count
+        return s
 
 if __name__ == "__main__":
     sol = Solution()
     tests = [
-        ("cccaaa", "aaaccc"),
-        ("Aabb", "bbAa")
+        ("cccaaa", "cccaaa"),
+        ("Aabb", "bbAa"),
     ]
     for (s, solution) in tests:
         result = sol.frequencySort(s)
