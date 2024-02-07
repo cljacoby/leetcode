@@ -82,7 +82,6 @@ class Solution(object):
         for (ch, count) in pairs:
             s += ch * count
         return s
-        
 
 if __name__ == "__main__":
     sol = Solution()
