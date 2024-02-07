@@ -1,6 +1,6 @@
 | Completed          | Number | Language    | Slug                                                                                                                       | Difficulty | Category            |
 |--------------------|--------|-------------|----------------------------------------------------------------------------------------------------------------------------|------------|---------------------|
-| :white_check_mark: | 49     | Python      | [group-anagrams](src/group-anagrams)                                                                                       | Medium     | String              |
+| :white_check_mark: | 49     | Rust,Python | [group-anagrams](src/group-anagrams)                                                                                       | Medium     | String              |
 | :white_check_mark: | 105    | Python      | [construct-binary-tree-from-preorder-and-inorder-traversal](src/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium     | Tree                |
 | :white_check_mark: | 200    | Python      | [number-of-islands](src/number-of-islands)                                                                                 | Medium     | Graph               |
 | :white_check_mark: | 55     | Python      | [jump-game](src/jump-game)                                                                                                 | Medium     | Dynamic Programming |
