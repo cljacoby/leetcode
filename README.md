@@ -160,4 +160,5 @@
 | :white_check_mark: | 645    | Rust        | [set-mismatch](src/set-mismatch)                                                                                           | Easy       | HashMap             |
 | :white_check_mark: | 387    | Rust        | [first-unique-character-in-a-string](src/first-unique-character-in-a-string)                                               | Easy       | String              |
 | :white_check_mark: | 349    | Rust        | [intersection-of-two-arrays](src/intersection-of-two-arrays)                                                               | Easy       | HashSet             |
-| :white_check_mark: | 977    | Rust        | [squares-of-a-sorted-array/](src/squares-of-a-sorted-array)                                                                | Easy       | Array               |
+| :white_check_mark: | 977    | Rust        | [squares-of-a-sorted-array](src/squares-of-a-sorted-array)                                                                 | Easy       | Array               |
+| :white_check_mark: | 1137   | Rust        | [n-th-tribonacci-number](src/n-th-tribonacci-number)                                                                       | Easy       | Array               |
