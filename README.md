@@ -162,3 +162,4 @@
 | :white_check_mark: | 349    | Rust        | [intersection-of-two-arrays](src/intersection-of-two-arrays)                                                               | Easy       | HashSet             |
 | :white_check_mark: | 977    | Rust        | [squares-of-a-sorted-array](src/squares-of-a-sorted-array)                                                                 | Easy       | Array               |
 | :white_check_mark: | 1137   | Rust        | [n-th-tribonacci-number](src/n-th-tribonacci-number)                                                                       | Easy       | Array               |
+| :white_check_mark: | 2387   | Python      | [remove-nodes-from-linked-list/](src/remove-nodes-from-linked-list/)                                                       | Medium     | Linked List         |
