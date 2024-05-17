@@ -164,3 +164,4 @@
 | :white_check_mark: | 1137   | Rust        | [n-th-tribonacci-number](src/n-th-tribonacci-number)                                                                       | Easy       | Array               |
 | :white_check_mark: | 2387   | Python      | [remove-nodes-from-linked-list/](src/remove-nodes-from-linked-list)                                                        | Medium     | Linked List         |
 | :white_check_mark: | 2373   | Python      | [largest-local-values-in-a-matrix](src/largest-local-values-in-a-matrix)                                                   | Easy       | Matrix              |
+| :white_check_mark: | 1325   | Python      | [delete-leaves-with-a-given-value](src/delete-leaves-with-a-given-value)                                                   | Medium     | Tree                |
