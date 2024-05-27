@@ -169,3 +169,4 @@
 | :white_check_mark: | 1219   | Python      | [path-with-maximum-gold](src/path-with-maximum-gold)                                                                       | Medium     | Matrix              |
 | :white_check_mark: | 861    | Python      | [score-after-flipping-matrix](src/score-after-flipping-matrix)                                                             | Medium     | Matrix              |
 | :white_check_mark: | 2597   | Python      | [the-number-of-beautiful-subsets](src/the-number-of-beautiful-subsets)                                                     | Medium     | Array               |
+| :white_check_mark: | 2000   | Python      | [reverse-prefix-of-word](src/reverse-prefix-of-word)                                                                       | Easy       | String              |
