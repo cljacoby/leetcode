@@ -170,3 +170,4 @@
 | :white_check_mark: | 861    | Python      | [score-after-flipping-matrix](src/score-after-flipping-matrix)                                                             | Medium     | Matrix              |
 | :white_check_mark: | 2597   | Python      | [the-number-of-beautiful-subsets](src/the-number-of-beautiful-subsets)                                                     | Medium     | Array               |
 | :white_check_mark: | 2000   | Python      | [reverse-prefix-of-word](src/reverse-prefix-of-word)                                                                       | Easy       | String              |
+| :white_check_mark: | 3110   | Rust        | [score-of-a-string](src/score-of-a-string)                                                                                 | Easy       | String              |
