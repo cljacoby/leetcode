@@ -172,3 +172,4 @@
 | :white_check_mark: | 2000   | Python      | [reverse-prefix-of-word](src/reverse-prefix-of-word)                                                                       | Easy       | String              |
 | :white_check_mark: | 3110   | Rust        | [score-of-a-string](src/score-of-a-string)                                                                                 | Easy       | String              |
 | :white_check_mark: | 1002   | Rust,Python | [find-common-characters](src/find-common-characters)                                                                       | Easy       | String              |
+| :white_check_mark: | 13     | Python      | [roman-to-integer](src/roman-to-integer)                                                                                   | Easy       | Queue               |
