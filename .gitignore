@@ -1,5 +1,11 @@
 *.DS_Store
 
+# Ignore directories where I used `cargo init` to setup a project.
+# Just take the single rust solution file.
+*Cargo.lock
+*Cargo.toml
+
+
 # Compiled executables.
 *.out
 
