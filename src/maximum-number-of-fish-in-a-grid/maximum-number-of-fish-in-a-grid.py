@@ -10,28 +10,28 @@ class Solution(object):
         self.rows = len(self.grid)
         self.cols = len(self.grid[0])
         mx = 0
+        seen = set()
         for i in range(self.rows):
             for j in range(self.cols):
-                mx = max(mx, self.step(i, j, set()))
+                mx = max(mx, self.step(i, j, seen))
         return mx
 
-    def step(self, i, j, path):
+    def step(self, i, j, seen):
         if (i < 0
             or i >= self.rows
             or j < 0
             or j >= self.cols
             or self.grid[i][j] == 0
-            or (i, j) in path
+            or (i,j) in seen
         ):
             return 0
-        path.add((i,j))
-        mx = sum([
-            self.step(i+1, j, path),
-            self.step(i, j+1, path),
-            self.step(i-1, j, path),
-            self.step(i, j-1, path),
-        ])
-        return mx + self.grid[i][j]
+        seen.add((i, j))
+        tot = self.grid[i][j] \
+            + self.step(i+1, j, seen) \
+            + self.step(i, j+1, seen) \
+            + self.step(i-1, j, seen) \
+            + self.step(i, j-1, seen)
+        return tot
         
 
 if __name__ == "__main__":
