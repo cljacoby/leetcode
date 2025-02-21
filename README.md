@@ -176,3 +176,4 @@
 | :white_check_mark: | 13     | Python      | [roman-to-integer](src/roman-to-integer)                                                                                   | Easy       | Queue               |
 | :white_check_mark: | 2658   | Python      | [maximum-number-of-fish-in-a-grid](src/maximum-number-of-fish-in-a-grid)                                                   | Medium     | Matrix              |
 | :white_check_mark: | 1261   | Python      | [find-elements-in-a-contaminated-binary-tree](src/find-elements-in-a-contaminated-binary-tree)                             | Medium     | Tree                |
+| :white_check_mark: | 1980   | Python      | [find-unique-binary-string](src/find-unique-binary-string)                                                                 | Medium     | Binary              |
