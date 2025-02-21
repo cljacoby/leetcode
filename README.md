@@ -175,3 +175,4 @@
 | :white_check_mark: | 2109   | Rust        | [adding-spaces-to-a-string](src/adding-spaces-to-a-string)                                                                 | Medium     | String              |
 | :white_check_mark: | 13     | Python      | [roman-to-integer](src/roman-to-integer)                                                                                   | Easy       | Queue               |
 | :white_check_mark: | 2658   | Python      | [maximum-number-of-fish-in-a-grid](src/maximum-number-of-fish-in-a-grid)                                                   | Medium     | Matrix              |
+| :white_check_mark: | 1261   | Python      | [find-elements-in-a-contaminated-binary-tree](src/find-elements-in-a-contaminated-binary-tree)                             | Medium     | Tree                |
