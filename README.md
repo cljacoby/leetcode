@@ -177,3 +177,4 @@
 | :white_check_mark: | 2658   | Python      | [maximum-number-of-fish-in-a-grid](src/maximum-number-of-fish-in-a-grid)                                                   | Medium     | Matrix              |
 | :white_check_mark: | 1261   | Python      | [find-elements-in-a-contaminated-binary-tree](src/find-elements-in-a-contaminated-binary-tree)                             | Medium     | Tree                |
 | :white_check_mark: | 1980   | Python      | [find-unique-binary-string](src/find-unique-binary-string)                                                                 | Medium     | Binary              |
+| :white_check_mark: | 1352   | Python      | [product-of-the-last-k-numbers](src/product-of-the-last-k-numbers)                                                         | Medium     | Array               |
