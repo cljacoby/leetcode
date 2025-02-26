@@ -179,3 +179,4 @@
 | :white_check_mark: | 1980   | Python      | [find-unique-binary-string](src/find-unique-binary-string)                                                                 | Medium     | Binary              |
 | :white_check_mark: | 1352   | Python      | [product-of-the-last-k-numbers](src/product-of-the-last-k-numbers)                                                         | Medium     | Array               |
 | :white_check_mark: | 1082   | Python      | [recover-a-tree-from-preorder-traversal](src/recover-a-tree-from-preorder-traversal)                                       | Hard       | Tree                |
+| :white_check_mark: | 1749   | Python      | [maximum-absolute-sum-of-any-subarray](src/maximum-absolute-sum-of-any-subarray)                                           | Medium     | Array               |
