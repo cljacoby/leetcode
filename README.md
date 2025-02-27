@@ -181,3 +181,4 @@
 | :white_check_mark: | 1082   | Python      | [recover-a-tree-from-preorder-traversal](src/recover-a-tree-from-preorder-traversal)                                       | Hard       | Tree                |
 | :white_check_mark: | 1749   | Python      | [maximum-absolute-sum-of-any-subarray](src/maximum-absolute-sum-of-any-subarray)                                           | Medium     | Array               |
 | :white_check_mark: | 889    | Python      | [construct-binary-tree-from-preorder-and-postorder-traversal](src/construct-binary-tree-from-preorder-and-postorder-traversal) | Medium | Tree                |
+| :white_check_mark: | 1910   | Rust        | [remove-all-occurrences-of-a-substring](src/remove-all-occurrences-of-a-substring)                                         | Medium     | String              |
