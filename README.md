@@ -183,3 +183,4 @@
 | :white_check_mark: | 889    | Python      | [construct-binary-tree-from-preorder-and-postorder-traversal](src/construct-binary-tree-from-preorder-and-postorder-traversal) | Medium | Tree                |
 | :white_check_mark: | 1910   | Rust        | [remove-all-occurrences-of-a-substring](src/remove-all-occurrences-of-a-substring)                                         | Medium     | String              |
 | :white_check_mark: | 873    | Python      | [length-of-longest-fibonacci-subsequence](src/length-of-longest-fibonacci-subsequence)                                     | Medium     | Dynamic Programming |
+| :white_check_mark: | 2460   | Rust        | [apply-operations-to-an-array](src/apply-operations-to-an-array)                                                           | Easy       | Array               |
