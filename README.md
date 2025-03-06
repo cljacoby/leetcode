@@ -184,3 +184,4 @@
 | :white_check_mark: | 1910   | Rust        | [remove-all-occurrences-of-a-substring](src/remove-all-occurrences-of-a-substring)                                         | Medium     | String              |
 | :white_check_mark: | 873    | Python      | [length-of-longest-fibonacci-subsequence](src/length-of-longest-fibonacci-subsequence)                                     | Medium     | Dynamic Programming |
 | :white_check_mark: | 2460   | Rust        | [apply-operations-to-an-array](src/apply-operations-to-an-array)                                                           | Easy       | Array               |
+| :white_check_mark: | 2579   | Python      | [count-total-number-of-colored-cells](src/count-total-number-of-colored-cells)                                             | Medium     | Array               |
