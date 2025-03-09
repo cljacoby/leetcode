@@ -187,3 +187,4 @@
 | :white_check_mark: | 2570   | Rust        | [merge-two-2d-arrays-by-summing-values](src/merge-two-2d-arrays-by-summing-values)                                         | Medium     | Array               |
 | :white_check_mark: | 2965   | Python      | [find-missing-and-repeated-values](src/find-missing-and-repeated-values)                                                   | Easy       | Matrix              |
 | :white_check_mark: | 2379   | Rust        | [minimum-recolors-to-get-k-consecutive-black-blocks](src/minimum-recolors-to-get-k-consecutive-black-blocks)               | Easy       | HashMap             |
+| :white_check_mark: | 3206   | Rust        | [alternating-groups-i](src/alternating-groups-i)                                                                           | Easy       | Array               |
