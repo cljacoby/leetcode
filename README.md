@@ -190,3 +190,4 @@
 | :white_check_mark: | 3206   | Rust        | [alternating-groups-i](src/alternating-groups-i)                                                                           | Easy       | Array               |
 | :white_check_mark: | 3208   | Rust        | [alternating-groups-ii](src/alternating-groups-ii)                                                                         | Medium     | Array               |
 | :white_check_mark: | 1358   | Rust        | [number-of-substrings-containing-all-three-characters](src/number-of-substrings-containing-all-three-characters)           | Medium     | Array               |
+| :white_check_mark: | 2529   | Python      | [maximum-count-of-positive-integer-and-negative-integer](src/maximum-count-of-positive-integer-and-negative-integer)       | Easy       | Binary Search       |
