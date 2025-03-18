@@ -192,3 +192,4 @@
 | :white_check_mark: | 1358   | Rust        | [number-of-substrings-containing-all-three-characters](src/number-of-substrings-containing-all-three-characters)           | Medium     | Array               |
 | :white_check_mark: | 2529   | Python      | [maximum-count-of-positive-integer-and-negative-integer](src/maximum-count-of-positive-integer-and-negative-integer)       | Easy       | Binary Search       |
 | :white_check_mark: | 2401   | Rust        | [longest-nice-subarray](src/longest-nice-subarray)                                                                         | Medium     | Array               |
+| :white_check_mark: | 2206   | Rust        | [divide-array-into-equal-pairs](src/divide-array-into-equal-pairs)                                                         | Easy       | Array               
