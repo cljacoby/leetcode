@@ -1,0 +1,127 @@
+{
+  "title_slug": "palindrome-partitioning",
+  "title": "Palindrome Partitioning",
+  "code_snippets": [
+    {
+      "lang": "C++",
+      "langSlug": "cpp",
+      "code": "class Solution {\npublic:\n    vector<vector<string>> partition(string s) {\n        \n    }\n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Java",
+      "langSlug": "java",
+      "code": "class Solution {\n    public List<List<String>> partition(String s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python",
+      "langSlug": "python",
+      "code": "class Solution(object):\n    def partition(self, s):\n        \"\"\"\n        :type s: str\n        :rtype: List[List[str]]\n        \"\"\"\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python3",
+      "langSlug": "python3",
+      "code": "class Solution:\n    def partition(self, s: str) -> List[List[str]]:\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C",
+      "langSlug": "c",
+      "code": "/**\n * Return an array of arrays of size *returnSize.\n * The sizes of the arrays are returned as *returnColumnSizes array.\n * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().\n */\nchar*** partition(char* s, int* returnSize, int** returnColumnSizes) {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C#",
+      "langSlug": "csharp",
+      "code": "public class Solution {\n    public IList<IList<string>> Partition(string s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "JavaScript",
+      "langSlug": "javascript",
+      "code": "/**\n * @param {string} s\n * @return {string[][]}\n */\nvar partition = function(s) {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "TypeScript",
+      "langSlug": "typescript",
+      "code": "function partition(s: string): string[][] {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "PHP",
+      "langSlug": "php",
+      "code": "class Solution {\n\n    /**\n     * @param String $s\n     * @return String[][]\n     */\n    function partition($s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Swift",
+      "langSlug": "swift",
+      "code": "class Solution {\n    func partition(_ s: String) -> [[String]] {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Kotlin",
+      "langSlug": "kotlin",
+      "code": "class Solution {\n    fun partition(s: String): List<List<String>> {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Dart",
+      "langSlug": "dart",
+      "code": "class Solution {\n  List<List<String>> partition(String s) {\n    \n  }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Go",
+      "langSlug": "golang",
+      "code": "func partition(s string) [][]string {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Ruby",
+      "langSlug": "ruby",
+      "code": "# @param {String} s\n# @return {String[][]}\ndef partition(s)\n    \nend",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Scala",
+      "langSlug": "scala",
+      "code": "object Solution {\n    def partition(s: String): List[List[String]] = {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Rust",
+      "langSlug": "rust",
+      "code": "impl Solution {\n    pub fn partition(s: String) -> Vec<Vec<String>> {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Racket",
+      "langSlug": "racket",
+      "code": "(define/contract (partition s)\n  (-> string? (listof (listof string?)))\n  )",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Erlang",
+      "langSlug": "erlang",
+      "code": "-spec partition(S :: unicode:unicode_binary()) -> [[unicode:unicode_binary()]].\npartition(S) ->\n  .",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Elixir",
+      "langSlug": "elixir",
+      "code": "defmodule Solution do\n  @spec partition(s :: String.t) :: [[String.t]]\n  def partition(s) do\n    \n  end\nend",
+      "__typename": "CodeSnippetNode"
+    }
+  ],
+  "content": "<p>Given a string <code>s</code>, partition <code>s</code> such that every <span data-keyword=\"substring-nonempty\">substring</span> of the partition is a <span data-keyword=\"palindrome-string\"><strong>palindrome</strong></span>. Return <em>all possible palindrome partitioning of </em><code>s</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"aab\"\n<strong>Output:</strong> [[\"a\",\"a\",\"b\"],[\"aa\",\"b\"]]\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \"a\"\n<strong>Output:</strong> [[\"a\"]]\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 16</code></li>\n\t<li><code>s</code> contains only lowercase English letters.</li>\n</ul>\n",
+  "question_id": 131,
+  "question_frontend_id": 131,
+  "difficulty": "Medium",
+  "likes": 13387,
+  "dislikes": 536,
+  "sample_test_case": "\"aab\""
+}

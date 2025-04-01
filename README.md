@@ -194,5 +194,6 @@
 | :white_check_mark: | 2401   | Rust        | [longest-nice-subarray](src/longest-nice-subarray)                                                                         | Medium     | Array               |
 | :white_check_mark: | 2206   | Rust        | [divide-array-into-equal-pairs](src/divide-array-into-equal-pairs)                                                         | Easy       | Array               |
 | :white_check_mark: | 3169   | Python      | [count-days-without-meetings](src/count-days-without-meetings)                                                             | Medium     | Array               |
-| :white_check_mark: | 2033   | Rust      | [minimum-operations-to-make-a-uni-value-grid](src/minimum-operations-to-make-a-uni-value-grid)                             | Medium     | Array               |
+| :white_check_mark: | 2033   | Rust        | [minimum-operations-to-make-a-uni-value-grid](src/minimum-operations-to-make-a-uni-value-grid)                             | Medium     | Array               |
 | :white_check_mark: | 2780   | Rust        | [minimum-index-of-a-valid-split](src/minimum-index-of-a-valid-split)                                                       | Medium     | HashMap             |
+| :white_check_mark: | 763    | Rust        | [partition-labels](src/partition-labels)                                                                                   | Medium     | Interval             |
