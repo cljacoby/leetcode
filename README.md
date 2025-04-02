@@ -198,3 +198,5 @@
 | :white_check_mark: | 2780   | Rust        | [minimum-index-of-a-valid-split](src/minimum-index-of-a-valid-split)                                                       | Medium     | HashMap             |
 | :white_check_mark: | 763    | Rust        | [partition-labels](src/partition-labels)                                                                                   | Medium     | Interval            |
 | :white_check_mark: | 2140   | Python      | [solving-questions-with-brainpower](src/solving-questions-with-brainpower)                                                 | Medium     | Dynamic Programming |
+| :white_check_mark: | 2873   | Python      | [maximum-value-of-an-ordered-triplet-i](src/maximum-value-of-an-ordered-triplet-i)                                         | Easy       | Dynamic Programming |
+| :white_check_mark: | 2874   | Python      | [maximum-value-of-an-ordered-triplet-ii](src/maximum-value-of-an-ordered-triplet-ii)                                       | Medium     | Dynamic Programming |
