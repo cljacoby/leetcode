@@ -201,3 +201,4 @@
 | :white_check_mark: | 2873   | Python      | [maximum-value-of-an-ordered-triplet-i](src/maximum-value-of-an-ordered-triplet-i)                                         | Easy       | Dynamic Programming |
 | :white_check_mark: | 2874   | Python      | [maximum-value-of-an-ordered-triplet-ii](src/maximum-value-of-an-ordered-triplet-ii)                                       | Medium     | Dynamic Programming |
 | :white_check_mark: | 1123   | Python      | [lowest-common-ancestor-of-deepest-leaves](src/lowest-common-ancestor-of-deepest-leaves)                                   | Medium     | Tree                |
+| :white_check_mark: | 416    | Python      | [partition-equal-subset-sum](src/partition-equal-subset-sum)                                                               | Medium     | Dynamic Programming |
