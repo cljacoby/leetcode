@@ -203,3 +203,4 @@
 | :white_check_mark: | 1123   | Python      | [lowest-common-ancestor-of-deepest-leaves](src/lowest-common-ancestor-of-deepest-leaves)                                   | Medium     | Tree                |
 | :white_check_mark: | 416    | Python      | [partition-equal-subset-sum](src/partition-equal-subset-sum)                                                               | Medium     | Dynamic Programming |
 | :white_check_mark: | 2843   | Python      | [count-symmetric-integers](src/count-symmetric-integers)                                                                   | Easy       | Array               |
+| :white_check_mark: | 2537   | Python      | [count-the-number-of-good-subarrays](src/count-the-number-of-good-subarrays)                                               | Medium     | Array               |
