@@ -204,3 +204,4 @@
 | :white_check_mark: | 416    | Python      | [partition-equal-subset-sum](src/partition-equal-subset-sum)                                                               | Medium     | Dynamic Programming |
 | :white_check_mark: | 2843   | Python      | [count-symmetric-integers](src/count-symmetric-integers)                                                                   | Easy       | Array               |
 | :white_check_mark: | 2537   | Python      | [count-the-number-of-good-subarrays](src/count-the-number-of-good-subarrays)                                               | Medium     | Array               |
+| :white_check_mark: | 1443   | Python      | [minimum-time-to-collect-all-apples-in-a-tree](src/minimum-time-to-collect-all-apples-in-a-tree)                           | Medium     | Tree                |
