@@ -205,3 +205,4 @@
 | :white_check_mark: | 2843   | Python      | [count-symmetric-integers](src/count-symmetric-integers)                                                                   | Easy       | Array               |
 | :white_check_mark: | 2537   | Python      | [count-the-number-of-good-subarrays](src/count-the-number-of-good-subarrays)                                               | Medium     | Array               |
 | :white_check_mark: | 1443   | Python      | [minimum-time-to-collect-all-apples-in-a-tree](src/minimum-time-to-collect-all-apples-in-a-tree)                           | Medium     | Tree                |
+| :white_check_mark: | 2176   | Python      | [count-equal-and-divisible-pairs-in-an-array](src/count-equal-and-divisible-pairs-in-an-array)                             | Easy       | HashMap             |
