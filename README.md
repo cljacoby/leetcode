@@ -207,3 +207,4 @@
 | :white_check_mark: | 1443   | Python      | [minimum-time-to-collect-all-apples-in-a-tree](src/minimum-time-to-collect-all-apples-in-a-tree)                           | Medium     | Tree                |
 | :white_check_mark: | 2176   | Python      | [count-equal-and-divisible-pairs-in-an-array](src/count-equal-and-divisible-pairs-in-an-array)                             | Easy       | HashMap             |
 | :white_check_mark: | 38     | Python      | [count-and-say](src/count-any-say)                                                                                         | Medium     | String              |
+| :white_check_mark: | 1128   | Python      | [number-of-equivalent-domino-pairs](src/number-of-equivalent-domino-pairs)                                                 | Easy       | HashMap             |
