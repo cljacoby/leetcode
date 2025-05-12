@@ -209,3 +209,4 @@
 | :white_check_mark: | 38     | Python      | [count-and-say](src/count-any-say)                                                                                         | Medium     | String              |
 | :white_check_mark: | 1128   | Python      | [number-of-equivalent-domino-pairs](src/number-of-equivalent-domino-pairs)                                                 | Easy       | HashMap             |
 | :white_check_mark: | 2094   | Python      | [finding-3-digit-even-numbers](src/finding-3-digit-even-numbers)                                                           | Easy       | Array               |
+| :white_check_mark: | 1550   | Python      | [three-consecutive-odds](src/three-consecutive-odds)                                                                       | Easy       | Array               |
