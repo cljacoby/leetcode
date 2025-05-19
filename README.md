@@ -211,3 +211,4 @@
 | :white_check_mark: | 2094   | Python      | [finding-3-digit-even-numbers](src/finding-3-digit-even-numbers)                                                           | Easy       | Array               |
 | :white_check_mark: | 1550   | Python      | [three-consecutive-odds](src/three-consecutive-odds)                                                                       | Easy       | Array               |
 | :white_check_mark: | 2336   | Python      | [smallest-number-in-infinite-set](src/smallest-number-in-infinite-set)                                                     | Medium     | Heap                |
+| :white_check_mark: | 75     | Python      | [sort-colors](src/sort-colors)                                                                                             | Medium     | Array               |
