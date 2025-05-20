@@ -212,3 +212,4 @@
 | :white_check_mark: | 1550   | Python      | [three-consecutive-odds](src/three-consecutive-odds)                                                                       | Easy       | Array               |
 | :white_check_mark: | 2336   | Python      | [smallest-number-in-infinite-set](src/smallest-number-in-infinite-set)                                                     | Medium     | Heap                |
 | :white_check_mark: | 75     | Python      | [sort-colors](src/sort-colors)                                                                                             | Medium     | Array               |
+| :white_check_mark: | 3024   | Python      | [type-of-triangle](src/type-of-triangle)                                                                                   | Easy       | Array               |
