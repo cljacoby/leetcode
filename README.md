@@ -71,7 +71,7 @@
 | :moneybag:         | 253    |             | meeting-rooms-ii                                                                                                           | Medium     | Interval            |
 | :white_check_mark: | 76     | Rust,Python | [minimum-window-substring](src/minimum-window-substring)                                                                   | Hard       | String              |
 | :moneybag:         | 323    |             | number-of-connected-components-in-an-undirected-graph                                                                      | Medium     | Graph               |
-| :white_check_mark: | 73     | Python      | [set-matrix-zeroes](src/set-matrix-zeroes)                                                                                 | Medium     | Matrix              |
+| :white_check_mark: | 73     | Rust,Python | [set-matrix-zeroes](src/set-matrix-zeroes)                                                                                 | Medium     | Matrix              |
 | :white_check_mark: | 62     | Python      | [unique-paths](src/unique-paths)                                                                                           | Medium     | Dynamic Programming |
 | :white_check_mark: | 124    | Python      | [binary-tree-maximum-path-sum](src/binary-tree-maximum-path-sum)                                                           | Hard       | Tree                |
 | :white_check_mark: | 542    | Python      | [01-matrix](src/01-matrix)                                                                                                 | Medium     | Matrix              |
