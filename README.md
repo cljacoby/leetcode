@@ -214,3 +214,4 @@
 | :white_check_mark: | 75     | Python      | [sort-colors](src/sort-colors)                                                                                             | Medium     | Array               |
 | :white_check_mark: | 3024   | Python      | [type-of-triangle](src/type-of-triangle)                                                                                   | Easy       | Array               |
 | :white_check_mark: | 284    | Python      | [peeking-iterator](src/peeking-iterator)                                                                                   | Medium     | Array               |
+| :white_check_mark: | 2942   | Python      | [find-words-containing-character](src/find-words-containing-character)                                                     | Easy       | Array               |
