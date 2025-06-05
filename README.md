@@ -216,3 +216,4 @@
 | :white_check_mark: | 284    | Python      | [peeking-iterator](src/peeking-iterator)                                                                                   | Medium     | Array               |
 | :white_check_mark: | 2942   | Python      | [find-words-containing-character](src/find-words-containing-character)                                                     | Easy       | Array               |
 | :white_check_mark: | 473    | Python      | [matchsticks-to-square](src/matchsticks-to-square)                                                                         | Medium     | Array               |
+| :white_check_mark: | 173    | Python      | [binary-search-tree-iterator](src/binary-search-tree-iterator)                                                             | Medium     | Tree                |
