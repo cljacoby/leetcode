@@ -217,3 +217,4 @@
 | :white_check_mark: | 2942   | Python      | [find-words-containing-character](src/find-words-containing-character)                                                     | Easy       | Array               |
 | :white_check_mark: | 473    | Python      | [matchsticks-to-square](src/matchsticks-to-square)                                                                         | Medium     | Array               |
 | :white_check_mark: | 1061   | Python      | [lexicographically-smallest-equivalent-string](src/lexicographically-smallest-equivalent-string)                           | Medium     | Strin               |
+| :white_check_mark: | 2434   | Python      | [using-a-robot-to-print-the-lexicographically-smallest-string](src/using-a-robot-to-print-the-lexicographically-smallest-string) | Medium     | Queue         |

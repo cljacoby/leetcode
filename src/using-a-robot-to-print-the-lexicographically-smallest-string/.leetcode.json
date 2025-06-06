@@ -1,0 +1,127 @@
+{
+  "title_slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+  "title": "Using a Robot to Print the Lexicographically Smallest String",
+  "code_snippets": [
+    {
+      "lang": "C++",
+      "langSlug": "cpp",
+      "code": "class Solution {\npublic:\n    string robotWithString(string s) {\n        \n    }\n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Java",
+      "langSlug": "java",
+      "code": "class Solution {\n    public String robotWithString(String s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python",
+      "langSlug": "python",
+      "code": "class Solution(object):\n    def robotWithString(self, s):\n        \"\"\"\n        :type s: str\n        :rtype: str\n        \"\"\"\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python3",
+      "langSlug": "python3",
+      "code": "class Solution:\n    def robotWithString(self, s: str) -> str:\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C",
+      "langSlug": "c",
+      "code": "char* robotWithString(char* s) {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C#",
+      "langSlug": "csharp",
+      "code": "public class Solution {\n    public string RobotWithString(string s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "JavaScript",
+      "langSlug": "javascript",
+      "code": "/**\n * @param {string} s\n * @return {string}\n */\nvar robotWithString = function(s) {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "TypeScript",
+      "langSlug": "typescript",
+      "code": "function robotWithString(s: string): string {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "PHP",
+      "langSlug": "php",
+      "code": "class Solution {\n\n    /**\n     * @param String $s\n     * @return String\n     */\n    function robotWithString($s) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Swift",
+      "langSlug": "swift",
+      "code": "class Solution {\n    func robotWithString(_ s: String) -> String {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Kotlin",
+      "langSlug": "kotlin",
+      "code": "class Solution {\n    fun robotWithString(s: String): String {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Dart",
+      "langSlug": "dart",
+      "code": "class Solution {\n  String robotWithString(String s) {\n    \n  }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Go",
+      "langSlug": "golang",
+      "code": "func robotWithString(s string) string {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Ruby",
+      "langSlug": "ruby",
+      "code": "# @param {String} s\n# @return {String}\ndef robot_with_string(s)\n    \nend",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Scala",
+      "langSlug": "scala",
+      "code": "object Solution {\n    def robotWithString(s: String): String = {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Rust",
+      "langSlug": "rust",
+      "code": "impl Solution {\n    pub fn robot_with_string(s: String) -> String {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Racket",
+      "langSlug": "racket",
+      "code": "(define/contract (robot-with-string s)\n  (-> string? string?)\n  )",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Erlang",
+      "langSlug": "erlang",
+      "code": "-spec robot_with_string(S :: unicode:unicode_binary()) -> unicode:unicode_binary().\nrobot_with_string(S) ->\n  .",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Elixir",
+      "langSlug": "elixir",
+      "code": "defmodule Solution do\n  @spec robot_with_string(s :: String.t) :: String.t\n  def robot_with_string(s) do\n    \n  end\nend",
+      "__typename": "CodeSnippetNode"
+    }
+  ],
+  "content": "<p>You are given a string <code>s</code> and a robot that currently holds an empty string <code>t</code>. Apply one of the following operations until <code>s</code> and <code>t</code> <strong>are both empty</strong>:</p>\n\n<ul>\n\t<li>Remove the <strong>first</strong> character of a string <code>s</code> and give it to the robot. The robot will append this character to the string <code>t</code>.</li>\n\t<li>Remove the <strong>last</strong> character of a string <code>t</code> and give it to the robot. The robot will write this character on paper.</li>\n</ul>\n\n<p>Return <em>the lexicographically smallest string that can be written on the paper.</em></p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;zza&quot;\n<strong>Output:</strong> &quot;azz&quot;\n<strong>Explanation:</strong> Let p denote the written string.\nInitially p=&quot;&quot;, s=&quot;zza&quot;, t=&quot;&quot;.\nPerform first operation three times p=&quot;&quot;, s=&quot;&quot;, t=&quot;zza&quot;.\nPerform second operation three times p=&quot;azz&quot;, s=&quot;&quot;, t=&quot;&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;bac&quot;\n<strong>Output:</strong> &quot;abc&quot;\n<strong>Explanation:</strong> Let p denote the written string.\nPerform first operation twice p=&quot;&quot;, s=&quot;c&quot;, t=&quot;ba&quot;. \nPerform second operation twice p=&quot;ab&quot;, s=&quot;c&quot;, t=&quot;&quot;. \nPerform first operation p=&quot;ab&quot;, s=&quot;&quot;, t=&quot;c&quot;. \nPerform second operation p=&quot;abc&quot;, s=&quot;&quot;, t=&quot;&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;bdda&quot;\n<strong>Output:</strong> &quot;addb&quot;\n<strong>Explanation:</strong> Let p denote the written string.\nInitially p=&quot;&quot;, s=&quot;bdda&quot;, t=&quot;&quot;.\nPerform first operation four times p=&quot;&quot;, s=&quot;&quot;, t=&quot;bdda&quot;.\nPerform second operation four times p=&quot;addb&quot;, s=&quot;&quot;, t=&quot;&quot;.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>s</code> consists of only English lowercase letters.</li>\n</ul>\n",
+  "question_id": 2520,
+  "question_frontend_id": 2434,
+  "difficulty": "Medium",
+  "likes": 1030,
+  "dislikes": 282,
+  "sample_test_case": "\"zza\""
+}
