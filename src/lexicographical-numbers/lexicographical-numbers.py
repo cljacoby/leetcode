@@ -14,12 +14,13 @@ class Solution(object):
                 ret.append(curr)
                 continue
             curr += 1
-            if curr % 10 != 0 and curr <= n:
-                ret.append(curr)
+            if curr % 10 != 0:
+                if curr <= n:
+                    ret.append(curr)
                 continue
             while curr % 10 == 0:
                 curr //= 10
-                ret.append(curr)
+            ret.append(curr)
         return ret
  
 
