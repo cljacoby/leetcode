@@ -220,3 +220,4 @@
 | :white_check_mark: | 2434   | Python      | [using-a-robot-to-print-the-lexicographically-smallest-string](src/using-a-robot-to-print-the-lexicographically-smallest-string) | Medium     | Queue         |
 | :white_check_mark: | 386    | Python      | [lexicographical-numbers](src/lexicographical-numbers)                                                                     | Medium     | Array               |
 | :white_check_mark: | 2016   | Python      | [maximum-difference-between-increasing-elements](src/maximum-difference-between-increasing-elements)                       | Easy       | Dynamic Programming |
+| :white_check_mark: | 1695   | Python      | [maximum-erasure-value](src/maximum-erasure-value)                                                                         | Medium     | Array               |
