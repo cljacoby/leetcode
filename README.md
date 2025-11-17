@@ -223,3 +223,4 @@
 | :white_check_mark: | 1695   | Python      | [maximum-erasure-value](src/maximum-erasure-value)                                                                         | Medium     | Array               |
 | :white_check_mark: | 2210   | Python      | [count-hills-and-valleys-in-an-array](src/count-hills-and-valleys-in-an-array)                                             | Easy       | Array               |
 | :white_check_mark: | 1518   | Python      | [water-bottles](src/water-bottles)                                                                                         | Easy       | Array               |
+| :white_check_mark: | 1513   | Python      | [number-of-substrings-with-only-1s](src/number-of-substrings-with-only-1s)                                                 | Medium     | Array               |
