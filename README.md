@@ -227,3 +227,4 @@
 | :white_check_mark: | 717    | Rust        | [1-bit-and-2-bit-characters](src/one-bit-and-two-bit-characters)                                                           | Easy       | Array               |
 | :white_check_mark: | 2154   | Rust        | [keep-multiplying-found-values-by-two](src/keep-multiplying-found-values-by-two)                                           | Easy       | HashSet             |
 | :white_check_mark: | 6      | Rust        | [zigzag-conversion](src/zigzag-conversion)                                                                                 | Medium     | Array               |
+| :white_check_mark: | 24     | Python      | [swap-nodes-in-pairs](src/swap-nodes-in-pairs)                                                                             | Medium     | Linked List         |
