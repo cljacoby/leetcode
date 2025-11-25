@@ -228,4 +228,4 @@
 | :white_check_mark: | 2154   | Rust        | [keep-multiplying-found-values-by-two](src/keep-multiplying-found-values-by-two)                                           | Easy       | HashSet             |
 | :white_check_mark: | 6      | Rust        | [zigzag-conversion](src/zigzag-conversion)                                                                                 | Medium     | Array               |
 | :white_check_mark: | 24     | Python      | [swap-nodes-in-pairs](src/swap-nodes-in-pairs)                                                                             | Medium     | Linked List         |
-| :white_check_mark: | 56     | Python      | [merge-intervals](src/merge-intervals)                                                                                     | Medium     | Interval            |
+| :white_check_mark: | 116    | Python      | [populating-next-right-pointers-in-each-node](src/populating-next-right-pointers-in-each-node)                             | Medium     | Tree                |
