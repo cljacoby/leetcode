@@ -229,3 +229,4 @@
 | :white_check_mark: | 6      | Rust        | [zigzag-conversion](src/zigzag-conversion)                                                                                 | Medium     | Array               |
 | :white_check_mark: | 24     | Python      | [swap-nodes-in-pairs](src/swap-nodes-in-pairs)                                                                             | Medium     | Linked List         |
 | :white_check_mark: | 116    | Python      | [populating-next-right-pointers-in-each-node](src/populating-next-right-pointers-in-each-node)                             | Medium     | Tree                |
+| :white_check_mark: | 114    | Python      | [flatten-binary-tree-to-linked-list](src/flatten-binary-tree-to-linked-list)                                               | Medium     | Tree                |
