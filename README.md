@@ -236,3 +236,4 @@
 | :white_check_mark: | 199    | Python      | [binary-tree-right-side-view](src/binary-tree-right-side-view)                                                             | Medium     | Tree                |
 | :white_check_mark: | 341    | Rust        | [flatten-nested-list-iterator](src/flatten-nested-list-iterator)                                                           | Medium     | List                |
 | :white_check_mark: | 110    | Rust        | [balanced-binary-tree](src/balanced-binary-tree)                                                                           | Easy       | Tree                |
+| :white_check_mark: | 64     | Rust,Python | [minimum-path-sum](src/minimum-path-sum)                                                                                   | Medium     | Dynamic Programming |
