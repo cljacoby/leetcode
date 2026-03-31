@@ -30,7 +30,7 @@ class ListNode(object):
     @staticmethod
     def from_array(nums):
         if len(nums) == 0:
-            return []
+            return None
         node = dummy = ListNode(-1)
         for n in nums:
             node.next = ListNode(n)
