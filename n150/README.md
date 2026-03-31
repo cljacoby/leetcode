@@ -4,4 +4,5 @@
 | :white_check_mark: | 2      | Python   | [add-two-numbers](./add-two-numbers)                                                               | add-two-numbers                                | LinkedList |
 | :white_check_mark: | 3      | Rust     | [longest-substring-without-repeating-characters](./longest-substring-without-repeating-characters) | longest-substring-without-repeating-characters | HashSet    |
 | :hourglass:        | 4      | Rust     | [median-of-two-sorted-arrays](./median-of-two-sorted-arrays)                                       | median-of-two-sorted-arrays                    | Array      |
+| :white_check_mark: | 5      | Rust     | [longest-palindromic-substring](./longest-palindromic-substring)                                   | longest-palindromic-substring                  | String     |
 
