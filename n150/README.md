@@ -7,4 +7,5 @@
 | :white_check_mark: | 5      | Rust     | [longest-palindromic-substring](./longest-palindromic-substring)                                   | longest-palindromic-substring                  | String              |
 | :white_check_mark: | 518    | Rust     | [coin-change-ii](./coin-change-ii)                                                                 | coin-change-ii                                 | Dynamig Programming |
 | :white_check_mark: | 21     | Python   | [merge-two-sorted-lists](./merge-two-sorted-lists)                                                 | merge-two-sorted-lists                         | LinkedList          |
+| :white_check_mark: | 1448   | Python   | [count-good-nodes-in-binary-tree](./count-good-nodes-in-binary-tree)                               | count-good-nodes-in-binary-tree                | Tree                |
 
