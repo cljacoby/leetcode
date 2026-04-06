@@ -10,4 +10,5 @@
 | :white_check_mark: | 7      | Rust     | [reverse-integer](./reverse-integer)                                                               | reverse-integer                                | Bits                |
 | :white_check_mark: | 1448   | Python   | [count-good-nodes-in-binary-tree](./count-good-nodes-in-binary-tree)                               | count-good-nodes-in-binary-tree                | Tree                |
 | :white_check_mark: | 11     | Rust     | [container-with-most-water](./container-with-most-water)                                           | container-with-most-water                      | TwoPointers         |
+| :white_check_mark: | 994    | Rust     | [rotting-oranges](./rotting-oranges)                                                               | rotting-oranges                                | Dequeue             |
 
