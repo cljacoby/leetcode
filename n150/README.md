@@ -14,7 +14,7 @@
 |                    | 15     |          | [3sum](./3sum)                                                                                                           | Med.       |                    |
 |                    | 17     |          | [letter-combinations-of-a-phone-number](./letter-combinations-of-a-phone-number)                                         | Med.       |                    |
 |                    | 19     |          | [remove-nth-node-from-end-of-list](./remove-nth-node-from-end-of-list)                                                   | Med.       |                    |
-|                    | 20     |          | [valid-parentheses](./valid-parentheses)                                                                                 | Easy       |                    |
+| :white_check_mark: | 20     | Rust     | [valid-parentheses](./valid-parentheses)                                                                                 | Easy       | Stack              |
 | :white_check_mark: | 21     | Python   | [merge-two-sorted-lists](./merge-two-sorted-lists)                                                                       | Easy       | LinkedList         |
 |                    | 22     |          | [generate-parentheses](./generate-parentheses)                                                                           | Med.       |                    |
 |                    | 23     |          | [merge-k-sorted-lists](./merge-k-sorted-lists)                                                                           | Hard       |                    |
