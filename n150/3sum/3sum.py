@@ -15,7 +15,13 @@ class Solution(object):
         
         k1 = list(m.keys())
         for a in k1:
-            # note: probably a way to do this without copying
+            # note: tested without copying the entire map, but its
+            # actually slower?
+            #   revert = list(m[a])
+            #   m[a].pop()
+            #   if len(m[a]) == 0:
+            #       del m[a]
+            #   k2 = list(m.keys())
             p = m
             p[a].pop()
             if len(p[a]) == 0:
