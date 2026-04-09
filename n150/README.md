@@ -11,7 +11,7 @@
 |                    | 10     |          | [regular-expression-matching](./regular-expression-matching)                                                             | Hard       |                    |
 | :white_check_mark: | 11     | Rust     | [container-with-most-water](./container-with-most-water)                                                                 | Med.       | TwoPointers        |
 | :white_check_mark: | 994    | Rust     | [rotting-oranges](./rotting-oranges)                                                                                     | Med.       | Dequeue            |
-|                    | 15     |          | [3sum](./3sum)                                                                                                           | Med.       |                    |
+| :white_check_mark: | 15     | Python   | [3sum](./3sum)                                                                                                           | Med.       | Array              |
 |                    | 17     |          | [letter-combinations-of-a-phone-number](./letter-combinations-of-a-phone-number)                                         | Med.       |                    |
 |                    | 19     |          | [remove-nth-node-from-end-of-list](./remove-nth-node-from-end-of-list)                                                   | Med.       |                    |
 | :white_check_mark: | 20     | Rust     | [valid-parentheses](./valid-parentheses)                                                                                 | Easy       | Stack              |
