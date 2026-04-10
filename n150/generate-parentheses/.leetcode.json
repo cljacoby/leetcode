@@ -1,0 +1,127 @@
+{
+  "title_slug": "generate-parentheses",
+  "title": "Generate Parentheses",
+  "code_snippets": [
+    {
+      "lang": "C++",
+      "langSlug": "cpp",
+      "code": "class Solution {\npublic:\n    vector<string> generateParenthesis(int n) {\n        \n    }\n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Java",
+      "langSlug": "java",
+      "code": "class Solution {\n    public List<String> generateParenthesis(int n) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python3",
+      "langSlug": "python3",
+      "code": "class Solution:\n    def generateParenthesis(self, n: int) -> List[str]:\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Python",
+      "langSlug": "python",
+      "code": "class Solution(object):\n    def generateParenthesis(self, n):\n        \"\"\"\n        :type n: int\n        :rtype: List[str]\n        \"\"\"\n        ",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "JavaScript",
+      "langSlug": "javascript",
+      "code": "/**\n * @param {number} n\n * @return {string[]}\n */\nvar generateParenthesis = function(n) {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "TypeScript",
+      "langSlug": "typescript",
+      "code": "function generateParenthesis(n: number): string[] {\n    \n};",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C#",
+      "langSlug": "csharp",
+      "code": "public class Solution {\n    public IList<string> GenerateParenthesis(int n) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "C",
+      "langSlug": "c",
+      "code": "/**\n * Note: The returned array must be malloced, assume caller calls free().\n */\nchar** generateParenthesis(int n, int* returnSize) {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Go",
+      "langSlug": "golang",
+      "code": "func generateParenthesis(n int) []string {\n    \n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Kotlin",
+      "langSlug": "kotlin",
+      "code": "class Solution {\n    fun generateParenthesis(n: Int): List<String> {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Swift",
+      "langSlug": "swift",
+      "code": "class Solution {\n    func generateParenthesis(_ n: Int) -> [String] {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Rust",
+      "langSlug": "rust",
+      "code": "impl Solution {\n    pub fn generate_parenthesis(n: i32) -> Vec<String> {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Ruby",
+      "langSlug": "ruby",
+      "code": "# @param {Integer} n\n# @return {String[]}\ndef generate_parenthesis(n)\n    \nend",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "PHP",
+      "langSlug": "php",
+      "code": "class Solution {\n\n    /**\n     * @param Integer $n\n     * @return String[]\n     */\n    function generateParenthesis($n) {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Dart",
+      "langSlug": "dart",
+      "code": "class Solution {\n  List<String> generateParenthesis(int n) {\n    \n  }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Scala",
+      "langSlug": "scala",
+      "code": "object Solution {\n    def generateParenthesis(n: Int): List[String] = {\n        \n    }\n}",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Elixir",
+      "langSlug": "elixir",
+      "code": "defmodule Solution do\n  @spec generate_parenthesis(n :: integer) :: [String.t]\n  def generate_parenthesis(n) do\n    \n  end\nend",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Erlang",
+      "langSlug": "erlang",
+      "code": "-spec generate_parenthesis(N :: integer()) -> [unicode:unicode_binary()].\ngenerate_parenthesis(N) ->\n  .",
+      "__typename": "CodeSnippetNode"
+    },
+    {
+      "lang": "Racket",
+      "langSlug": "racket",
+      "code": "(define/contract (generate-parenthesis n)\n  (-> exact-integer? (listof string?))\n  )",
+      "__typename": "CodeSnippetNode"
+    }
+  ],
+  "content": "<p>Given <code>n</code> pairs of parentheses, write a function to <em>generate all combinations of well-formed parentheses</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> n = 3\n<strong>Output:</strong> [\"((()))\",\"(()())\",\"(())()\",\"()(())\",\"()()()\"]\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> n = 1\n<strong>Output:</strong> [\"()\"]\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= n &lt;= 8</code></li>\n</ul>\n",
+  "question_id": 22,
+  "question_frontend_id": 22,
+  "difficulty": "Medium",
+  "likes": 23279,
+  "dislikes": 1082,
+  "sample_test_case": "3"
+}

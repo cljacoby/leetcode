@@ -16,7 +16,7 @@
 | :white_check_mark: | 19     | Python   | [remove-nth-node-from-end-of-list](./remove-nth-node-from-end-of-list)                                                   | Medium     | LinkedList         |
 | :white_check_mark: | 20     | Rust     | [valid-parentheses](./valid-parentheses)                                                                                 | Easy       | Stack              |
 | :white_check_mark: | 21     | Python   | [merge-two-sorted-lists](./merge-two-sorted-lists)                                                                       | Easy       | LinkedList         |
-|                    | 22     |          | [generate-parentheses](./generate-parentheses)                                                                           | Medium     |                    |
+| :white_check_mark: | 22     | Python   | [generate-parentheses](./generate-parentheses)                                                                           | Medium     | Permu/Combo        |
 |                    | 23     |          | [merge-k-sorted-lists](./merge-k-sorted-lists)                                                                           | Hard       |                    |
 |                    | 25     |          | [reverse-nodes-in-k-group](./reverse-nodes-in-k-group)                                                                   | Hard       |                    |
 |                    | 543    |          | [diameter-of-binary-tree](./diameter-of-binary-tree)                                                                     | Easy       |                    |
