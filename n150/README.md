@@ -12,7 +12,7 @@
 | :white_check_mark: | 11     | Rust     | [container-with-most-water](./container-with-most-water)                                                                 | Med.       | TwoPointers        |
 | :white_check_mark: | 994    | Rust     | [rotting-oranges](./rotting-oranges)                                                                                     | Med.       | Dequeue            |
 | :white_check_mark: | 15     | Python   | [3sum](./3sum)                                                                                                           | Med.       | Array              |
-|                    | 17     |          | [letter-combinations-of-a-phone-number](./letter-combinations-of-a-phone-number)                                         | Med.       |                    |
+| :white_check_mark: | 17     | Python   | [letter-combinations-of-a-phone-number](./letter-combinations-of-a-phone-number)                                         | Med.       | Permu/Combo        |
 |                    | 19     |          | [remove-nth-node-from-end-of-list](./remove-nth-node-from-end-of-list)                                                   | Med.       |                    |
 | :white_check_mark: | 20     | Rust     | [valid-parentheses](./valid-parentheses)                                                                                 | Easy       | Stack              |
 | :white_check_mark: | 21     | Python   | [merge-two-sorted-lists](./merge-two-sorted-lists)                                                                       | Easy       | LinkedList         |
