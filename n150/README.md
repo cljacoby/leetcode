@@ -148,6 +148,6 @@
 |                    | 1851   |          | [minimum-interval-to-include-each-query](./minimum-interval-to-include-each-query)                                       | Hard       |                    |
 |                    | 1899   |          | [merge-triplets-to-form-target-triplet](./merge-triplets-to-form-target-triplet)                                         | Medium     |                    |
 |                    | 494    |          | [target-sum](./target-sum)                                                                                               | Medium     |                    |
-|                    | 973    |          | [k-closest-points-to-origin](./k-closest-points-to-origin)                                                               | Medium     |                    |
+| :white_check_mark: | 973    | Rust     | [k-closest-points-to-origin](./k-closest-points-to-origin)                                                               | Medium     | Array              |
 |                    | 981    |          | [time-based-key-value-store](./time-based-key-value-store)                                                               | Medium     |                    |
 
