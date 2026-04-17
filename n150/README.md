@@ -32,7 +32,7 @@
 |                    | 49     |          | [group-anagrams](./group-anagrams)                                                                                       | Medium     |                    |
 |                    | 50     |          | [powx-n](./powx-n)                                                                                                       | Medium     |                    |
 |                    | 51     |          | [n-queens](./n-queens)                                                                                                   | Hard       |                    |
-|                    | 53     |          | [maximum-subarray](./maximum-subarray)                                                                                   | Medium     |                    |
+| :white_check_mark: | 53     | Rust     | [maximum-subarray](./maximum-subarray)                                                                                   | Medium     | DynamicProgramming |
 |                    | 54     |          | [spiral-matrix](./spiral-matrix)                                                                                         | Medium     |                    |
 |                    | 55     |          | [jump-game](./jump-game)                                                                                                 | Medium     |                    |
 |                    | 56     |          | [merge-intervals](./merge-intervals)                                                                                     | Medium     |                    |
