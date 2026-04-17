@@ -19,7 +19,7 @@
 | :white_check_mark: | 22     | Python   | [generate-parentheses](./generate-parentheses)                                                                           | Medium     | Permu/Combo        |
 | :white_check_mark: | 23     | Python   | [merge-k-sorted-lists](./merge-k-sorted-lists)                                                                           | Hard       | LinkedList         |
 |                    | 25     |          | [reverse-nodes-in-k-group](./reverse-nodes-in-k-group)                                                                   | Hard       |                    |
-|                    | 543    |          | [diameter-of-binary-tree](./diameter-of-binary-tree)                                                                     | Easy       |                    |
+| :white_check_mark: | 543    | Python   | [diameter-of-binary-tree](./diameter-of-binary-tree)                                                                     | Easy       | Tree               |
 |                    | 33     |          | [search-in-rotated-sorted-array](./search-in-rotated-sorted-array)                                                       | Medium     |                    |
 |                    | 36     |          | [valid-sudoku](./valid-sudoku)                                                                                           | Medium     |                    |
 |                    | 39     |          | [combination-sum](./combination-sum)                                                                                     | Medium     |                    |
