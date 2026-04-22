@@ -54,7 +54,7 @@
 |                    | 2013   |          | [detect-squares](./detect-squares)                                                                                       | Medium     |                    |
 |                    | 97     |          | [interleaving-string](./interleaving-string)                                                                             | Medium     |                    |
 |                    | 98     |          | [validate-binary-search-tree](./validate-binary-search-tree)                                                             | Medium     |                    |
-|                    | 100    |          | [same-tree](./same-tree)                                                                                                 | Easy       |                    |
+| :white_check_mark: | 100    | Python   | [same-tree](./same-tree)                                                                                                 | Easy       | Tree               |
 |                    | 102    |          | [binary-tree-level-order-traversal](./binary-tree-level-order-traversal)                                                 | Medium     |                    |
 |                    | 1046   |          | [last-stone-weight](./last-stone-weight)                                                                                 | Easy       |                    |
 |                    | 104    |          | [maximum-depth-of-binary-tree](./maximum-depth-of-binary-tree)                                                           | Easy       |                    |
