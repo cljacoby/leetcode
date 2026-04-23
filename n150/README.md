@@ -81,7 +81,7 @@
 |                    | 150    |          | [evaluate-reverse-polish-notation](./evaluate-reverse-polish-notation)                                                   | Medium     |                    |
 |                    | 152    |          | [maximum-product-subarray](./maximum-product-subarray)                                                                   | Medium     |                    |
 |                    | 153    |          | [find-minimum-in-rotated-sorted-array](./find-minimum-in-rotated-sorted-array)                                           | Medium     |                    |
-|                    | 155    |          | [min-stack](./min-stack)                                                                                                 | Medium     |                    |
+| :white_check_mark: | 155    | Rust     | [min-stack](./min-stack)                                                                                                 | Medium     |                    |
 |                    | 678    |          | [valid-parenthesis-string](./valid-parenthesis-string)                                                                   | Medium     |                    |
 |                    | 167    |          | [two-sum-ii-input-array-is-sorted](./two-sum-ii-input-array-is-sorted)                                                   | Medium     |                    |
 |                    | 1584   |          | [min-cost-to-connect-all-points](./min-cost-to-connect-all-points)                                                       | Medium     |                    |
