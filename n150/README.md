@@ -91,7 +91,7 @@
 |                    | 191    |          | [number-of-1-bits](./number-of-1-bits)                                                                                   | Easy       |                    |
 |                    | 198    |          | [house-robber](./house-robber)                                                                                           | Medium     |                    |
 |                    | 199    |          | [binary-tree-right-side-view](./binary-tree-right-side-view)                                                             | Medium     |                    |
-|                    | 200    |          | [number-of-islands](./number-of-islands)                                                                                 | Medium     |                    |
+| :white_check_mark: | 200    | Rust     | [number-of-islands](./number-of-islands)                                                                                 | Medium     | BFS                |
 |                    | 202    |          | [happy-number](./happy-number)                                                                                           | Easy       |                    |
 |                    | 206    |          | [reverse-linked-list](./reverse-linked-list)                                                                             | Easy       |                    |
 |                    | 207    |          | [course-schedule](./course-schedule)                                                                                     | Medium     |                    |
