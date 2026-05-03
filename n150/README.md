@@ -55,7 +55,7 @@
 |                    | 97     |          | [interleaving-string](./interleaving-string)                                                                             | Medium     |                    |
 |                    | 98     |          | [validate-binary-search-tree](./validate-binary-search-tree)                                                             | Medium     |                    |
 | :white_check_mark: | 100    | Python   | [same-tree](./same-tree)                                                                                                 | Easy       | Tree               |
-|                    | 102    |          | [binary-tree-level-order-traversal](./binary-tree-level-order-traversal)                                                 | Medium     |                    |
+| :white_check_mark: | 102    | Python   | [binary-tree-level-order-traversal](./binary-tree-level-order-traversal)                                                 | Medium     | Tree               |
 |                    | 1046   |          | [last-stone-weight](./last-stone-weight)                                                                                 | Easy       |                    |
 |                    | 104    |          | [maximum-depth-of-binary-tree](./maximum-depth-of-binary-tree)                                                           | Easy       |                    |
 |                    | 105    |          | [construct-binary-tree-from-preorder-and-inorder-traversal](./construct-binary-tree-from-preorder-and-inorder-traversal) | Medium     |                    |
