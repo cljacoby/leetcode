@@ -76,7 +76,7 @@
 |                    | 138    |          | [copy-list-with-random-pointer](./copy-list-with-random-pointer)                                                         | Medium     |                    |
 |                    | 139    |          | [word-break](./word-break)                                                                                               | Medium     |                    |
 |                    | 141    |          | [linked-list-cycle](./linked-list-cycle)                                                                                 | Easy       |                    |
-|                    | 143    |          | [reorder-list](./reorder-list)                                                                                           | Medium     |                    |
+| :white_check_mark: | 143    | Python   | [reorder-list](./reorder-list)                                                                                           | Medium     | LinkedList         |
 |                    | 146    |          | [lru-cache](./lru-cache)                                                                                                 | Medium     |                    |
 |                    | 150    |          | [evaluate-reverse-polish-notation](./evaluate-reverse-polish-notation)                                                   | Medium     |                    |
 |                    | 152    |          | [maximum-product-subarray](./maximum-product-subarray)                                                                   | Medium     |                    |
