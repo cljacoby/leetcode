@@ -35,7 +35,7 @@
 | :white_check_mark: | 53     | Rust     | [maximum-subarray](./maximum-subarray)                                                                                   | Medium     | DynamicProgramming |
 |                    | 54     |          | [spiral-matrix](./spiral-matrix)                                                                                         | Medium     |                    |
 |                    | 55     |          | [jump-game](./jump-game)                                                                                                 | Medium     |                    |
-|                    | 56     |          | [merge-intervals](./merge-intervals)                                                                                     | Medium     |                    |
+| :white_check_mark: | 56     | Rust     | [merge-intervals](./merge-intervals)                                                                                     | Medium     | Interval           |
 |                    | 57     |          | [insert-interval](./insert-interval)                                                                                     | Medium     |                    |
 |                    | 567    |          | [permutation-in-string](./permutation-in-string)                                                                         | Medium     |                    |
 |                    | 572    |          | [subtree-of-another-tree](./subtree-of-another-tree)                                                                     | Easy       |                    |
