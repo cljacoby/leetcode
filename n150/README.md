@@ -36,7 +36,7 @@
 |                    | 54     |          | [spiral-matrix](./spiral-matrix)                                                                                         | Medium     |                    |
 |                    | 55     |          | [jump-game](./jump-game)                                                                                                 | Medium     |                    |
 | :white_check_mark: | 56     | Rust     | [merge-intervals](./merge-intervals)                                                                                     | Medium     | Interval           |
-|                    | 57     |          | [insert-interval](./insert-interval)                                                                                     | Medium     |                    |
+| :white_check_mark: | 57     | Rust     | [insert-interval](./insert-interval)                                                                                     | Medium     | Interval           |
 |                    | 567    |          | [permutation-in-string](./permutation-in-string)                                                                         | Medium     |                    |
 |                    | 572    |          | [subtree-of-another-tree](./subtree-of-another-tree)                                                                     | Easy       |                    |
 |                    | 62     |          | [unique-paths](./unique-paths)                                                                                           | Medium     |                    |
