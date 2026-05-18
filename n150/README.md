@@ -135,7 +135,7 @@
 |                    | 329    |          | [longest-increasing-path-in-a-matrix](./longest-increasing-path-in-a-matrix)                                             | Hard       |                    |
 |                    | 332    |          | [reconstruct-itinerary](./reconstruct-itinerary)                                                                         | Hard       |                    |
 |                    | 338    |          | [counting-bits](./counting-bits)                                                                                         | Easy       |                    |
-|                    | 347    |          | [top-k-frequent-elements](./top-k-frequent-elements)                                                                     | Medium     |                    |
+| :white_check_mark: | 347    | Rust     | [top-k-frequent-elements](./top-k-frequent-elements)                                                                     | Medium     | Array              |
 |                    | 355    |          | [design-twitter](./design-twitter)                                                                                       | Medium     |                    |
 |                    | 846    |          | [hand-of-straights](./hand-of-straights)                                                                                 | Medium     |                    |
 |                    | 371    |          | [sum-of-two-integers](./sum-of-two-integers)                                                                             | Medium     |                    |
