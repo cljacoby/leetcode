@@ -78,7 +78,7 @@
 |                    | 141    |          | [linked-list-cycle](./linked-list-cycle)                                                                                 | Easy       |                    |
 | :white_check_mark: | 143    | Python   | [reorder-list](./reorder-list)                                                                                           | Medium     | LinkedList         |
 |                    | 146    |          | [lru-cache](./lru-cache)                                                                                                 | Medium     |                    |
-|                    | 150    |          | [evaluate-reverse-polish-notation](./evaluate-reverse-polish-notation)                                                   | Medium     |                    |
+| :white_check_mark: | 150    | Rust     | [evaluate-reverse-polish-notation](./evaluate-reverse-polish-notation)                                                   | Medium     | Stack              |
 |                    | 152    |          | [maximum-product-subarray](./maximum-product-subarray)                                                                   | Medium     |                    |
 |                    | 153    |          | [find-minimum-in-rotated-sorted-array](./find-minimum-in-rotated-sorted-array)                                           | Medium     |                    |
 | :white_check_mark: | 155    | Rust     | [min-stack](./min-stack)                                                                                                 | Medium     |                    |
