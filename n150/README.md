@@ -110,7 +110,7 @@
 |                    | 235    |          | [lowest-common-ancestor-of-a-binary-search-tree](./lowest-common-ancestor-of-a-binary-search-tree)                       | Medium     |                    |
 |                    | 746    |          | [min-cost-climbing-stairs](./min-cost-climbing-stairs)                                                                   | Easy       |                    |
 |                    | 238    |          | [product-of-array-except-self](./product-of-array-except-self)                                                           | Medium     |                    |
-|                    | 239    |          | [sliding-window-maximum](./sliding-window-maximum)                                                                       | Hard       |                    |
+| :white_check_mark: | 239    | Rust     | [sliding-window-maximum](./sliding-window-maximum)                                                                       | Hard       | PriorityQueue      |
 |                    | 242    |          | [valid-anagram](./valid-anagram)                                                                                         | Easy       |                    |
 |                    | 252    |          | [meeting-rooms](./meeting-rooms)                                                                                         | Easy       |                    |
 |                    | 253    |          | [meeting-rooms-ii](./meeting-rooms-ii)                                                                                   | Medium     |                    |
