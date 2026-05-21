@@ -73,7 +73,7 @@
 |                    | 134    |          | [gas-station](./gas-station)                                                                                             | Medium     |                    |
 |                    | 647    |          | [palindromic-substrings](./palindromic-substrings)                                                                       | Medium     |                    |
 |                    | 136    |          | [single-number](./single-number)                                                                                         | Easy       |                    |
-|                    | 138    |          | [copy-list-with-random-pointer](./copy-list-with-random-pointer)                                                         | Medium     |                    |
+| :white_check_mark: | 138    | Python   | [copy-list-with-random-pointer](./copy-list-with-random-pointer)                                                         | Medium     | LinkedList         |
 |                    | 139    |          | [word-break](./word-break)                                                                                               | Medium     |                    |
 |                    | 141    |          | [linked-list-cycle](./linked-list-cycle)                                                                                 | Easy       |                    |
 | :white_check_mark: | 143    | Python   | [reorder-list](./reorder-list)                                                                                           | Medium     | LinkedList         |
