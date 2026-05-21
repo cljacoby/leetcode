@@ -111,11 +111,11 @@
 |                    | 746    |          | [min-cost-climbing-stairs](./min-cost-climbing-stairs)                                                                   | Easy       |                    |
 |                    | 238    |          | [product-of-array-except-self](./product-of-array-except-self)                                                           | Medium     |                    |
 | :white_check_mark: | 239    | Rust     | [sliding-window-maximum](./sliding-window-maximum)                                                                       | Hard       | PriorityQueue      |
-|                    | 242    |          | [valid-anagram](./valid-anagram)                                                                                         | Easy       |                    |
+| :white_check_mark: | 242    | Rust     | [valid-anagram](./valid-anagram)                                                                                         | Easy       | HashMap            |
 |                    | 252    |          | [meeting-rooms](./meeting-rooms)                                                                                         | Easy       |                    |
 |                    | 253    |          | [meeting-rooms-ii](./meeting-rooms-ii)                                                                                   | Medium     |                    |
 |                    | 763    |          | [partition-labels](./partition-labels)                                                                                   | Medium     |                    |
-|                    | 261    |          | [graph-valid-tree](./graph-valid-tree)                                                                                   | Medium     |                    |
+| :moneybag:         | 261    |          | [graph-valid-tree](./graph-valid-tree)                                                                                   | Medium     |                    |
 |                    | 268    |          | [missing-number](./missing-number)                                                                                       | Easy       |                    |
 |                    | 269    |          | [alien-dictionary](./alien-dictionary)                                                                                   | Hard       |                    |
 |                    | 271    |          | [encode-and-decode-strings](./encode-and-decode-strings)                                                                 | Medium     |                    |
