@@ -126,7 +126,7 @@
 |                    | 287    |          | [find-the-duplicate-number](./find-the-duplicate-number)                                                                 | Medium     |                    |
 |                    | 787    |          | [cheapest-flights-within-k-stops](./cheapest-flights-within-k-stops)                                                     | Medium     |                    |
 |                    | 295    |          | [find-median-from-data-stream](./find-median-from-data-stream)                                                           | Hard       |                    |
-|                    | 297    |          | [serialize-and-deserialize-binary-tree](./serialize-and-deserialize-binary-tree)                                         | Hard       |                    |
+| :white_check_mark: | 297    | Python   | [serialize-and-deserialize-binary-tree](./serialize-and-deserialize-binary-tree)                                         | Hard       | Tree               |
 |                    | 300    |          | [longest-increasing-subsequence](./longest-increasing-subsequence)                                                       | Medium     |                    |
 |                    | 309    |          | [best-time-to-buy-and-sell-stock-with-cooldown](./best-time-to-buy-and-sell-stock-with-cooldown)                         | Medium     |                    |
 |                    | 312    |          | [burst-balloons](./burst-balloons)                                                                                       | Hard       |                    |
