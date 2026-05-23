@@ -66,7 +66,7 @@
 |                    | 124    |          | [binary-tree-maximum-path-sum](./binary-tree-maximum-path-sum)                                                           | Hard       |                    |
 |                    | 125    |          | [valid-palindrome](./valid-palindrome)                                                                                   | Easy       |                    |
 |                    | 127    |          | [word-ladder](./word-ladder)                                                                                             | Hard       |                    |
-|                    | 128    |          | [longest-consecutive-sequence](./longest-consecutive-sequence)                                                           | Medium     |                    |
+| :white_check_mark: | 128    | Rust     | [longest-consecutive-sequence](./longest-consecutive-sequence)                                                           | Medium     | HashSet            |
 |                    | 130    |          | [surrounded-regions](./surrounded-regions)                                                                               | Medium     |                    |
 |                    | 131    |          | [palindrome-partitioning](./palindrome-partitioning)                                                                     | Medium     |                    |
 |                    | 133    |          | [clone-graph](./clone-graph)                                                                                             | Medium     |                    |
