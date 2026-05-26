@@ -102,7 +102,7 @@
 |                    | 213    |          | [house-robber-ii](./house-robber-ii)                                                                                     | Medium     |                    |
 |                    | 215    |          | [kth-largest-element-in-an-array](./kth-largest-element-in-an-array)                                                     | Medium     |                    |
 | :white_check_mark: | 217    | Rust     | [contains-duplicate](./contains-duplicate)                                                                               | Easy       | HashSet            |
-|                    | 226    |          | [invert-binary-tree](./invert-binary-tree)                                                                               | Easy       |                    |
+| :white_check_mark: | 226    | Python   | [invert-binary-tree](./invert-binary-tree)                                                                               | Easy       | Tree               |
 |                    | 739    |          | [daily-temperatures](./daily-temperatures)                                                                               | Medium     |                    |
 |                    | 1143   |          | [longest-common-subsequence](./longest-common-subsequence)                                                               | Medium     |                    |
 |                    | 230    |          | [kth-smallest-element-in-a-bst](./kth-smallest-element-in-a-bst)                                                         | Medium     |                    |
