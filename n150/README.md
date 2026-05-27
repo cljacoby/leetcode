@@ -116,7 +116,7 @@
 |                    | 253    |          | [meeting-rooms-ii](./meeting-rooms-ii)                                                                                   | Medium     |                    |
 |                    | 763    |          | [partition-labels](./partition-labels)                                                                                   | Medium     |                    |
 | :moneybag:         | 261    |          | [graph-valid-tree](./graph-valid-tree)                                                                                   | Medium     |                    |
-|                    | 268    |          | [missing-number](./missing-number)                                                                                       | Easy       |                    |
+| :white_check_mark: | 268    | Rust     | [missing-number](./missing-number)                                                                                       | Easy       | HashSet            |
 |                    | 269    |          | [alien-dictionary](./alien-dictionary)                                                                                   | Hard       |                    |
 |                    | 271    |          | [encode-and-decode-strings](./encode-and-decode-strings)                                                                 | Medium     |                    |
 |                    | 703    |          | [kth-largest-element-in-a-stream](./kth-largest-element-in-a-stream)                                                     | Easy       |                    |
