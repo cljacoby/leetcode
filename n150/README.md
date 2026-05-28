@@ -57,7 +57,7 @@
 | :white_check_mark: | 100    | Python   | [same-tree](./same-tree)                                                                                                 | Easy       | Tree               |
 | :white_check_mark: | 102    | Python   | [binary-tree-level-order-traversal](./binary-tree-level-order-traversal)                                                 | Medium     | Tree               |
 |                    | 1046   |          | [last-stone-weight](./last-stone-weight)                                                                                 | Easy       |                    |
-|                    | 104    |          | [maximum-depth-of-binary-tree](./maximum-depth-of-binary-tree)                                                           | Easy       |                    |
+| :white_check_mark: | 104    | Python   | [maximum-depth-of-binary-tree](./maximum-depth-of-binary-tree)                                                           | Easy       | Tree               |
 |                    | 105    |          | [construct-binary-tree-from-preorder-and-inorder-traversal](./construct-binary-tree-from-preorder-and-inorder-traversal) | Medium     |                    |
 |                    | 621    |          | [task-scheduler](./task-scheduler)                                                                                       | Medium     |                    |
 |                    | 110    |          | [balanced-binary-tree](./balanced-binary-tree)                                                                           | Easy       |                    |
