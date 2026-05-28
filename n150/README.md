@@ -86,7 +86,7 @@
 |                    | 167    |          | [two-sum-ii-input-array-is-sorted](./two-sum-ii-input-array-is-sorted)                                                   | Medium     |                    |
 |                    | 1584   |          | [min-cost-to-connect-all-points](./min-cost-to-connect-all-points)                                                       | Medium     |                    |
 |                    | 684    |          | [redundant-connection](./redundant-connection)                                                                           | Medium     |                    |
-|                    | 695    |          | [max-area-of-island](./max-area-of-island)                                                                               | Medium     |                    |
+| :white_check_mark: | 695    | Rust     | [max-area-of-island](./max-area-of-island)                                                                               | Medium     | BFS                |
 |                    | 190    |          | [reverse-bits](./reverse-bits)                                                                                           | Easy       |                    |
 |                    | 191    |          | [number-of-1-bits](./number-of-1-bits)                                                                                   | Easy       |                    |
 |                    | 198    |          | [house-robber](./house-robber)                                                                                           | Medium     |                    |
