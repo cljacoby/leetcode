@@ -87,7 +87,7 @@
 |                    | 1584   |          | [min-cost-to-connect-all-points](./min-cost-to-connect-all-points)                                                       | Medium     |                    |
 |                    | 684    |          | [redundant-connection](./redundant-connection)                                                                           | Medium     |                    |
 | :white_check_mark: | 695    | Rust     | [max-area-of-island](./max-area-of-island)                                                                               | Medium     | BFS                |
-|                    | 190    |          | [reverse-bits](./reverse-bits)                                                                                           | Easy       |                    |
+| :white_check_mark: | 190    | Rust     | [reverse-bits](./reverse-bits)                                                                                           | Easy       |                    |
 |                    | 191    |          | [number-of-1-bits](./number-of-1-bits)                                                                                   | Easy       |                    |
 |                    | 198    |          | [house-robber](./house-robber)                                                                                           | Medium     |                    |
 |                    | 199    |          | [binary-tree-right-side-view](./binary-tree-right-side-view)                                                             | Medium     |                    |
@@ -112,8 +112,8 @@
 |                    | 238    |          | [product-of-array-except-self](./product-of-array-except-self)                                                           | Medium     |                    |
 | :white_check_mark: | 239    | Rust     | [sliding-window-maximum](./sliding-window-maximum)                                                                       | Hard       | PriorityQueue      |
 | :white_check_mark: | 242    | Rust     | [valid-anagram](./valid-anagram)                                                                                         | Easy       | HashMap            |
-|                    | 252    |          | [meeting-rooms](./meeting-rooms)                                                                                         | Easy       |                    |
-|                    | 253    |          | [meeting-rooms-ii](./meeting-rooms-ii)                                                                                   | Medium     |                    |
+| :moneybag:         | 252    |          | [meeting-rooms](./meeting-rooms)                                                                                         | Easy       |                    |
+| :moneybag:         | 253    |          | [meeting-rooms-ii](./meeting-rooms-ii)                                                                                   | Medium     |                    |
 |                    | 763    |          | [partition-labels](./partition-labels)                                                                                   | Medium     |                    |
 | :moneybag:         | 261    |          | [graph-valid-tree](./graph-valid-tree)                                                                                   | Medium     |                    |
 | :white_check_mark: | 268    | Rust     | [missing-number](./missing-number)                                                                                       | Easy       | HashSet            |
@@ -122,7 +122,7 @@
 |                    | 703    |          | [kth-largest-element-in-a-stream](./kth-largest-element-in-a-stream)                                                     | Easy       |                    |
 |                    | 704    |          | [binary-search](./binary-search)                                                                                         | Easy       |                    |
 |                    | 778    |          | [swim-in-rising-water](./swim-in-rising-water)                                                                           | Hard       |                    |
-|                    | 286    |          | [walls-and-gates](./walls-and-gates)                                                                                     | Medium     |                    |
+| :moneybag:         | 286    |          | [walls-and-gates](./walls-and-gates)                                                                                     | Medium     |                    |
 |                    | 287    |          | [find-the-duplicate-number](./find-the-duplicate-number)                                                                 | Medium     |                    |
 |                    | 787    |          | [cheapest-flights-within-k-stops](./cheapest-flights-within-k-stops)                                                     | Medium     |                    |
 |                    | 295    |          | [find-median-from-data-stream](./find-median-from-data-stream)                                                           | Hard       |                    |
