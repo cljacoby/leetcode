@@ -29,7 +29,7 @@
 |                    | 45     |          | [jump-game-ii](./jump-game-ii)                                                                                           | Medium     |                    |
 |                    | 46     |          | [permutations](./permutations)                                                                                           | Medium     |                    |
 |                    | 48     |          | [rotate-image](./rotate-image)                                                                                           | Medium     |                    |
-|                    | 49     |          | [group-anagrams](./group-anagrams)                                                                                       | Medium     |                    |
+| :white_check_mark: | 49     | Rust     | [group-anagrams](./group-anagrams)                                                                                       | Medium     | HashMap            |
 |                    | 50     |          | [powx-n](./powx-n)                                                                                                       | Medium     |                    |
 |                    | 51     |          | [n-queens](./n-queens)                                                                                                   | Hard       |                    |
 | :white_check_mark: | 53     | Rust     | [maximum-subarray](./maximum-subarray)                                                                                   | Medium     | DynamicProgramming |
