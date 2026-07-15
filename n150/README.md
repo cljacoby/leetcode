@@ -21,7 +21,7 @@
 | :white_check_mark: | 25     | Python   | [reverse-nodes-in-k-group](./reverse-nodes-in-k-group)                                                                   | Hard       | LinkedList         |
 | :white_check_mark: | 543    | Python   | [diameter-of-binary-tree](./diameter-of-binary-tree)                                                                     | Easy       | Tree               |
 |                    | 33     |          | [search-in-rotated-sorted-array](./search-in-rotated-sorted-array)                                                       | Medium     |                    |
-|                    | 36     |          | [valid-sudoku](./valid-sudoku)                                                                                           | Medium     |                    |
+| :white_check_mark: | 36     | Rust     | [valid-sudoku](./valid-sudoku)                                                                                           | Medium     | HashSet            |
 |                    | 39     |          | [combination-sum](./combination-sum)                                                                                     | Medium     |                    |
 |                    | 40     |          | [combination-sum-ii](./combination-sum-ii)                                                                               | Medium     |                    |
 |                    | 42     |          | [trapping-rain-water](./trapping-rain-water)                                                                             | Hard       |                    |
