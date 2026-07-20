@@ -53,7 +53,7 @@
 |                    | 91     |          | [decode-ways](./decode-ways)                                                                                             | Medium     |                    |
 |                    | 2013   |          | [detect-squares](./detect-squares)                                                                                       | Medium     |                    |
 |                    | 97     |          | [interleaving-string](./interleaving-string)                                                                             | Medium     |                    |
-|                    | 98     |          | [validate-binary-search-tree](./validate-binary-search-tree)                                                             | Medium     |                    |
+| :white_check_mark: | 98     | Python   | [validate-binary-search-tree](./validate-binary-search-tree)                                                             | Medium     | Tree               |
 | :white_check_mark: | 100    | Python   | [same-tree](./same-tree)                                                                                                 | Easy       | Tree               |
 | :white_check_mark: | 102    | Python   | [binary-tree-level-order-traversal](./binary-tree-level-order-traversal)                                                 | Medium     | Tree               |
 |                    | 1046   |          | [last-stone-weight](./last-stone-weight)                                                                                 | Easy       |                    |
