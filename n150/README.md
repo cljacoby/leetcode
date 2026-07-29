@@ -38,7 +38,7 @@
 | :white_check_mark: | 56     | Rust     | [merge-intervals](./merge-intervals)                                                                                     | Medium     | Interval           |
 | :white_check_mark: | 57     | Rust     | [insert-interval](./insert-interval)                                                                                     | Medium     | Interval           |
 |                    | 567    |          | [permutation-in-string](./permutation-in-string)                                                                         | Medium     |                    |
-|                    | 572    |          | [subtree-of-another-tree](./subtree-of-another-tree)                                                                     | Easy       |                    |
+| :white_check_mark: | 572    | Rust     | [subtree-of-another-tree](./subtree-of-another-tree)                                                                     | Easy       | Tree               |
 |                    | 62     |          | [unique-paths](./unique-paths)                                                                                           | Medium     |                    |
 |                    | 66     |          | [plus-one](./plus-one)                                                                                                   | Easy       |                    |
 |                    | 70     |          | [climbing-stairs](./climbing-stairs)                                                                                     | Easy       |                    |
