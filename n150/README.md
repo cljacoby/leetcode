@@ -60,7 +60,7 @@
 | :white_check_mark: | 104    | Python   | [maximum-depth-of-binary-tree](./maximum-depth-of-binary-tree)                                                           | Easy       | Tree               |
 |                    | 105    |          | [construct-binary-tree-from-preorder-and-inorder-traversal](./construct-binary-tree-from-preorder-and-inorder-traversal) | Medium     |                    |
 |                    | 621    |          | [task-scheduler](./task-scheduler)                                                                                       | Medium     |                    |
-|                    | 110    |          | [balanced-binary-tree](./balanced-binary-tree)                                                                           | Easy       |                    |
+| :white_check_mark: | 110    | Python   | [balanced-binary-tree](./balanced-binary-tree)                                                                           | Easy       | Tree               |
 |                    | 115    |          | [distinct-subsequences](./distinct-subsequences)                                                                         | Hard       |                    |
 |                    | 121    |          | [best-time-to-buy-and-sell-stock](./best-time-to-buy-and-sell-stock)                                                     | Easy       |                    |
 |                    | 124    |          | [binary-tree-maximum-path-sum](./binary-tree-maximum-path-sum)                                                           | Hard       |                    |
@@ -82,7 +82,7 @@
 |                    | 152    |          | [maximum-product-subarray](./maximum-product-subarray)                                                                   | Medium     |                    |
 |                    | 153    |          | [find-minimum-in-rotated-sorted-array](./find-minimum-in-rotated-sorted-array)                                           | Medium     |                    |
 | :white_check_mark: | 155    | Rust     | [min-stack](./min-stack)                                                                                                 | Medium     |                    |
-|                    | 678    |          | [valid-parenthesis-string](./valid-parenthesis-string)                                                                   | Medium     |                    |
+| :white_check_mark: | 678    | Python   | [valid-parenthesis-string](./valid-parenthesis-string)                                                                   | Medium     | Stack              |
 |                    | 167    |          | [two-sum-ii-input-array-is-sorted](./two-sum-ii-input-array-is-sorted)                                                   | Medium     |                    |
 |                    | 1584   |          | [min-cost-to-connect-all-points](./min-cost-to-connect-all-points)                                                       | Medium     |                    |
 |                    | 684    |          | [redundant-connection](./redundant-connection)                                                                           | Medium     |                    |
