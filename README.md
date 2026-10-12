@@ -238,3 +238,4 @@
 | :white_check_mark: | 110    | Rust        | [balanced-binary-tree](src/balanced-binary-tree)                                                                           | Easy       | Tree                |
 | :white_check_mark: | 64     | Rust,Python | [minimum-path-sum](src/minimum-path-sum)                                                                                   | Medium     | Dynamic Programming |
 | :white_check_mark: | 22     | Rust,Python | [generate-parentheses](src/generate-parentheses)                                                                           | Medium     | Array               |
+| :white_check_mark: | 856    | Python      | [score-of-parentheses](src/score-of-parentheses)                                                                           | Medium     | Stack               |
