@@ -40,7 +40,7 @@
 |                    | 567    |          | [permutation-in-string](./permutation-in-string)                                                                         | Medium     |                    |
 | :white_check_mark: | 572    | Rust     | [subtree-of-another-tree](./subtree-of-another-tree)                                                                     | Easy       | Tree               |
 |                    | 62     |          | [unique-paths](./unique-paths)                                                                                           | Medium     |                    |
-|                    | 66     |          | [plus-one](./plus-one)                                                                                                   | Easy       |                    |
+| :white_check_mark: | 66     | Python   | [plus-one](./plus-one)                                                                                                   | Easy       | Array              |
 |                    | 70     |          | [climbing-stairs](./climbing-stairs)                                                                                     | Easy       |                    |
 |                    | 72     |          | [edit-distance](./edit-distance)                                                                                         | Medium     |                    |
 |                    | 73     |          | [set-matrix-zeroes](./set-matrix-zeroes)                                                                                 | Medium     |                    |
