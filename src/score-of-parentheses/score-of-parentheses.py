@@ -4,7 +4,7 @@
 Key Insight:
     - The problem clicked when I realized you need to initialize the
       stack with a baseline entry. Then when you finish iterating over
-      the characters, the stack should have a final length of zero,
+      the characters, the stack should have a final length of one,
       and the value is the answer
     - Before I was trying to use a `curr` variable to track intermediate
       values when inner parentheses pairs were completed. However the
