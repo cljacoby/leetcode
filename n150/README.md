@@ -47,7 +47,7 @@
 |                    | 74     |          | [search-a-2d-matrix](./search-a-2d-matrix)                                                                               | Medium     |                    |
 |                    | 76     |          | [minimum-window-substring](./minimum-window-substring)                                                                   | Hard       |                    |
 |                    | 78     |          | [subsets](./subsets)                                                                                                     | Medium     |                    |
-|                    | 79     |          | [word-search](./word-search)                                                                                             | Medium     |                    |
+| :white_check_mark: | 79     | Python   | [word-search](./word-search)                                                                                             | Medium     | DFS                |
 |                    | 84     |          | [largest-rectangle-in-histogram](./largest-rectangle-in-histogram)                                                       | Hard       |                    |
 |                    | 90     |          | [subsets-ii](./subsets-ii)                                                                                               | Medium     |                    |
 |                    | 91     |          | [decode-ways](./decode-ways)                                                                                             | Medium     |                    |
