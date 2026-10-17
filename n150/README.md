@@ -84,7 +84,7 @@
 | :white_check_mark: | 155    | Rust     | [min-stack](./min-stack)                                                                                                 | Medium     |                    |
 | :white_check_mark: | 678    | Python   | [valid-parenthesis-string](./valid-parenthesis-string)                                                                   | Medium     | Stack              |
 |                    | 167    |          | [two-sum-ii-input-array-is-sorted](./two-sum-ii-input-array-is-sorted)                                                   | Medium     |                    |
-|                    | 1584   |          | [min-cost-to-connect-all-points](./min-cost-to-connect-all-points)                                                       | Medium     |                    |
+| :white_check_mark: | 1584   | Python   | [min-cost-to-connect-all-points](./min-cost-to-connect-all-points)                                                       | Medium     | Tree               |
 |                    | 684    |          | [redundant-connection](./redundant-connection)                                                                           | Medium     |                    |
 | :white_check_mark: | 695    | Rust     | [max-area-of-island](./max-area-of-island)                                                                               | Medium     | BFS                |
 | :white_check_mark: | 190    | Rust     | [reverse-bits](./reverse-bits)                                                                                           | Easy       |                    |
