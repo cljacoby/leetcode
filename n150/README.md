@@ -118,12 +118,12 @@
 | :moneybag:         | 261    |          | [graph-valid-tree](./graph-valid-tree)                                                                                   | Medium     |                    |
 | :white_check_mark: | 268    | Rust     | [missing-number](./missing-number)                                                                                       | Easy       | HashSet            |
 |                    | 269    |          | [alien-dictionary](./alien-dictionary)                                                                                   | Hard       |                    |
-|                    | 271    |          | [encode-and-decode-strings](./encode-and-decode-strings)                                                                 | Medium     |                    |
+| :white_check_mark: | 271    |          | [encode-and-decode-strings](./encode-and-decode-strings)                                                                 | Medium     |                    |
 |                    | 703    |          | [kth-largest-element-in-a-stream](./kth-largest-element-in-a-stream)                                                     | Easy       |                    |
-|                    | 704    |          | [binary-search](./binary-search)                                                                                         | Easy       |                    |
+| :white_check_mark: | 704    | Python   | [binary-search](./binary-search)                                                                                         | Easy       | Binary Search      |
 |                    | 778    |          | [swim-in-rising-water](./swim-in-rising-water)                                                                           | Hard       |                    |
 | :moneybag:         | 286    |          | [walls-and-gates](./walls-and-gates)                                                                                     | Medium     |                    |
-|                    | 287    |          | [find-the-duplicate-number](./find-the-duplicate-number)                                                                 | Medium     |                    |
+| :moneybag:         | 287    |          | [find-the-duplicate-number](./find-the-duplicate-number)                                                                 | Medium     |                    |
 |                    | 787    |          | [cheapest-flights-within-k-stops](./cheapest-flights-within-k-stops)                                                     | Medium     |                    |
 |                    | 295    |          | [find-median-from-data-stream](./find-median-from-data-stream)                                                           | Hard       |                    |
 | :white_check_mark: | 297    | Python   | [serialize-and-deserialize-binary-tree](./serialize-and-deserialize-binary-tree)                                         | Hard       | Tree               |
