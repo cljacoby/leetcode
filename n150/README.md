@@ -107,7 +107,7 @@
 |                    | 1143   |          | [longest-common-subsequence](./longest-common-subsequence)                                                               | Medium     |                    |
 |                    | 230    |          | [kth-smallest-element-in-a-bst](./kth-smallest-element-in-a-bst)                                                         | Medium     |                    |
 |                    | 743    |          | [network-delay-time](./network-delay-time)                                                                               | Medium     |                    |
-|                    | 235    |          | [lowest-common-ancestor-of-a-binary-search-tree](./lowest-common-ancestor-of-a-binary-search-tree)                       | Medium     |                    |
+| :white_check_mark: | 235    | Python   | [lowest-common-ancestor-of-a-binary-search-tree](./lowest-common-ancestor-of-a-binary-search-tree)                       | Medium     | Tree               |
 |                    | 746    |          | [min-cost-climbing-stairs](./min-cost-climbing-stairs)                                                                   | Easy       |                    |
 |                    | 238    |          | [product-of-array-except-self](./product-of-array-except-self)                                                           | Medium     |                    |
 | :white_check_mark: | 239    | Rust     | [sliding-window-maximum](./sliding-window-maximum)                                                                       | Hard       | PriorityQueue      |
