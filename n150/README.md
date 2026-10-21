@@ -28,7 +28,7 @@
 |                    | 43     |          | [multiply-strings](./multiply-strings)                                                                                   | Medium     |                    |
 |                    | 45     |          | [jump-game-ii](./jump-game-ii)                                                                                           | Medium     |                    |
 |                    | 46     |          | [permutations](./permutations)                                                                                           | Medium     |                    |
-|                    | 48     |          | [rotate-image](./rotate-image)                                                                                           | Medium     |                    |
+| :white_check_mark: | 48     | Python   | [rotate-image](./rotate-image)                                                                                           | Medium     | Array              |
 | :white_check_mark: | 49     | Rust     | [group-anagrams](./group-anagrams)                                                                                       | Medium     | HashMap            |
 |                    | 50     |          | [powx-n](./powx-n)                                                                                                       | Medium     |                    |
 |                    | 51     |          | [n-queens](./n-queens)                                                                                                   | Hard       |                    |
