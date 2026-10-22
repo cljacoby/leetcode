@@ -69,7 +69,7 @@
 | :white_check_mark: | 128    | Rust     | [longest-consecutive-sequence](./longest-consecutive-sequence)                                                           | Medium     | HashSet            |
 |                    | 130    |          | [surrounded-regions](./surrounded-regions)                                                                               | Medium     |                    |
 |                    | 131    |          | [palindrome-partitioning](./palindrome-partitioning)                                                                     | Medium     |                    |
-|                    | 133    |          | [clone-graph](./clone-graph)                                                                                             | Medium     |                    |
+| :white_check_mark: | 133    | Python   | [clone-graph](./clone-graph)                                                                                             | Medium     | Graph              |
 |                    | 134    |          | [gas-station](./gas-station)                                                                                             | Medium     |                    |
 |                    | 647    |          | [palindromic-substrings](./palindromic-substrings)                                                                       | Medium     |                    |
 |                    | 136    |          | [single-number](./single-number)                                                                                         | Easy       |                    |
