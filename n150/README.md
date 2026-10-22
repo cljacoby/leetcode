@@ -64,7 +64,7 @@
 |                    | 115    |          | [distinct-subsequences](./distinct-subsequences)                                                                         | Hard       |                    |
 |                    | 121    |          | [best-time-to-buy-and-sell-stock](./best-time-to-buy-and-sell-stock)                                                     | Easy       |                    |
 |                    | 124    |          | [binary-tree-maximum-path-sum](./binary-tree-maximum-path-sum)                                                           | Hard       |                    |
-|                    | 125    |          | [valid-palindrome](./valid-palindrome)                                                                                   | Easy       |                    |
+| :white_check_mark: | 125    | Python   | [valid-palindrome](./valid-palindrome)                                                                                   | Easy       | String             |
 |                    | 127    |          | [word-ladder](./word-ladder)                                                                                             | Hard       |                    |
 | :white_check_mark: | 128    | Rust     | [longest-consecutive-sequence](./longest-consecutive-sequence)                                                           | Medium     | HashSet            |
 |                    | 130    |          | [surrounded-regions](./surrounded-regions)                                                                               | Medium     |                    |
