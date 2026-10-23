@@ -142,7 +142,7 @@
 |                    | 853    |          | [car-fleet](./car-fleet)                                                                                                 | Medium     |                    |
 |                    | 875    |          | [koko-eating-bananas](./koko-eating-bananas)                                                                             | Medium     |                    |
 |                    | 416    |          | [partition-equal-subset-sum](./partition-equal-subset-sum)                                                               | Medium     |                    |
-|                    | 417    |          | [pacific-atlantic-water-flow](./pacific-atlantic-water-flow)                                                             | Medium     |                    |
+| :white_check_mark: | 417    | Python   | [pacific-atlantic-water-flow](./pacific-atlantic-water-flow)                                                             | Medium     | DFS                |
 |                    | 424    |          | [longest-repeating-character-replacement](./longest-repeating-character-replacement)                                     | Medium     |                    |
 |                    | 435    |          | [non-overlapping-intervals](./non-overlapping-intervals)                                                                 | Medium     |                    |
 |                    | 1851   |          | [minimum-interval-to-include-each-query](./minimum-interval-to-include-each-query)                                       | Hard       |                    |
