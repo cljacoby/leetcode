@@ -22,8 +22,8 @@
 | :white_check_mark: | 543    | Python   | [diameter-of-binary-tree](./diameter-of-binary-tree)                                                                     | Easy       | Tree               |
 | :white_check_mark: | 33     | Python   | [search-in-rotated-sorted-array](./search-in-rotated-sorted-array)                                                       | Medium     | Binary Search      |
 | :white_check_mark: | 36     | Rust     | [valid-sudoku](./valid-sudoku)                                                                                           | Medium     | HashSet            |
-| :white_check_mark: | 39     | Python   | [combination-sum](./combination-sum)                                                                                     | Medium     | Permu/Combo              |
-|                    | 40     |          | [combination-sum-ii](./combination-sum-ii)                                                                               | Medium     |                    |
+| :white_check_mark: | 39     | Python   | [combination-sum](./combination-sum)                                                                                     | Medium     | Permu/Combo        |
+| :white_check_mark: | 40     | Python   | [combination-sum-ii](./combination-sum-ii)                                                                               | Medium     | Permu/Combo        |
 |                    | 42     |          | [trapping-rain-water](./trapping-rain-water)                                                                             | Hard       |                    |
 |                    | 43     |          | [multiply-strings](./multiply-strings)                                                                                   | Medium     |                    |
 |                    | 45     |          | [jump-game-ii](./jump-game-ii)                                                                                           | Medium     |                    |
