@@ -27,7 +27,7 @@
 |                    | 42     |          | [trapping-rain-water](./trapping-rain-water)                                                                             | Hard       |                    |
 |                    | 43     |          | [multiply-strings](./multiply-strings)                                                                                   | Medium     |                    |
 |                    | 45     |          | [jump-game-ii](./jump-game-ii)                                                                                           | Medium     |                    |
-|                    | 46     |          | [permutations](./permutations)                                                                                           | Medium     |                    |
+| :white_check_mark: | 46     | Python   | [permutations](./permutations)                                                                                           | Medium     | Permu/Combo        |
 | :white_check_mark: | 48     | Python   | [rotate-image](./rotate-image)                                                                                           | Medium     | Array              |
 | :white_check_mark: | 49     | Rust     | [group-anagrams](./group-anagrams)                                                                                       | Medium     | HashMap            |
 |                    | 50     |          | [powx-n](./powx-n)                                                                                                       | Medium     |                    |
