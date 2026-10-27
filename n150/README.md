@@ -88,7 +88,7 @@
 |                    | 684    |          | [redundant-connection](./redundant-connection)                                                                           | Medium     |                    |
 | :white_check_mark: | 695    | Rust     | [max-area-of-island](./max-area-of-island)                                                                               | Medium     | BFS                |
 | :white_check_mark: | 190    | Rust     | [reverse-bits](./reverse-bits)                                                                                           | Easy       |                    |
-|                    | 191    |          | [number-of-1-bits](./number-of-1-bits)                                                                                   | Easy       |                    |
+| :white_check_mark: | 191    | Rust | [number-of-1-bits](./number-of-1-bits)                                                                                       | Easy       | Bits               |
 |                    | 198    |          | [house-robber](./house-robber)                                                                                           | Medium     |                    |
 |                    | 199    |          | [binary-tree-right-side-view](./binary-tree-right-side-view)                                                             | Medium     |                    |
 | :white_check_mark: | 200    | Rust     | [number-of-islands](./number-of-islands)                                                                                 | Medium     | BFS                |
